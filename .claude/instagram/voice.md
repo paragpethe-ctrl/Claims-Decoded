@@ -19,6 +19,10 @@ not a draft, it is a retake.
 - **Goal:** Grow to 1 lakh (100,000) followers. This is a goal, not a result.
   Never present it as proof.
 - **Audience language:** Indian English. Use lakh and crore, and ₹ for money.
+- **Script language:** English or Hindi, one language per script, never mixed
+  within a reel. Ask which one before writing a script. Hindi scripts go in
+  Devanagari, with simple everyday Hindi rather than formal or Sanskritised
+  words; keep common technical terms (MCB, short circuit, wiring) in English.
 
 ## What I sound like
 
@@ -45,7 +49,7 @@ not a draft, it is a retake.
 - **Words I actually use:** (add as you notice them)
 - **Words I would never say out loud:** (add as you notice them)
 - **Do I swear:** (not specified)
-- **Emoji in captions:** (not specified)
+- **Emoji in captions:** Yes. Relevant ones (🔥 ⚡ 🧯 ⚠️ ✅), not as filler.
 - **Face on camera:** Always. I talk to camera.
 - **Voiceover or to-camera:** To-camera.
 - **Pace:** (not timed yet; use the default)
@@ -73,6 +77,10 @@ not a draft, it is a retake.
 The core belief behind the account: we are all surrounded by fire causes every
 day, and most people never notice them. Awareness of those causes is the first
 step to prevention.
+
+What every script does: take one occupancy, explain how fires start there,
+and give a few practical preventions. The payoff is that prevention saves you
+from ever needing to make a fire insurance claim.
 
 1. We are surrounded by everyday fire hazards in every type of occupancy,
    and most of them go unnoticed until there is a loss.
