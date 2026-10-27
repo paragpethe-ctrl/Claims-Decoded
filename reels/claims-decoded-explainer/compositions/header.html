@@ -1,0 +1,53 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    .hdr {
+      position: absolute;
+      left: 66px;
+      top: 182px;
+      padding: 14px 24px 16px;
+      color: var(--color-ink);
+      background: var(--color-ground);
+    }
+    .hdr-name {
+      font-family: "Oswald", sans-serif;
+      font-weight: 600;
+      font-size: 46px;
+      letter-spacing: 0.06em;
+      line-height: 1.1;
+    }
+    .hdr-sub {
+      margin-top: 4px;
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-size: 32px;
+      opacity: 0.78;
+    }
+    .hdr-rule {
+      margin-top: 14px;
+      width: 120px;
+      height: 5px;
+      background: var(--color-accent);
+    }
+  </style>
+  <div id="root" data-composition-id="header" data-width="1080" data-height="1920">
+    <div id="hdr-block" class="hdr">
+      <div class="hdr-name">FIRE CLAIMS DECODED</div>
+      <div class="hdr-sub">What this series is about &gt;&gt;&gt;</div>
+      <div class="hdr-rule"></div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      // on screen from frame 0; leaves with the street scene so the end card can carry the name
+      tl.set("#hdr-block", { opacity: 1, filter: "blur(0px)" }, 0);
+      tl.to("#hdr-block", { opacity: 0, filter: "blur(8px)", duration: 0.2, ease: "power2.in" }, 27.3);
+      window.__timelines["header"] = tl;
+    })();
+  </script>
+</template>

@@ -1,0 +1,168 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: var(--color-ground);
+    }
+    .grid {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(242, 247, 252, 0.14) 2px, transparent 2px),
+        linear-gradient(90deg, rgba(242, 247, 252, 0.14) 2px, transparent 2px),
+        linear-gradient(rgba(242, 247, 252, 0.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(242, 247, 252, 0.07) 1px, transparent 1px);
+      background-size: 300px 300px, 300px 300px, 60px 60px, 60px 60px;
+      background-position: -30px -60px;
+    }
+    .cam {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1080px;
+      height: 1920px;
+      transform-origin: 0 0;
+    }
+    .cam svg {
+      position: absolute;
+      left: 0;
+      top: 0;
+      overflow: visible;
+    }
+    .ink {
+      fill: none;
+      stroke: var(--color-ink);
+      stroke-width: 5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .hidden-line {
+      fill: none;
+      stroke: var(--color-ink);
+      stroke-width: 4;
+      stroke-dasharray: 18 12;
+      stroke-linecap: round;
+      opacity: 0.85;
+    }
+    .hot {
+      fill: none;
+      stroke: var(--color-accent);
+      stroke-width: 6;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .copy {
+      position: absolute;
+      left: 66px;
+      max-width: 948px;
+      padding: 14px 24px 18px;
+      color: var(--color-ink);
+      background: var(--color-ground);
+    }
+    .label {
+      top: 386px;
+    }
+    .cause {
+      font-family: "Oswald", sans-serif;
+      font-weight: 700;
+      font-size: 120px;
+      line-height: 1.02;
+      color: var(--color-accent);
+    }
+    .fix {
+      margin-top: 22px;
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-size: 50px;
+      line-height: 1.2;
+    }
+    .w {
+      display: inline-block;
+    }
+
+  </style>
+  <div id="root" data-composition-id="s4" data-width="1080" data-height="1920">
+    <div class="grid"></div>
+    <div id="s4-cam" class="cam" data-layout-allow-overflow>
+      <svg width="1080" height="1920" viewBox="0 0 1080 1920">
+        <!-- rolled-up shutter and shop opening -->
+        <rect class="ink" x="60" y="700" width="960" height="70" style="fill: var(--color-inside)" />
+        <line class="ink" x1="60" y1="724" x2="1020" y2="724" style="stroke-width: 3" />
+        <line class="ink" x1="60" y1="748" x2="1020" y2="748" style="stroke-width: 3" />
+        <rect class="ink" x="60" y="770" width="960" height="950" />
+        <line class="ink" x1="100" y1="1010" x2="980" y2="1010" />
+        <line class="ink" x1="100" y1="1190" x2="980" y2="1190" />
+        <line class="ink" x1="100" y1="1370" x2="980" y2="1370" />
+        <line class="ink" x1="100" y1="1550" x2="980" y2="1550" />
+        <rect class="ink" x="112" y="1094" width="118" height="96" style="stroke-width: 4" />
+        <rect class="ink" x="240" y="1070" width="96" height="120" style="stroke-width: 4" />
+        <rect class="ink" x="346" y="1106" width="130" height="84" style="stroke-width: 4" />
+        <rect class="ink" x="486" y="1080" width="104" height="110" style="stroke-width: 4" />
+        <rect class="ink" x="600" y="1090" width="120" height="100" style="stroke-width: 4" />
+        <rect class="ink" x="730" y="1064" width="98" height="126" style="stroke-width: 4" />
+        <rect class="ink" x="838" y="1100" width="126" height="90" style="stroke-width: 4" />
+        <rect class="ink" x="129" y="1286" width="96" height="84" style="stroke-width: 4" />
+        <rect class="ink" x="235" y="1260" width="130" height="110" style="stroke-width: 4" />
+        <rect class="ink" x="375" y="1270" width="104" height="100" style="stroke-width: 4" />
+        <rect class="ink" x="489" y="1244" width="120" height="126" style="stroke-width: 4" />
+        <rect class="ink" x="619" y="1280" width="98" height="90" style="stroke-width: 4" />
+        <rect class="ink" x="727" y="1274" width="126" height="96" style="stroke-width: 4" />
+        <rect class="ink" x="146" y="1450" width="130" height="100" style="stroke-width: 4" />
+        <rect class="ink" x="286" y="1424" width="104" height="126" style="stroke-width: 4" />
+        <rect class="ink" x="400" y="1460" width="120" height="90" style="stroke-width: 4" />
+        <rect class="ink" x="530" y="1454" width="98" height="96" style="stroke-width: 4" />
+        <rect class="ink" x="638" y="1430" width="126" height="120" style="stroke-width: 4" />
+        <rect class="ink" x="774" y="1466" width="118" height="84" style="stroke-width: 4" />
+        <rect class="ink" x="112" y="890" width="110" height="120" style="stroke-width: 4" />
+        <rect class="ink" x="232" y="914" width="120" height="96" style="stroke-width: 4" />
+        <rect class="ink" x="362" y="882" width="104" height="128" style="stroke-width: 4" />
+        <rect class="ink" x="480" y="910" width="120" height="100" style="stroke-width: 4" />
+        <rect class="ink" x="610" y="892" width="100" height="118" style="stroke-width: 4" />
+        <rect class="ink" x="720" y="918" width="126" height="92" style="stroke-width: 4" />
+        <rect class="ink" x="856" y="890" width="110" height="120" style="stroke-width: 4" />
+        <rect class="hot" x="150" y="804" width="116" height="86" style="fill: var(--color-ground)" />
+        <rect class="hot" x="300" y="790" width="104" height="92" style="fill: var(--color-ground)" />
+        <rect id="s4-target" class="hot" x="480" y="810" width="120" height="100" style="fill: var(--color-ground)" />
+        <rect class="hot" x="640" y="812" width="110" height="80" style="fill: var(--color-ground)" />
+        <rect class="hot" x="800" y="800" width="120" height="90" style="fill: var(--color-ground)" />
+        <rect class="hot" x="140" y="1602" width="150" height="110" style="fill: var(--color-ground)" />
+        <rect class="hot" x="300" y="1572" width="130" height="140" style="fill: var(--color-ground)" />
+        <rect class="hot" x="680" y="1592" width="160" height="120" style="fill: var(--color-ground)" />
+        <rect class="hot" x="850" y="1616" width="120" height="96" style="fill: var(--color-ground)" />
+        <!-- the permissible stock limit -->
+        <line class="hidden-line" x1="80" y1="890" x2="1000" y2="890" style="stroke-width: 5" />
+        <rect x="96" y="836" width="300" height="44" style="fill: var(--color-ground)" />
+        <text x="104" y="870" style="fill: var(--color-ink); font-family: Roboto, sans-serif; font-weight: 500; font-size: 30px; letter-spacing: 1px">PERMISSIBLE LIMIT</text>
+      </svg>
+    </div>
+    <div id="s4-label" class="copy label">
+      <div class="cause"><span class="w">OVERSTOCKING</span></div>
+      <div class="fix"><span class="w">Fix:</span> <span class="w">stock</span> <span class="w">within</span><br /><span class="w">permissible</span> <span class="w">limits</span></div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const tBox = document.querySelector("#s4-target");
+      const bx = +tBox.getAttribute("x") + +tBox.getAttribute("width") / 2;
+      const by = +tBox.getAttribute("y") + +tBox.getAttribute("height") / 2;
+      const box = { scale: 3, x: 540 - 3 * bx, y: 1110 - 3 * by };
+      const wide = { scale: 1, x: 0, y: 0 };
+      const out = { scale: 0.42, x: 540 - 0.42 * 540, y: 1240 - 0.42 * 1240 };
+      tl.set("#s4-cam", { ...box, filter: "blur(12px)" }, 0);
+      tl.fromTo("#s4-cam", { ...box, filter: "blur(12px)" }, { ...wide, filter: "blur(0px)", duration: 0.85, ease: "expo.out" }, 0);
+      gsap.set("#s4-label", { opacity: 0 });
+      tl.fromTo("#s4-label", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "none" }, 1.28);
+      tl.to("#s4-label", { opacity: 0, duration: 0.1, ease: "none" }, 4.86);
+      gsap.set("#s4-label .cause .w", { opacity: 0 });
+      tl.fromTo("#s4-label .cause .w", { opacity: 0, filter: "blur(6px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.13, stagger: 0.07, ease: "power4.out" }, 1.3);
+      tl.fromTo("#s4-label .fix", { opacity: 0 }, { opacity: 1, duration: 0.15, ease: "power2.out" }, 1.60);
+      tl.fromTo("#s4-label .fix .w", { color: "#8FAFCF" }, { color: "#F2F7FC", duration: 0.12, stagger: 0.08, ease: "power2.out" }, 1.70);
+      tl.to("#s4-label .w", { opacity: 0, filter: "blur(8px)", duration: 0.18, stagger: 0.015, ease: "power2.in" }, 4.7);
+      tl.to("#s4-cam", { ...out, filter: "blur(10px)", duration: 0.35, ease: "power3.in" }, 4.85);
+      window.__timelines["s4"] = tl;
+    })();
+  </script>
+</template>

@@ -1,0 +1,95 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: var(--color-ground);
+    }
+    .grid {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(242, 247, 252, 0.14) 2px, transparent 2px),
+        linear-gradient(90deg, rgba(242, 247, 252, 0.14) 2px, transparent 2px),
+        linear-gradient(rgba(242, 247, 252, 0.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(242, 247, 252, 0.07) 1px, transparent 1px);
+      background-size: 300px 300px, 300px 300px, 60px 60px, 60px 60px;
+      background-position: -30px -60px;
+    }
+    .end {
+      position: absolute;
+      left: 66px;
+      top: 560px;
+      padding: 18px 24px 24px;
+      background: var(--color-ground);
+      color: var(--color-ink);
+    }
+    .mark {
+      font-family: "Oswald", sans-serif;
+      font-weight: 700;
+      font-size: 160px;
+      line-height: 1;
+    }
+    .mark-b {
+      color: var(--color-accent);
+    }
+    .rule {
+      margin-top: 22px;
+      width: 420px;
+      height: 8px;
+      background: var(--color-accent);
+    }
+    .sub {
+      margin-top: 40px;
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-size: 54px;
+      line-height: 1.22;
+    }
+    .handle {
+      margin-top: 56px;
+      font-family: "Oswald", sans-serif;
+      font-weight: 600;
+      font-size: 66px;
+    }
+    .cta {
+      margin-top: 10px;
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-size: 48px;
+      opacity: 0.9;
+    }
+    .w {
+      display: inline-block;
+    }
+  </style>
+  <div id="root" data-composition-id="s6" data-width="1080" data-height="1920">
+    <div class="grid"></div>
+    <div id="s6-end" class="end">
+      <div id="s6-mark-a" class="mark">FIRE CLAIMS</div>
+      <div id="s6-mark-b" class="mark mark-b">DECODED</div>
+      <div id="s6-rule" class="rule"></div>
+      <div id="s6-sub" class="sub">
+        <span class="w">How</span> <span class="w">fires</span> <span class="w">start.</span><br />
+        <span class="w">How</span> <span class="w">to</span> <span class="w">prevent</span> <span class="w">them.</span>
+      </div>
+      <div id="s6-handle" class="handle" data-var-text="handle">@parag_pethe1</div>
+      <div id="s6-cta" class="cta">Like &nbsp;·&nbsp; Follow &nbsp;·&nbsp; Comment</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      // the name is drawn on like a plotter pass: a hard left-to-right wipe
+      tl.fromTo("#s6-mark-a", { clipPath: "inset(0% 100% 0% 0%)" }, { clipPath: "inset(0% 0% 0% 0%)", duration: 0.45, ease: "power3.out" }, 0.02);
+      tl.fromTo("#s6-mark-b", { clipPath: "inset(0% 100% 0% 0%)" }, { clipPath: "inset(0% 0% 0% 0%)", duration: 0.45, ease: "power3.out" }, 0.2);
+      tl.fromTo("#s6-rule", { scaleX: 0, transformOrigin: "0% 50%" }, { scaleX: 1, duration: 0.5, ease: "expo.out" }, 0.45);
+      gsap.set("#s6-sub .w", { opacity: 0 });
+      tl.fromTo("#s6-sub .w", { opacity: 0, filter: "blur(6px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.13, stagger: 0.067, ease: "power4.out" }, 0.85);
+      tl.fromTo("#s6-handle", { opacity: 0, filter: "blur(8px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.18, ease: "power4.out" }, 1.35);
+      tl.fromTo("#s6-cta", { opacity: 0 }, { opacity: 0.9, duration: 0.2, ease: "power2.out" }, 1.6);
+      window.__timelines["s6"] = tl;
+    })();
+  </script>
+</template>
