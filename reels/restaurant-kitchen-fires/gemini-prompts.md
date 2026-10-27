@@ -80,10 +80,10 @@ calmly slides a heavy metal lid over it and the flame goes out. Nobody uses
 water.
 
 Shot 3 (6 to 10 seconds): the presenter stands in the clean kitchen next to a
-red fire extinguisher mounted on the wall, faces the camera, smiles and
-points up toward the exhaust hood on the last line. Throughout the clip he
-speaks in Hindi, loudly but calmly:
-"LPG पाइप हर महीने चेक कीजिए। कढ़ाई में आग? पानी नहीं, ढक्कन रखिए। K-type एक्सटिंग्विशर पास रखिए। सेव कीजिए, और कल पहले चिमनी देखिए।"
+red fire extinguisher mounted on the wall, faces the camera, smiles warmly
+and gives a thumbs up on the last line. Throughout the clip he speaks in
+Hindi, loudly but calmly:
+"LPG पाइप हर महीने चेक कीजिए। कढ़ाई में आग? पानी नहीं, ढक्कन रखिए। K-type एक्सटिंग्विशर पास रखिए। Fire insurance insights के लिए like, share, comment कीजिए।"
 
 Audio: his voice, clear, over quiet kitchen sounds.
 
@@ -107,8 +107,8 @@ No on-screen text, no subtitles, no logos, no watermarks.
    | 0:18 | डक्ट सफ़ाई: हर 3 महीने |
    | 0:20 | LPG पाइप: हर महीने |
    | 0:23 | पानी नहीं, ढक्कन ✅ |
-   | 0:26 | K-type एक्सटिंग्विशर 🧯 |
-   | 0:28 | सेव करें 📌 |
+   | 0:24 | K-type एक्सटिंग्विशर 🧯 |
+   | 0:26 | Like 👍 Share 🔁 Comment 💬 |
 
 3. Add auto captions in Hindi and check the spelling.
 4. Paste the caption from `/ig-caption` when you post.
