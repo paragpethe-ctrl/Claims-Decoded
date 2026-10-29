@@ -1,12 +1,12 @@
 """Trailer score for the Fire Claims Decoded series video, synthesised to the cue sheet.
-120 BPM, D minor, 31.5 s. Writes a stereo 48 kHz WAV."""
+120 BPM, D minor, 27.5 s (cut v2). Writes a stereo 48 kHz WAV."""
 import sys
 import numpy as np
 from scipy.signal import butter, sosfilt, fftconvolve
 import soundfile as sf
 
 SR = 48000
-DUR = 31.5
+DUR = 27.5
 N = int(SR * DUR)
 L = np.zeros(N); R = np.zeros(N)
 rng = np.random.default_rng(7)
@@ -116,14 +116,6 @@ def stamp(d=0.5):
 # ---------- the score ----------
 D2, A1, Bb1, F2, C2 = 38, 33, 34, 41, 36
 
-# HOOK 0-3: boom on STOP, ticking clock, hits on 3 and on BUILDING / RIGHT NOW
-add(boom(3.0), 0.0, 0.9); add(braam(D2, 2.4), 0.0, 1.0)
-for i in range(12): add(tick(), i * 0.25, 0.25, 0.3 if i % 2 else -0.3)
-add(taiko(70), 0.75, 1.0); add(boom(1.5), 0.75, 0.55)
-add(taiko(80), 2.0, 0.9); add(taiko(66), 2.45, 1.0)
-for i, tr in enumerate(np.arange(2.5, 3.0, 0.0625)): add(snare(0.12), tr, 0.18 + 0.06 * i)
-
-# CAUSES 3-9: driving taiko groove and bass ostinato; impact on each cause, crack on each ignition, whoosh on each whip
 def groove(t0, bars, roots, hats=True, intensity=1.0):
     for b in range(bars):
         tb = t0 + b * 2.0; root = roots[b % len(roots)]
@@ -140,49 +132,55 @@ def groove(t0, bars, roots, hats=True, intensity=1.0):
         arp = [root + 24, root + 27, root + 31, root + 36]
         for k in range(16):
             add(pluck(arp[k % 4] + (12 if k % 8 == 7 else 0)), tb + k * BEAT / 4, 0.32 * intensity, 0.35 if k % 2 else -0.35)
-groove(3.0, 3, [D2, D2, D2])
-add(pad([50, 53, 57], 6.0, 700), 3.0, 1.0)
-for i, tc in enumerate((3.0, 5.0, 7.0)):
-    add(boom(1.6), tc, 0.6); add(braam(D2 + (0, 3, 5)[i], 1.4), tc, 0.6)
-    add(crack(), tc + 1.0, 0.6, 0.3)
-    add(whoosh(0.4), tc + 1.66, 0.7, -0.2 if i % 2 else 0.2)
 
-# TURN 9-13: drums drop out, heartbeat and ticks; riser into the engulf at 11; stamp at 12
-for i in range(8): add(tick(), 9.0 + i * 0.25, 0.3)
-for hb in (9.0, 9.35, 10.0, 10.35): add(kick(0.4), hb, 0.7)
-add(pad([38, 50, 53], 2.2, 400, 0.3, 0.6), 9.0, 1.2)
-add(riser(1.6), 9.4, 0.45)
-for i, tr in enumerate(np.arange(10.5, 11.0, 0.0625)): add(snare(0.12), tr, 0.2 + 0.07 * i)
-add(boom(3.0), 11.0, 1.0); add(braam(D2, 2.2, 1.2), 11.0, 1.2)
-add(stamp(), 12.0, 1.0); add(boom(1.0), 12.0, 0.4)
-add(riser(0.9), 12.1, 0.35)
+# HOOK 0-3: boom on STOP, ticking clock, hits on FIRE CAUSES, AROUND YOU, RIGHT NOW
+add(boom(3.0), 0.0, 0.9); add(braam(D2, 2.4), 0.0, 1.0)
+for i in range(12): add(tick(), i * 0.25, 0.25, 0.3 if i % 2 else -0.3)
+add(taiko(70), 0.75, 1.0); add(boom(1.5), 0.75, 0.55)
+add(taiko(80), 1.2, 0.8)
+add(taiko(66), 2.0, 1.0); add(boom(1.2), 2.0, 0.45)
+for i, tr in enumerate(np.arange(2.5, 3.0, 0.0625)): add(snare(0.12), tr, 0.18 + 0.06 * i)
 
-# REVEAL 13-19: the biggest hit, then the full groove over Dm Bb F C
-add(boom(3.0), 13.0, 1.0); add(braam(D2, 2.6, 1.3), 13.0, 1.3)
-groove(13.0, 3, [D2, Bb1 + 12, F2], intensity=1.05)
-for i, (tc, ch) in enumerate(((13.0, [50, 53, 57]), (15.0, [46, 50, 53]), (17.0, [45, 48, 53]))):
+# TURN 3-10: the groove under EVERY DAY, a build, the engulf at 5.5, GIANT VISIBLE ONE at 6.8, the stamp at 8.5
+groove(3.0, 1, [D2], intensity=0.85)
+add(pad([50, 53, 57], 2.0, 700), 3.0, 1.0)
+add(riser(0.9), 4.6, 0.45)
+for i, tr in enumerate(np.arange(5.0, 5.5, 0.0625)): add(snare(0.12), tr, 0.2 + 0.07 * i)
+add(boom(3.0), 5.5, 1.0); add(braam(D2, 2.2, 1.2), 5.5, 1.2)
+add(pad([38, 50, 53], 4.5, 400, 0.3, 0.8), 5.5, 1.2)
+for i in range(16): add(tick(), 5.5 + i * 0.25, 0.25, 0.3 if i % 2 else -0.3)
+add(taiko(64), 6.3, 0.7)
+add(boom(1.5), 6.8, 0.6); add(braam(D2 + 3, 1.6), 6.8, 0.8); add(taiko(58), 6.8, 0.9)
+for hb in (7.5, 7.85): add(kick(0.4), hb, 0.7)
+add(stamp(), 8.5, 1.0); add(boom(1.0), 8.5, 0.4)
+add(riser(1.4), 8.6, 0.45)
+
+# REVEAL 10-16: the biggest hit, then the full groove over Dm Bb F
+add(boom(3.0), 10.0, 1.0); add(braam(D2, 2.6, 1.3), 10.0, 1.3)
+groove(10.0, 3, [D2, Bb1 + 12, F2], intensity=1.05)
+for i, (tc, ch) in enumerate(((10.0, [50, 53, 57]), (12.0, [46, 50, 53]), (14.0, [45, 48, 53]))):
     add(pad(ch, 2.1, 1100), tc, 1.1)
     if i: add(braam(ch[0] - 12, 1.2), tc, 0.55); add(taiko(64), tc, 0.8)
 
-# PROMISE 19-24.5: lighter groove with a tick on each occupancy word; hit on HOW IT STARTS; everything cuts on HOW TO STOP IT
-groove(19.0, 1, [C2 + 12], hats=True, intensity=0.8)
-for i in range(5): add(tick(), 19.0 + i * 0.4, 0.45, 0.4 if i % 2 else -0.4)
-add(pad([48, 52, 55], 2.0, 900), 19.0, 1.0)
-add(boom(1.0), 21.0, 0.8); add(braam(D2, 1.0), 21.0, 0.9)
-for k in range(2): add(kick(), 21.0 + k * BEAT, 0.8); add(bass(D2), 21.0 + k * BEAT, 0.9)
-add(snare(), 21.5, 0.5)
-add(boom(4.0), 22.0, 0.75)                      # the last breath of the fire, then quiet
-add(pad([50, 54, 57, 62], 5.4, 1400, 1.4, 1.6), 22.6, 1.4)   # D major: relief
-for k in range(10): add(tick(), 22.6 + k * 0.5, 0.12)
+# PROMISE 16-20.6: lighter groove with a tick on each occupancy; hit on HOW IT STARTS; everything drops on HOW TO PREVENT IT
+groove(16.0, 1, [C2 + 12], hats=True, intensity=0.8)
+for i in range(4): add(tick(), 16.0 + i * 0.4, 0.45, 0.4 if i % 2 else -0.4)
+add(pad([48, 52, 55], 2.0, 900), 16.0, 1.0)
+add(boom(1.0), 18.0, 0.8); add(braam(D2, 1.0), 18.0, 0.9)
+for k in range(2): add(kick(), 18.0 + k * BEAT, 0.8); add(bass(D2), 18.0 + k * BEAT, 0.9)
+add(snare(), 18.5, 0.5)
+add(boom(4.0), 19.0, 0.75)                      # the last breath of the fire, then quiet
+add(pad([50, 54, 57, 62], 4.5, 1400, 1.4, 1.6), 19.6, 1.4)   # D major: relief
+for k in range(8): add(tick(), 19.6 + k * 0.5, 0.12)
 
-# CLAIM 24.5-27.5: soft pulse under the line, a riser into the end card
-for k in range(6): add(kick(0.35), 24.5 + k * BEAT, 0.35)
-add(riser(1.4), 26.1, 0.4)
+# CLAIM 20.6-23.5: soft pulse under the line, a riser into the end card
+for k in range(6): add(kick(0.35), 20.6 + k * BEAT, 0.35)
+add(riser(1.4), 22.1, 0.4)
 
-# END 27.5-31.5: the mark lands; chord rings out
-add(boom(4.0), 27.5, 1.0); add(braam(D2, 3.4, 1.1), 27.5, 1.1)
-add(taiko(70), 27.5, 1.0); add(taiko(60), 28.0, 0.7); add(taiko(55), 28.5, 0.6)
-add(pad([50, 53, 57, 62], 4.0, 1200, 0.05, 2.2), 27.5, 1.6)
+# END 23.5-27.5: the mark lands; chord rings out
+add(boom(4.0), 23.5, 1.0); add(braam(D2, 3.4, 1.1), 23.5, 1.1)
+add(taiko(70), 23.5, 1.0); add(taiko(60), 24.0, 0.7); add(taiko(55), 24.5, 0.6)
+add(pad([50, 53, 57, 62], 4.0, 1200, 0.05, 2.2), 23.5, 1.6)
 
 # ---------- mix ----------
 def reverb(x, secs=2.2, wet=0.18, seed=1):

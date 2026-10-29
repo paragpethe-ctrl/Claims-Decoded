@@ -31,10 +31,10 @@
   </style>
   <div id="root" data-composition-id="s5" data-width="1080" data-height="1920">
     <div id="s5-stage" class="stage">
-      <div id="s5-slot" class="t hot" style="top: 330px; font-size: 128px; height: 130px; width: 960px;"><span class="slotw" style="position: absolute; left: 0; top: 0;">HOMES.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">SHOPS.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">RESTAURANTS.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">WAREHOUSES.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">FACTORIES.</span></div>
+      <div id="s5-slot" class="t hot" style="top: 330px; font-size: 128px; height: 130px; width: 960px;"><span class="slotw" style="position: absolute; left: 0; top: 0;">HOMES.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">SHOPS.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">RESTAURANTS.</span><span class="slotw" style="position: absolute; left: 0; top: 0;">INDUSTRIES.</span></div>
       <div id="s5-one" class="t " style="top: 500px; font-size: 112px; "><span class="ln"><span>ONE OCCUPANCY</span></span><span class="ln"><span>AT A TIME.</span></span></div>
       <div id="s5-starts" class="t hot" style="top: 330px; font-size: 190px; "><span class="ln"><span>HOW IT</span></span><span class="ln"><span>STARTS.</span></span></div>
-      <div id="s5-stop" class="t " style="top: 760px; font-size: 190px; "><span class="ln"><span>HOW TO</span></span><span class="ln"><span>STOP IT.</span></span></div>
+      <div id="s5-stop" class="t " style="top: 760px; font-size: 165px; "><span class="ln"><span>HOW TO</span></span><span class="ln"><span>PREVENT IT.</span></span></div>
     </div>
     <div id="s5-flash" class="flash"></div>
   </div>
@@ -66,17 +66,17 @@
         const t0 = 0.0 + i * 0.4;
         tl.set(el, { opacity: 1 }, t0);
         tl.fromTo(el, { y: 60 }, { y: 0, duration: 0.12, ease: "power4.out" }, t0);
-        if (i < 4) tl.set(el, { opacity: 0 }, t0 + 0.4);
+        if (i < 3) tl.set(el, { opacity: 0 }, t0 + 0.4);
       });
       shake("#s5-stage", 0.0, 16, 0.25, 60);
-      slam("#s5-one", 0.5, 1.3);
+      slam("#s5-one", 0.4, 1.3);
       cut(["#s5-slot", "#s5-one"], 1.98);
       slam("#s5-starts", 2.0, 1.6);
       shake("#s5-stage", 2.0, 30, 0.45, 61);
       slam("#s5-stop", 3.0, 1.4);
-      // as the fire dies, STARTS cools to grey and STOP IT holds
+      // as the fire dies, STARTS cools to grey and PREVENT IT holds
       tl.to("#s5-starts", { color: "#8a7f78", duration: 0.6, ease: "power2.out" }, 3.2);
-      tl.to(["#s5-starts", "#s5-stop"], { opacity: 0, filter: "blur(10px)", duration: 0.2, ease: "power2.in" }, 5.25);
+      tl.to(["#s5-starts", "#s5-stop"], { opacity: 0, filter: "blur(10px)", duration: 0.15, ease: "power2.in" }, 4.42);
       window.__timelines["s5"] = tl;
     })();
   </script>
