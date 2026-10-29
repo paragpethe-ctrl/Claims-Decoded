@@ -1,0 +1,402 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: hidden; background: #1a0004; }
+    .layer { position: absolute; inset: 0; opacity: 0; overflow: hidden; }
+    .art { position: absolute; left: 0; top: 0; overflow: visible; }
+    #bg-alarm { opacity: 1; background: radial-gradient(120% 80% at 50% 82%, #ff3b1f 0%, #c40018 38%, #4a0008 75%, #1a0004 100%); }
+    #alarm-beams {
+      position: absolute; left: -1060px; top: -840px; width: 3200px; height: 3200px;
+      background: repeating-conic-gradient(from 0deg, rgba(255, 226, 196, 0.17) 0deg 13deg, rgba(255, 226, 196, 0) 13deg 45deg);
+    }
+    .strobe { position: absolute; inset: 0; background: #ffe9dc; opacity: 0; }
+    #bg-street { background: linear-gradient(180deg, #2a0845 0%, #7b1556 40%, #e0464a 62%, #ff9a3b 82%, #ffd36b 100%); }
+    #street-sun { position: absolute; left: 520px; top: 900px; width: 560px; height: 560px; border-radius: 50%; background: radial-gradient(circle, #fff3c4 0%, #ffc85a 35%, rgba(255, 160, 60, 0) 70%); }
+    .hotspot { position: absolute; width: 120px; height: 120px; border-radius: 50%; background: radial-gradient(circle, #fffbe0 0%, #ffd23f 18%, rgba(255, 110, 20, 0.75) 38%, rgba(255, 80, 0, 0) 70%); }
+    #bg-engulf { background: radial-gradient(120% 90% at 50% 90%, #8a1500 0%, #3a0700 55%, #120200 100%); }
+    #bg-thermal { background: radial-gradient(130% 90% at 50% 75%, #3d0b6b 0%, #1c0638 55%, #0b0218 100%); }
+    .blob { position: absolute; border-radius: 50%; mix-blend-mode: screen; }
+    #th-halo { position: absolute; left: 366px; top: 1395px; width: 440px; height: 440px; border-radius: 50%; background: radial-gradient(circle, rgba(255, 252, 220, 0.95) 0%, rgba(255, 210, 60, 0.8) 22%, rgba(255, 90, 0, 0.45) 45%, rgba(200, 0, 120, 0) 72%); }
+    #bg-starts { background: radial-gradient(120% 80% at 50% 88%, #ff5a00 0%, #b80000 45%, #2a0000 100%); }
+    #bg-prevent { background: radial-gradient(130% 90% at 80% 10%, #6fd0ff 0%, #0a6cff 40%, #062a7a 100%); }
+    .mist { position: absolute; border-radius: 50%; background: radial-gradient(circle, rgba(235, 248, 255, 0.5) 0%, rgba(235, 248, 255, 0) 70%); }
+    #bg-claim { background: linear-gradient(180deg, #02402a 0%, #047a4c 45%, #12d18e 100%); }
+    #claim-rays {
+      position: absolute; left: -1060px; top: -600px; width: 3200px; height: 3200px;
+      background: repeating-conic-gradient(from 0deg, rgba(220, 255, 236, 0.09) 0deg 8deg, rgba(220, 255, 236, 0) 8deg 30deg);
+    }
+    #bg-end { background: radial-gradient(130% 70% at 50% 100%, #ff6a1f 0%, #c21807 35%, #4a0303 70%, #1a0101 100%); }
+  </style>
+  <div id="root" data-composition-id="bg" data-width="1080" data-height="1920">
+      <!-- 0-3 alarm -->
+      <div id="bg-alarm" class="layer">
+        <div id="alarm-beams"></div>
+        <div id="alarm-strobe" class="strobe"></div>
+      </div>
+      <!-- 3-5.5 the everyday street -->
+      <div id="bg-street" class="layer">
+        <div id="street-sun"></div>
+        <div id="street-pan" style="position: absolute; left: 0; right: 0; top: 190px; bottom: -190px;">
+          <svg class="art" width="1300" height="1920" viewBox="0 0 1300 1920">
+            <rect x="-40" y="1070" width="190" height="470" fill="#2b0b2e" />
+            <rect x="-22" y="1110" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="36" y="1110" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="-22" y="1190" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="36" y="1190" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="94" y="1190" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="-24" y="1380" width="158" height="120" fill="#16a5a5" opacity="0.85" />
+            <line x1="-24" x2="134" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="-24" x2="134" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="-24" x2="134" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="-24" x2="134" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="-24" x2="134" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="156" y="940" width="160" height="600" fill="#2b0b2e" />
+            <rect x="174" y="980" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="232" y="980" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="232" y="1060" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="174" y="1140" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="174" y="1220" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="232" y="1220" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="172" y="1380" width="128" height="120" fill="#ffcf3f" opacity="0.85" />
+            <line x1="172" x2="300" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="172" x2="300" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="172" x2="300" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="172" x2="300" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="172" x2="300" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="322" y="1120" width="210" height="420" fill="#2b0b2e" />
+            <rect x="398" y="1160" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="456" y="1160" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="340" y="1240" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="456" y="1240" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="338" y="1380" width="178" height="120" fill="#ff4fa3" opacity="0.85" />
+            <line x1="338" x2="516" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="338" x2="516" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="338" x2="516" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="338" x2="516" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="338" x2="516" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="538" y="880" width="150" height="660" fill="#2b0b2e" />
+            <rect x="556" y="920" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="556" y="1000" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="614" y="1000" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="556" y="1080" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="614" y="1080" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="614" y="1160" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="554" y="1380" width="118" height="120" fill="#16a5a5" opacity="0.85" />
+            <line x1="554" x2="672" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="554" x2="672" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="554" x2="672" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="554" x2="672" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="554" x2="672" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="694" y="1030" width="180" height="510" fill="#2b0b2e" />
+            <rect x="712" y="1070" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="770" y="1070" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="712" y="1150" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="770" y="1150" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="828" y="1150" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="770" y="1230" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="828" y="1230" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="710" y="1380" width="148" height="120" fill="#ffcf3f" opacity="0.85" />
+            <line x1="710" x2="858" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="710" x2="858" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="710" x2="858" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="710" x2="858" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="710" x2="858" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="880" y="960" width="170" height="580" fill="#2b0b2e" />
+            <rect x="898" y="1000" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="956" y="1000" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="956" y="1080" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="898" y="1160" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="898" y="1240" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="956" y="1240" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="896" y="1380" width="138" height="120" fill="#ff4fa3" opacity="0.85" />
+            <line x1="896" x2="1034" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="896" x2="1034" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="896" x2="1034" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="896" x2="1034" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="896" x2="1034" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="1056" y="1100" width="200" height="440" fill="#2b0b2e" />
+            <rect x="1132" y="1140" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="1190" y="1140" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="1074" y="1220" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="1190" y="1220" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="1072" y="1380" width="168" height="120" fill="#16a5a5" opacity="0.85" />
+            <line x1="1072" x2="1240" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1072" x2="1240" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1072" x2="1240" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1072" x2="1240" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1072" x2="1240" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="1262" y="910" width="160" height="630" fill="#2b0b2e" />
+            <rect x="1280" y="950" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="1280" y="1030" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="1338" y="1030" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="1280" y="1110" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="1338" y="1110" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="1338" y="1190" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="1278" y="1380" width="128" height="120" fill="#ffcf3f" opacity="0.85" />
+            <line x1="1278" x2="1406" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1278" x2="1406" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1278" x2="1406" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1278" x2="1406" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1278" x2="1406" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="1428" y="1050" width="190" height="490" fill="#2b0b2e" />
+            <rect x="1446" y="1090" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="1504" y="1090" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="1446" y="1170" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="1504" y="1170" width="26" height="34" fill="#ffb347" opacity="0.55" />
+            <rect x="1562" y="1170" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="1504" y="1250" width="26" height="34" fill="#ffb347" opacity="0.70" />
+            <rect x="1562" y="1250" width="26" height="34" fill="#ffb347" opacity="0.85" />
+            <rect x="1444" y="1380" width="158" height="120" fill="#ff4fa3" opacity="0.85" />
+            <line x1="1444" x2="1602" y1="1392" y2="1392" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1444" x2="1602" y1="1414" y2="1414" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1444" x2="1602" y1="1436" y2="1436" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1444" x2="1602" y1="1458" y2="1458" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <line x1="1444" x2="1602" y1="1480" y2="1480" stroke="#2b0b2e" stroke-width="3" opacity="0.5" />
+            <rect x="-60" y="1500" width="1460" height="460" fill="#1d0720" />
+            <rect x="131" y="820" width="18" height="700" fill="#14051a" />
+            <rect x="70" y="850" width="140" height="12" fill="#14051a" />
+            <rect x="631" y="820" width="18" height="700" fill="#14051a" />
+            <rect x="570" y="850" width="140" height="12" fill="#14051a" />
+            <rect x="1141" y="820" width="18" height="700" fill="#14051a" />
+            <rect x="1080" y="850" width="140" height="12" fill="#14051a" />
+            <path d="M 140 856 Q 345.0 950 640 860" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 140 871 Q 375.0 1037 640 910" fill="none" stroke="#14051a" stroke-width="5" />
+            <path d="M 140 886 Q 405.0 1050 640 870" fill="none" stroke="#14051a" stroke-width="6" />
+            <path d="M 140 883 Q 435.0 1121 640 920" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 140 898 Q 345.0 1016 640 880" fill="none" stroke="#14051a" stroke-width="5" />
+            <path d="M 140 913 Q 375.0 1085 640 930" fill="none" stroke="#14051a" stroke-width="6" />
+            <path d="M 140 910 Q 405.0 1102 640 890" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 140 925 Q 435.0 1049 640 940" fill="none" stroke="#14051a" stroke-width="5" />
+            <path d="M 140 940 Q 345.0 1086 640 900" fill="none" stroke="#14051a" stroke-width="6" />
+            <path d="M 640 856 Q 850.0 950 1150 860" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 871 Q 880.0 1037 1150 910" fill="none" stroke="#14051a" stroke-width="5" />
+            <path d="M 640 886 Q 910.0 1050 1150 870" fill="none" stroke="#14051a" stroke-width="6" />
+            <path d="M 640 883 Q 940.0 1121 1150 920" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 898 Q 850.0 1016 1150 880" fill="none" stroke="#14051a" stroke-width="5" />
+            <path d="M 640 913 Q 880.0 1085 1150 930" fill="none" stroke="#14051a" stroke-width="6" />
+            <path d="M 640 910 Q 910.0 1102 1150 890" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 925 Q 940.0 1049 1150 940" fill="none" stroke="#14051a" stroke-width="5" />
+            <path d="M 640 940 Q 850.0 1086 1150 900" fill="none" stroke="#14051a" stroke-width="6" />
+            <path d="M 640 870 Q 460 1100 310 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 882 Q 520 1120 420 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 894 Q 580 1140 530 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 906 Q 640 1160 640 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 918 Q 700 1180 750 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 930 Q 760 1200 860 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <path d="M 640 942 Q 820 1220 970 1385" fill="none" stroke="#14051a" stroke-width="4" />
+            <rect x="654" y="1060" width="70" height="96" rx="6" fill="#14051a" />
+            <rect x="760" y="1418" width="54" height="104" rx="22" fill="#e0213f" />
+            <rect x="777" y="1402" width="20" height="20" rx="4" fill="#8a0f24" />
+            <rect x="764" y="1450" width="46" height="8" fill="#ff8aa0" opacity="0.6" />
+            <rect x="824" y="1418" width="54" height="104" rx="22" fill="#e0213f" />
+            <rect x="841" y="1402" width="20" height="20" rx="4" fill="#8a0f24" />
+            <rect x="828" y="1450" width="46" height="8" fill="#ff8aa0" opacity="0.6" />
+            <rect x="888" y="1418" width="54" height="104" rx="22" fill="#e0213f" />
+            <rect x="905" y="1402" width="20" height="20" rx="4" fill="#8a0f24" />
+            <rect x="892" y="1450" width="46" height="8" fill="#ff8aa0" opacity="0.6" />
+            <rect x="952" y="1418" width="54" height="104" rx="22" fill="#e0213f" />
+            <rect x="969" y="1402" width="20" height="20" rx="4" fill="#8a0f24" />
+            <rect x="956" y="1450" width="46" height="8" fill="#ff8aa0" opacity="0.6" />
+            <rect x="1016" y="1418" width="54" height="104" rx="22" fill="#e0213f" />
+            <rect x="1033" y="1402" width="20" height="20" rx="4" fill="#8a0f24" />
+            <rect x="1020" y="1450" width="46" height="8" fill="#ff8aa0" opacity="0.6" />
+            <rect x="60" y="1430" width="120" height="90" fill="#c77d3a" stroke="#6a3b12" stroke-width="4" />
+            <rect x="80" y="1350" width="100" height="80" fill="#c77d3a" stroke="#6a3b12" stroke-width="4" />
+            <rect x="190" y="1450" width="110" height="70" fill="#c77d3a" stroke="#6a3b12" stroke-width="4" />
+            <rect x="95" y="1280" width="80" height="70" fill="#c77d3a" stroke="#6a3b12" stroke-width="4" />
+          </svg>
+          <div class="hotspot" style="left: 580px; top: 845px;"></div>
+          <div class="hotspot" style="left: 330px; top: 930px;"></div>
+          <div class="hotspot" style="left: 629px; top: 1048px;"></div>
+          <div class="hotspot" style="left: 845px; top: 900px;"></div>
+        </div>
+      </div>
+      <!-- 5.5-10 the engulf (the fire covers it) -->
+      <div id="bg-engulf" class="layer"></div>
+      <!-- 10-16 decoded: the thermal camera sees the invisible -->
+      <div id="bg-thermal" class="layer">
+        <div class="blob" id="b1" style="left: -200px; top: 200px; width: 900px; height: 900px; background: radial-gradient(circle, rgba(123, 31, 162, 0.85) 0%, rgba(123, 31, 162, 0) 70%);"></div>
+        <div class="blob" id="b2" style="left: 420px; top: 520px; width: 800px; height: 800px; background: radial-gradient(circle, rgba(194, 24, 91, 0.75) 0%, rgba(194, 24, 91, 0) 70%);"></div>
+        <div class="blob" id="b3" style="left: 80px; top: 1050px; width: 760px; height: 760px; background: radial-gradient(circle, rgba(255, 109, 0, 0.55) 0%, rgba(255, 109, 0, 0) 70%);"></div>
+        <div class="blob" id="b4" style="left: 520px; top: 1200px; width: 640px; height: 640px; background: radial-gradient(circle, rgba(255, 171, 0, 0.45) 0%, rgba(255, 171, 0, 0) 70%);"></div>
+        <div class="blob" id="b5" style="left: 600px; top: -200px; width: 700px; height: 700px; background: radial-gradient(circle, rgba(90, 20, 180, 0.7) 0%, rgba(90, 20, 180, 0) 70%);"></div>
+        <div id="th-panel" style="position: absolute; left: 0; right: 0; top: 90px; bottom: -90px;">
+        <svg class="art" width="1080" height="1920" viewBox="0 0 1080 1920">
+            <rect x="200" y="1300" width="680" height="640" rx="10" fill="rgba(70,10,110,0.55)" stroke="#ff4fa3" stroke-width="6" />
+            <rect x="240" y="1380" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 280 1380 C 280 1330, 260 1320, 280 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="342" y="1380" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 382 1380 C 382 1330, 366 1320, 382 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="444" y="1380" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 484 1380 C 484 1330, 472 1320, 484 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="546" y="1380" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 586 1380 C 586 1330, 578 1320, 586 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="648" y="1380" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 688 1380 C 688 1330, 684 1320, 688 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="750" y="1380" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 790 1380 C 790 1330, 790 1320, 790 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="240" y="1550" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 280 1550 C 280 1500, 260 1320, 280 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="342" y="1550" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 382 1550 C 382 1500, 366 1320, 382 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="444" y="1550" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 484 1550 C 484 1500, 472 1320, 484 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="546" y="1550" width="80" height="130" rx="6" fill="#fff3b0" stroke="#ffe14d" stroke-width="4" id="th-hot"/>
+            <path d="M 586 1550 C 586 1500, 578 1320, 586 1300" fill="none" stroke="#ffd23f" stroke-width="7" />
+            <rect x="648" y="1550" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 688 1550 C 688 1500, 684 1320, 688 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="750" y="1550" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 790 1550 C 790 1500, 790 1320, 790 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="240" y="1720" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 280 1720 C 280 1670, 260 1320, 280 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="342" y="1720" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 382 1720 C 382 1670, 366 1320, 382 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="444" y="1720" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 484 1720 C 484 1670, 472 1320, 484 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="546" y="1720" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 586 1720 C 586 1670, 578 1320, 586 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="648" y="1720" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 688 1720 C 688 1670, 684 1320, 688 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+            <rect x="750" y="1720" width="80" height="130" rx="6" fill="rgba(160,30,140,0.55)" stroke="#d1458f" stroke-width="4" />
+            <path d="M 790 1720 C 790 1670, 790 1320, 790 1300" fill="none" stroke="#ff7a3d" stroke-width="4" />
+        </svg>
+        <div id="th-halo"></div>
+        <svg class="art" id="th-cross" width="1080" height="1920" viewBox="0 0 1080 1920">
+          <path d="M 476 1545 v -40 h 40 M 656 1505 h 40 v 40 M 696 1685 v 40 h -40 M 516 1725 h -40 v -40" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="square" />
+          <path d="M 560 1615 h 52 M 586 1589 v 52" stroke="#ffffff" stroke-width="5" />
+        </svg>
+        </div>
+      </div>
+      <!-- 16-18 one occupancy at a time -->
+      <div id="bg-occ-home" class="layer" style="background: linear-gradient(180deg, #004d52 0%, #00918c 50%, #19d3c5 100%);">
+        <svg class="art" id="occ-art-home" width="1080" height="1920" viewBox="0 0 1080 1920">
+            <polygon points="180,1180 540,880 900,1180" fill="#9ff7ec" opacity="0.35" />
+            <rect x="250" y="1180" width="580" height="520" fill="#9ff7ec" opacity="0.3" />
+            <rect x="320" y="1280" width="160" height="150" fill="#004d52" opacity="0.5" />
+            <rect x="600" y="1420" width="140" height="280" fill="#004d52" opacity="0.5" />
+        </svg>
+      </div>
+      <div id="bg-occ-shop" class="layer" style="background: linear-gradient(180deg, #6e0036 0%, #c4005c 50%, #ff4fa3 100%);">
+        <svg class="art" id="occ-art-shop" width="1080" height="1920" viewBox="0 0 1080 1920">
+            <rect x="140" y="1000" width="800" height="90" fill="#ffd1e6" opacity="0.4" />
+            <path d="M 140 1090 q 50 70 100 0" fill="#ffd1e6" opacity="0.45" /><path d="M 240 1090 q 50 70 100 0" fill="#ff9cc9" opacity="0.45" /><path d="M 340 1090 q 50 70 100 0" fill="#ffd1e6" opacity="0.45" /><path d="M 440 1090 q 50 70 100 0" fill="#ff9cc9" opacity="0.45" /><path d="M 540 1090 q 50 70 100 0" fill="#ffd1e6" opacity="0.45" /><path d="M 640 1090 q 50 70 100 0" fill="#ff9cc9" opacity="0.45" /><path d="M 740 1090 q 50 70 100 0" fill="#ffd1e6" opacity="0.45" /><path d="M 840 1090 q 50 70 100 0" fill="#ff9cc9" opacity="0.45" />
+            <rect x="180" y="1170" width="720" height="530" fill="#ffd1e6" opacity="0.25" />
+            <line x1="200" x2="880" y1="1200" y2="1200" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1240" y2="1240" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1280" y2="1280" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1320" y2="1320" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1360" y2="1360" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1400" y2="1400" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1440" y2="1440" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1480" y2="1480" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1520" y2="1520" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1560" y2="1560" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1600" y2="1600" stroke="#6e0036" stroke-width="6" opacity="0.35" /><line x1="200" x2="880" y1="1640" y2="1640" stroke="#6e0036" stroke-width="6" opacity="0.35" />
+        </svg>
+      </div>
+      <div id="bg-occ-rest" class="layer" style="background: linear-gradient(180deg, #8f2a00 0%, #d35400 50%, #ffb100 100%);">
+        <svg class="art" id="occ-art-rest" width="1080" height="1920" viewBox="0 0 1080 1920">
+            <polygon points="300,980 780,980 900,1200 180,1200" fill="#ffe0a3" opacity="0.32" />
+            <rect x="490" y="760" width="100" height="220" fill="#ffe0a3" opacity="0.32" />
+            <path d="M 300 1520 Q 540 1700 780 1520 Z" fill="#ffe0a3" opacity="0.4" />
+            <path d="M 540 1300 C 470 1380, 470 1460, 540 1510 C 610 1460, 610 1380, 540 1300 Z" fill="#fff4d6" opacity="0.55" />
+            <rect x="380" y="1640" width="320" height="40" fill="#ffe0a3" opacity="0.32" />
+        </svg>
+      </div>
+      <div id="bg-occ-ind" class="layer" style="background: linear-gradient(180deg, #06205f 0%, #1546c4 50%, #4f8fff 100%);">
+        <svg class="art" id="occ-art-ind" width="1080" height="1920" viewBox="0 0 1080 1920">
+            <polygon points="120,1300 300,1180 300,1300 480,1180 480,1300 660,1180 660,1300 840,1180 840,1300 960,1300 960,1720 120,1720" fill="#bcd6ff" opacity="0.3" />
+            <rect x="700" y="880" width="70" height="300" fill="#bcd6ff" opacity="0.3" />
+            <rect x="820" y="940" width="60" height="240" fill="#bcd6ff" opacity="0.3" />
+            <circle cx="735" cy="830" r="50" fill="#bcd6ff" opacity="0.18" />
+            <circle cx="780" cy="760" r="70" fill="#bcd6ff" opacity="0.14" />
+            <rect x="170" y="1440" width="90" height="120" fill="#06205f" opacity="0.35" /><rect x="320" y="1440" width="90" height="120" fill="#06205f" opacity="0.35" /><rect x="470" y="1440" width="90" height="120" fill="#06205f" opacity="0.35" /><rect x="620" y="1440" width="90" height="120" fill="#06205f" opacity="0.35" /><rect x="770" y="1440" width="90" height="120" fill="#06205f" opacity="0.35" />
+        </svg>
+      </div>
+      <!-- 18-19 how it starts -->
+      <div id="bg-starts" class="layer"></div>
+      <!-- 19-20.6 how to prevent it -->
+      <div id="bg-prevent" class="layer">
+        <div class="mist" id="m1" style="left: 80px; top: 900px; width: 900px; height: 900px;"></div>
+        <div class="mist" id="m2" style="left: -200px; top: 1300px; width: 800px; height: 800px;"></div>
+        <svg class="art" width="1080" height="1920" viewBox="0 0 1080 1920">
+            <line class="drop" x1="980" y1="140" x2="418.1" y2="1530.8" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="40 120" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="322.8" y2="1595.5" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="52 133" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="221.5" y2="1654.7" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="64 146" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="172.5" y2="1738.6" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="76 159" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="61.8" y2="1789.7" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="88 172" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-54.2" y2="1834.3" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="40 185" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-110.9" y2="1913.3" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 198" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="99.3" y2="1450.6" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="64 121" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-9.9" y2="1492.5" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="76 134" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-72.1" y2="1567.1" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="88 147" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-189.2" y2="1599.4" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="40 160" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="-310.5" y2="1624.5" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="52 173" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-379.5" y2="1693" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="64 186" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-94.5" y2="1272.3" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="76 199" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-208.6" y2="1295.9" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="88 122" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="-282.4" y2="1359.1" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="40 135" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-402.8" y2="1372" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="52 148" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-526.1" y2="1377.1" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="64 161" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-605.5" y2="1433.1" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="76 174" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="-253.9" y2="1066.4" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="88 187" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-369.9" y2="1071.3" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="40 200" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-453.2" y2="1121.3" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="52 123" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-573.6" y2="1114.6" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="64 136" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="-695.7" y2="1099.7" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="76 149" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-783.3" y2="1141.7" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="88 162" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-375.1" y2="839.4" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="40 175" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-490" y2="825.5" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 188" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="-580.5" y2="861" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="64 201" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-697.8" y2="835" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="76 124" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-815.3" y2="800.6" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="88 137" opacity="0.47" />
+            <line class="drop" x1="980" y1="140" x2="-908.8" y2="827.5" stroke="#e8f6ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="40 150" opacity="0.59" />
+            <line class="drop" x1="980" y1="140" x2="-455.7" y2="598.2" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="52 163" opacity="0.71" />
+            <line class="drop" x1="980" y1="140" x2="-566.4" y2="566" stroke="#e8f6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="64 176" opacity="0.35" />
+            <line class="drop" x1="980" y1="140" x2="-661.5" y2="586" stroke="#e8f6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="76 189" opacity="0.47" />
+            <circle cx="980" cy="140" r="34" fill="#e8f6ff" />
+            <rect x="950" y="40" width="60" height="80" rx="10" fill="#e8f6ff" />
+        </svg>
+      </div>
+      <!-- 20.6-23.5 so you never have to make the claim -->
+      <div id="bg-claim" class="layer">
+        <div id="claim-rays"></div>
+        <svg class="art" width="1080" height="1920" viewBox="0 0 1080 1920">
+          <path d="M 540 1150 L 820 1250 L 800 1520 Q 760 1720 540 1820 Q 320 1720 280 1520 L 260 1250 Z" fill="#7dffc6" opacity="0.28" />
+          <path id="claim-check" d="M 420 1490 L 510 1580 L 680 1390" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" opacity="0.85" pathLength="100" style="stroke-dasharray: 100 120; stroke-dashoffset: 110;" />
+        </svg>
+      </div>
+      <!-- 23.5-27.5 end card -->
+      <div id="bg-end" class="layer"></div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      // one world per beat, hard cuts on the beat
+      const worlds = [["#bg-alarm", 0], ["#bg-street", 3], ["#bg-engulf", 5.5], ["#bg-thermal", 10], ["#bg-occ-home", 16], ["#bg-occ-shop", 16.4], ["#bg-occ-rest", 16.8], ["#bg-occ-ind", 17.2], ["#bg-starts", 18], ["#bg-prevent", 19], ["#bg-claim", 20.6], ["#bg-end", 23.5]];
+      worlds.forEach(([sel, t0], i) => {
+        if (i > 0) tl.set(sel, { opacity: 1 }, t0);
+        if (i < worlds.length - 1) tl.set(sel, { opacity: 0 }, worlds[i + 1][1]);
+      });
+      // alarm: siren beams sweep, a strobe on every slam
+      tl.fromTo("#alarm-beams", { rotation: 0 }, { rotation: 240, duration: 3, ease: "none" }, 0);
+      [0, 0.75, 1.2, 2.0].forEach((t0) => {
+        tl.set("#alarm-strobe", { opacity: 0.38 }, t0);
+        tl.to("#alarm-strobe", { opacity: 0, duration: 0.25, ease: "power2.out" }, t0 + 0.034);
+      });
+      // street: we walk past; the hidden hot spots pulse
+      tl.fromTo("#street-pan", { x: 0 }, { x: -150, duration: 2.5, ease: "none" }, 3);
+      tl.fromTo("#street-sun", { y: 0 }, { y: 30, duration: 2.5, ease: "none" }, 3);
+      gsap.utils.toArray(".hotspot").forEach((el, i) => {
+        tl.fromTo(el, { opacity: 0.25, scale: 0.7 }, { opacity: 1, scale: 1.15, duration: 0.42, ease: "sine.inOut", repeat: 5, yoyo: true }, 3 + i * 0.13);
+      });
+      // thermal: heat drifts, the camera locks on to the hot breaker
+      [["#b1", 80, -60], ["#b2", -90, 70], ["#b3", 60, -40], ["#b4", -50, -60], ["#b5", -70, 50]].forEach(([s, dx, dy]) => {
+        tl.fromTo(s, { x: 0, y: 0 }, { x: dx, y: dy, duration: 6, ease: "sine.inOut" }, 10);
+      });
+      tl.fromTo("#th-halo", { scale: 0.85, opacity: 0.7 }, { scale: 1.1, opacity: 1, duration: 0.5, ease: "sine.inOut", repeat: 11, yoyo: true }, 10);
+      tl.fromTo("#th-cross", { scale: 1.8, opacity: 0, transformOrigin: "586px 1615px" }, { scale: 1, opacity: 1, duration: 0.3, ease: "power4.out" }, 10.6);
+      // occupancies: each world lands slightly large and settles
+      ["home", "shop", "rest", "ind"].forEach((k, i) => {
+        tl.fromTo("#occ-art-" + k, { scale: 1.08, transformOrigin: "50% 70%" }, { scale: 1, duration: i < 3 ? 0.4 : 0.8, ease: "power3.out" }, 16 + i * 0.4);
+      });
+      // prevent: the spray flows and the mist rolls
+      tl.fromTo(".drop", { strokeDashoffset: 0 }, { strokeDashoffset: -900, duration: 1.6, ease: "none" }, 19);
+      tl.fromTo("#m1", { x: 0, y: 0, scale: 0.9 }, { x: -120, y: 80, scale: 1.15, duration: 1.6, ease: "none" }, 19);
+      tl.fromTo("#m2", { x: 0, y: 0 }, { x: 100, y: -60, duration: 1.6, ease: "none" }, 19);
+      // claim: light turns slowly, the check is drawn
+      tl.fromTo("#claim-rays", { rotation: 0 }, { rotation: 18, duration: 2.9, ease: "none" }, 20.6);
+      tl.fromTo("#claim-check", { strokeDashoffset: 110 }, { strokeDashoffset: 0, duration: 0.5, ease: "power3.out" }, 21.0);
+      window.__timelines["bg"] = tl;
+    })();
+  </script>
+</template>

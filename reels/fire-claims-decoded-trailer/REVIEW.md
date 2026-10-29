@@ -5,7 +5,7 @@ H.264 + AAC, 22 MB.
 
 ## What it is
 
-The loud version of the series explainer. Real-time fire behind every shot, type
+The loud version of the series explainer. A vivid background world per beat, real-time fire, type
 that slams in on the beat, camera shake and flash frames on hits, and an original
 trailer score. Cut v2 (2026-10-29) follows Parag's re-edit brief.
 
@@ -20,6 +20,30 @@ trailer score. Cut v2 (2026-10-29) follows Parag's re-edit brief.
 
 Copy is Parag's, verbatim, except "THERE VARIOUS" corrected to "THERE ARE VARIOUS".
 Cut v1 (31.5 s, with the three numbered causes) is in git history at b215bd8.
+
+## Backgrounds (cut v2, second pass)
+
+Each beat has its own vivid world, drawn in code (`compositions/bg.html`, built by
+`tools/build_bg.py`), with the fire composited over it (the fire canvas is now
+transparent):
+
+| time | world |
+|---|---|
+| 0-3 | red alarm: siren beams sweep, a strobe on every slam, fire below |
+| 3-5.5 | magenta-to-amber sunset over a market street: tangled wires, gas cylinders, cartons; hot spots pulse on the wires as the street drifts past |
+| 5.5-10 | the fire takes the frame |
+| 10-16 | thermal-camera view: purple, magenta and yellow heat over an electrical panel; the camera locks onto one white-hot breaker |
+| 16-18 | one colour field per occupancy, cut on each word: teal house, magenta shop, amber kitchen, electric-blue factory |
+| 18-19 | hot red as the fire surges |
+| 19-20.6 | electric blue, sprinkler spray streaming down while the fire dies |
+| 20.6-23.5 | safety green, slow light rays, a shield with a check mark drawn on |
+| 23.5-27.5 | deep fire-red gradient under the end card |
+
+Free stock libraries (Pexels, Unsplash, Wikimedia Commons, Pixabay, Flickr) are
+blocked from this environment, and Parag chose not to spend ElevenLabs credits on
+generated photos, so nothing here is a photograph. An unrun ElevenLabs flow with
+photo prompts for every beat exists ("Fire Claims Decoded trailer backgrounds") if
+photos are wanted later (about $1.80 at one image each).
 
 ## Sound
 

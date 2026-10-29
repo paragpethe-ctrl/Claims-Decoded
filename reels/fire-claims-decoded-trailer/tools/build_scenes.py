@@ -168,7 +168,7 @@ open(OUT + "s4.html", "w").write(scene("s4", s4, s4_js, s4_css))
 # ---------------- S5 promise 16-20.6 (local 0-4.6) ----------------
 words = ["HOMES.", "SHOPS.", "RESTAURANTS.", "INDUSTRIES."]
 slot = "".join(f'<span class="slotw" style="position: absolute; left: 0; top: 0;">{w}</span>' for w in words)
-s5 = f'''      <div id="s5-slot" class="t hot" style="top: 330px; font-size: 128px; height: 130px; width: 960px;">{slot}</div>
+s5 = f'''      <div id="s5-slot" class="t" style="top: 330px; font-size: 128px; height: 130px; width: 960px;">{slot}</div>
 {t("s5-one", 500, 112, ["ONE OCCUPANCY", "AT A TIME."])}
 {t("s5-starts", 330, 190, ["HOW IT", "STARTS."], "hot")}
 {t("s5-stop", 760, 165, ["HOW TO", "PREVENT IT."])}'''
