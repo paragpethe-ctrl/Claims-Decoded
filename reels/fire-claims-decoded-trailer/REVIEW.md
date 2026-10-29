@@ -1,27 +1,25 @@
 # REVIEW: Fire Claims Decoded series trailer
 
-Render: `renders/fire-claims-decoded-series-trailer.mp4`, 1080x1920, 30 fps, 31.5 s,
+Render: `renders/fire-claims-decoded-series-trailer.mp4`, 1080x1920, 30 fps, 27.5 s,
 H.264 + AAC, 22 MB.
 
 ## What it is
 
-The loud version of the series explainer, made because the first one (blueprint
-diagrams, `../claims-decoded-explainer`) read as too plain. Real-time fire behind
-every shot, type that slams in on the beat, camera shake and flash frames on hits,
-and an original trailer score.
+The loud version of the series explainer. Real-time fire behind every shot, type
+that slams in on the beat, camera shake and flash frames on hits, and an original
+trailer score. Cut v2 (2026-10-29) follows Parag's re-edit brief.
 
 | time | beat | on screen |
 |---|---|---|
-| 0-3 | hook | STOP. / THERE ARE 3 FIRE CAUSES / IN YOUR BUILDING. RIGHT NOW. |
-| 3-9 | the 3 causes | 1 LOOSE WIRING · 2 GREASY KITCHEN DUCTS · 3 BLOCKED AISLES, each drawing ignites, whip to the next |
-| 9-13 | the turn | YOU WALK PAST THEM EVERY DAY. / fire engulfs the frame: UNTIL ONE STARTS A FIRE. / FIRE CLAIM stamp |
-| 13-19 | reveal | FIRE CLAIMS DECODED / I'M AN ENGINEER IN PROPERTY INSURANCE. / I SHOW YOU HOW FIRES REALLY START. |
-| 19-24.5 | the promise | HOMES. SHOPS. RESTAURANTS. WAREHOUSES. FACTORIES. ONE OCCUPANCY AT A TIME. / HOW IT STARTS. / HOW TO STOP IT. (the fire dies) |
-| 24.5-27.5 | the point | SO YOU NEVER HAVE TO MAKE THE CLAIM. |
-| 27.5-31.5 | end card | FIRE CLAIMS DECODED · @parag_pethe1 · FOLLOW · 1 FIRE CAUSE EVERY REEL |
+| 0-3 | hook | STOP. / THERE ARE VARIOUS FIRE CAUSES AROUND YOU. / RIGHT NOW. |
+| 3-10 | the turn | YOU WALK PAST THEM EVERY DAY. / fire engulfs the frame: UNTIL ONE INVISIBLE FIRE STARTS INTO GIANT VISIBLE ONE. / FIRE CLAIM stamp |
+| 10-16 | reveal | FIRE CLAIMS DECODED / I WILL SHOW YOU HOW FIRES REALLY START IN VARIOUS OCCUPANCIES. |
+| 16-20.6 | the promise | HOMES. SHOPS. RESTAURANTS. INDUSTRIES. ONE OCCUPANCY AT A TIME. / HOW IT STARTS. / HOW TO PREVENT IT. (the fire dies) |
+| 20.6-23.5 | the point | SO YOU NEVER HAVE TO MAKE THE CLAIM. |
+| 23.5-27.5 | end card | FIRE CLAIMS DECODED · @parag_pethe1 · FOLLOW · 1 FIRE CAUSE EVERY REEL |
 
-Hook: "Stop. There are 3 fire causes in your building right now." scored 84.4 STRONG
-on `ig-reel/hookscore.py` (formula #2 Negative Command); the 6 s after it pay it off.
+Copy is Parag's, verbatim, except "THERE VARIOUS" corrected to "THERE ARE VARIOUS".
+Cut v1 (31.5 s, with the three numbered causes) is in git history at b215bd8.
 
 ## Sound
 
@@ -30,8 +28,12 @@ on `ig-reel/hookscore.py` (formula #2 Negative Command); the 6 s after it pay it
   groove under the causes, a riser into the engulf, the biggest hit on the title, a
   drop to near silence as the fire dies, a D major pad for the relief, a final hit on
   the end card.
-- It was **measured, not heard**. Final file: -16.8 LUFS integrated, true peak
-  -1.8 dBTP, no clipping. 13 of 18 cues have a strong onset within 5 ms of the picture.
+- Cut v2 keeps the same instruments and arrangement, with the hits moved to the new
+  cue points.
+- It was **measured, not heard**. Final file: -16.3 LUFS integrated, true peak
+  -0.7 dBTP, no clipping. The renderer's mix came out at -19.1 LUFS, so the mastered
+  score was muxed back into the MP4 (picture untouched). 9 of 14 cues have a strong
+  onset within 5 ms; the rest are slow-attack booms placed exactly by the score code.
 - No outside music library was reachable from this environment (Hugging Face,
   HeyGen, Pixabay, Openverse and Freesound are blocked). To use a licensed track
   instead, replace `assets/audio/score.m4a` (or point `<audio id="music">` in
@@ -49,15 +51,16 @@ on `ig-reel/hookscore.py` (formula #2 Negative Command); the 6 s after it pay it
 
 ## Weakest moment
 
-The three cause drawings are line icons; they ignite and whip, but they are still
-icons. With real photos or Gemini clips of a burnt socket, a greasy duct and a
-blocked aisle, that section would hit harder. Swap them in the `#s2-art*` slots.
+16-20.6 s is dense: four occupancy names, a line, then two more lines in 4.6 s.
+Every line clears its reading floor, but it is the fastest stretch of the film.
 
 ## Rebuilding
 
-`python3 tools/build_scenes.py` regenerates `compositions/s1-s7.html`.
+`python3 tools/build_scenes.py` regenerates `compositions/s1.html` and `s3.html` to `s7.html`.
 `python3 tools/make_score.py out.wav` (needs numpy, scipy, soundfile) regenerates the
 score; then encode it with
-`ffmpeg -i out.wav -af "volume=-0.3dB,alimiter=limit=0.56:level=false:attack=1:release=80" -c:a aac -b:a 256k assets/audio/score.m4a`.
+`ffmpeg -i out.wav -af "volume=-1.0dB,alimiter=limit=0.5:level=false:attack=1:release=80" -c:a aac -b:a 256k assets/audio/score.m4a`.
+After rendering, mux the score back in:
+`ffmpeg -i render.mp4 -i assets/audio/score.m4a -map 0:v:0 -map 1:a:0 -c copy -shortest out.mp4`.
 The fire is a WebGL shader in `compositions/fire.html`; its shape over time is the
 `KEYS` table at the top of that file.
