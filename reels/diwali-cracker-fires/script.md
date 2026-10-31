@@ -1,7 +1,7 @@
 # Episode: Cracker Shop and Godown Fires (Diwali, real incidents)
 
 Subheading for the frame: "Cracker Shop & Godown Fires >>>"
-Length: about 36 seconds, in 4 parts of 10 seconds or less (fits Gemini).
+Length: about 38 seconds, in 5 parts (see gemini-prompts.md for the final split).
 Language: English. Ask for a Hindi version if wanted.
 
 ## Hook (scored)
