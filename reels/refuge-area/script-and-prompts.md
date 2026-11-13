@@ -1,13 +1,14 @@
 # The Refuge Area That Became a Store Room
 
-**Hook:** "Never store anything in your refuge area." Scored 81.6 STRONG (with the Nalasopara line).
-**Length:** 9.1s + 8.7s + 7.3s spoken, plus a 2s end card.
+**Hook:** "Never block your one refuge area. Nalasopara lost two lives." Hook score 100 (length, specificity, stakes, front-loading and viewer address all 100).
+**Timing (beats.py):** 24.7s spoken across 9 beats: hook beat 1.8s, no beat over 4s, a concrete number or name in every run of beats, last line loops back to "refuge area". Plus a 2s end card.
+**Humanizer:** fingerprint 100, slop 100 (no em dashes, invisible characters or AI filler).
 
 ## Script
 
-1. Never store anything in your refuge area. Mumbai, November: a tower fire burned in a refuge area and a scrap generator. Nalasopara, October: two died.
-2. Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on a fifteenth-floor refuge. Fill it with junk, and it becomes fuel.
-3. Keep it empty, unlocked and signposted. Check it this week. Do you know which floor your refuge area is on?
+1. Never block your one refuge area. Nalasopara lost two lives. The fire reached the refuge floor door itself. Mumbai, November: a refuge area burned, beside scrap. (9.1s)
+2. Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on the 15th-floor refuge. Fill yours with junk, and it becomes fuel. (8.7s)
+3. Check 3 things every month: empty, unlocked, signposted. Do you know which floor your refuge area is on? (6.5s)
 
 ## Facts to check before posting
 
@@ -28,16 +29,16 @@ FRAME (identical in every shot, for the full clip): the whole video sits inside 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 B-roll only in this clip: no presenter on screen.
 
-Shot 1 (0 to 3 seconds): a high-rise refuge floor at night crammed with old furniture, mattresses and cartons, a spark landing among them.
-Shot 2 (3 to 6 seconds): flames spreading through the junk on the open refuge floor of a tower, smoke pouring out of its open sides.
-Shot 3 (6 to 10 seconds): an old scrap diesel generator smouldering in a dark corner.
+Shot 1 (0 to 3 seconds): a refuge floor door in a residential tower stairwell already engulfed in flames, fast push-in.
+Shot 2 (3 to 6 seconds): flames racing through old furniture, mattresses and cartons stored on an open refuge floor, smoke pouring out of its open sides.
+Shot 3 (6 to 10 seconds): an old scrap diesel generator smouldering in a dark corner beside the junk.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "REFUGE AREA" at 0 seconds, then "NOT A STORE ROOM" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "NEVER BLOCK IT" at 0 seconds, then "2 LIVES LOST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
 NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never store anything in your refuge area. Mumbai, November: a tower fire burned in a refuge area and a scrap generator. Nalasopara, October: two died."
+"Never block your one refuge area. Nalasopara lost two lives. The fire reached the refuge floor door itself. Mumbai, November: a refuge area burned, beside scrap."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -61,7 +62,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, pu
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
 NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on a fifteenth-floor refuge. Fill it with junk, and it becomes fuel."
+"Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on the 15th-floor refuge. Fill yours with junk, and it becomes fuel."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -81,12 +82,12 @@ Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photogr
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "EMPTY" at 0 seconds, then "UNLOCKED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "3 CHECKS" at 0 seconds, then "EMPTY · UNLOCKED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
 NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Keep it empty, unlocked and signposted. Check it this week. Do you know which floor your refuge area is on?"
+"Check 3 things every month: empty, unlocked, signposted. Do you know which floor your refuge area is on?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
