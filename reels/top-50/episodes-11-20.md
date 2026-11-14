@@ -2,12 +2,12 @@
 
 ## 11. Fireworks Factory Blasts
 
-**Hook:** "Can one spark kill you? Three fireworks blasts killed dozens." (hook score 94 STRONG)  
+**Hook:** "Can 1 spark cost you everything? Dozens of lives lost." (hook score 100 STRONG)  
 **Spoken length:** 6.2s + 7.6s + 6.9s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Can one spark kill you? Three fireworks blasts killed dozens. Andhra, February. Tamil Nadu, April. Gujarat, July.
+1. Can 1 spark cost you everything? Dozens of lives lost. Andhra, February. Tamil Nadu, April. Gujarat, July.
 2. Friction, heat or one spark in a mixing room. Without separation and stock limits, one room's blast sets off the next.
 3. Licensed units. Stock limits. Rooms kept apart. Nothing illegal in your lane. Is there a cracker unit near you?
 
@@ -29,12 +29,12 @@ Shot 1 (0 to 3 seconds): a fireworks factory shed in a dry field erupting in a h
 Shot 2 (3 to 6 seconds): a second shed exploding moments later.
 Shot 3 (6 to 10 seconds): burnt cartons of fireworks scattered across red soil.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 BLASTS" at 0 seconds, then "DOZENS DEAD" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 BLASTS" at 0 seconds, then "DOZENS LOST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can one spark kill you? Three fireworks blasts killed dozens. Andhra, February. Tamil Nadu, April. Gujarat, July."
+"Can 1 spark cost you everything? Dozens of lives lost. Andhra, February. Tamil Nadu, April. Gujarat, July."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -93,12 +93,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 12. Crackers Stored at Home
 
-**Hook:** "Can crackers kill you at home? Never store them. Siwan shows why." (hook score 94 STRONG)  
-**Spoken length:** 8.7s + 7.6s + 7.3s = 23.6s, plus a 2s end card
+**Hook:** "Can 1 cracker stock cost you everything? Never keep it home." (hook score 100 STRONG)  
+**Spoken length:** 8.4s + 7.6s + 7.3s = 23.3s, plus a 2s end card
 
 **Full script**
 
-1. Can crackers kill you at home? Never store them. Siwan shows why. A house exploded for hours. Then a Namakkal godown, a Solan shop.
+1. Can 1 cracker stock cost you everything? Never keep it home. A house exploded for hours. Then a Namakkal godown, a Solan shop.
 2. Crackers carry their own oxygen. Once they catch, you can't smother them. In a home, there is no separation at all.
 3. Buy only what you'll burst. Never store stock at home. Licensed shops only. Is anyone storing crackers in your lane?
 
@@ -125,7 +125,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can crackers kill you at home? Never store them. Siwan shows why. A house exploded for hours. Then a Namakkal godown, a Solan shop."
+"Can 1 cracker stock cost you everything? Never keep it home. A house exploded for hours. Then a Namakkal godown, a Solan shop."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -184,12 +184,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 13. AC Sleeper Bus Fires
 
-**Hook:** "Can your bus kill you? Twenty killed on one sleeper bus." (hook score 100 STRONG)  
-**Spoken length:** 6.5s + 6.5s + 6.2s = 19.3s, plus a 2s end card
+**Hook:** "Can 1 bus ride cost you everything? Twenty lives lost." (hook score 100 STRONG)  
+**Spoken length:** 6.2s + 6.5s + 6.2s = 18.9s, plus a 2s end card
 
 **Full script**
 
-1. Can your bus kill you? Twenty killed on one sleeper bus. Jaisalmer, 2025. Yamuna Expressway, 2026: nine more.
+1. Can 1 bus ride cost you everything? Twenty lives lost. Jaisalmer, 2025. Yamuna Expressway, 2026: nine more.
 2. Sleeper berths, curtains, one narrow aisle, one door. Reports say passengers jumped out of the windows to escape.
 3. Before you sleep on a bus, find the emergency exit and the hammer. Would you find yours?
 
@@ -211,12 +211,12 @@ Shot 1 (0 to 3 seconds): an AC sleeper bus on a dark highway, flames bursting fr
 Shot 2 (3 to 6 seconds): the bus burning on the roadside, smoke lit by passing headlights.
 Shot 3 (6 to 10 seconds): a burnt bus shell at dawn.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "9 + 20 DEAD" at 0 seconds, then "SLEEPER BUS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "29 LIVES LOST" at 0 seconds, then "SLEEPER BUS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can your bus kill you? Twenty killed on one sleeper bus. Jaisalmer, 2025. Yamuna Expressway, 2026: nine more."
+"Can 1 bus ride cost you everything? Twenty lives lost. Jaisalmer, 2025. Yamuna Expressway, 2026: nine more."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -275,12 +275,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 14. One Exit, No Way Out
 
-**Hook:** "Can one door kill you? Twenty-one killed in Delhi." (hook score 100 STRONG)  
-**Spoken length:** 7.3s + 7.3s + 6.9s = 21.5s, plus a 2s end card
+**Hook:** "Can 1 door cost you everything? Twenty-one lives lost in Delhi." (hook score 94 STRONG)  
+**Spoken length:** 8.0s + 7.3s + 6.9s = 22.2s, plus a 2s end card
 
 **Full script**
 
-1. Can one door kill you? Twenty-one killed in Delhi. A Lucknow coaching centre. A Goa club with a narrow entry.
+1. Can 1 door cost you everything? Twenty-one lives lost in Delhi. A Delhi guest house. A Lucknow coaching centre. A Goa club.
 2. Fire doesn't need to reach you. Smoke blocks the one exit you know, and every second after that is luck.
 3. Two exits on every floor. Never locked. Never blocked. Find both before you settle anywhere. Did you check today?
 
@@ -307,7 +307,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can one door kill you? Twenty-one killed in Delhi. A Lucknow coaching centre. A Goa club with a narrow entry."
+"Can 1 door cost you everything? Twenty-one lives lost in Delhi. A Delhi guest house. A Lucknow coaching centre. A Goa club."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -366,12 +366,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 15. Decorative Light Fires
 
-**Hook:** "Can 1 light string kill you? Never leave it on overnight." (hook score 100 STRONG)  
-**Spoken length:** 8.7s + 7.3s + 6.5s = 22.5s, plus a 2s end card
+**Hook:** "Can 1 light string cost you your shop? Never leave it on." (hook score 100 STRONG)  
+**Spoken length:** 9.1s + 7.3s + 6.5s = 22.9s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 light string kill you? Never leave it on overnight. A Greater Noida mall caught fire this month. Delhi: 257 calls on Diwali.
+1. Can 1 light string cost you your shop? Never leave it on. A Greater Noida mall caught fire this month. Delhi: 257 calls on Diwali.
 2. Cheap light strings, joints taped together, left on all night against cloth and plastic. Heat builds where nobody is looking.
 3. Certified lights only. No taped joints. Switch off at night. How long do your festive lights stay on?
 
@@ -398,7 +398,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 light string kill you? Never leave it on overnight. A Greater Noida mall caught fire this month. Delhi: 257 calls on Diwali."
+"Can 1 light string cost you your shop? Never leave it on. A Greater Noida mall caught fire this month. Delhi: 257 calls on Diwali."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -457,12 +457,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 16. Showroom Fires
 
-**Hook:** "Can 1 loose joint kill you? Three showrooms lost in one week." (hook score 94 STRONG)  
-**Spoken length:** 5.8s + 8.0s + 7.3s = 21.1s, plus a 2s end card
+**Hook:** "Can 1 loose joint cost you your showroom? Three lost." (hook score 100 STRONG)  
+**Spoken length:** 5.1s + 8.0s + 7.3s = 20.4s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 loose joint kill you? Three showrooms lost in one week. Saket, Kanpur, Greater Noida.
+1. Can 1 loose joint cost you your showroom? Three lost. Saket, Kanpur, Greater Noida.
 2. Showrooms run lights, displays and chargers all day on wiring that was never upgraded. A short circuit waits for one loose joint.
 3. Yearly thermal scan of panels. Load check before adding displays. Main switch off at closing. When did you last check?
 
@@ -489,7 +489,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 loose joint kill you? Three showrooms lost in one week. Saket, Kanpur, Greater Noida."
+"Can 1 loose joint cost you your showroom? Three lost. Saket, Kanpur, Greater Noida."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -548,12 +548,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 17. Market Fires
 
-**Hook:** "Can 1 narrow lane cost you? Jammu lost 40 shops." (hook score 100 STRONG)  
-**Spoken length:** 6.2s + 8.0s + 6.9s = 21.1s, plus a 2s end card
+**Hook:** "Can 1 narrow lane cost you your shop? Jammu lost 40." (hook score 100 STRONG)  
+**Spoken length:** 6.5s + 8.0s + 6.9s = 21.5s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 narrow lane cost you? Jammu lost 40 shops. Hyderabad's Patel Market. Jammu again, Diwali night.
+1. Can 1 narrow lane cost you your shop? Jammu lost 40. Hyderabad's Patel Market. Jammu again, Diwali night.
 2. One short circuit in one shop, wind, and lanes too narrow for fire tenders. The market burns while the trucks wait outside.
 3. Clear the lanes. Extinguisher in every shop. Main switch off at closing. Can a fire tender reach your shop?
 
@@ -580,7 +580,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 narrow lane cost you? Jammu lost 40 shops. Hyderabad's Patel Market. Jammu again, Diwali night."
+"Can 1 narrow lane cost you your shop? Jammu lost 40. Hyderabad's Patel Market. Jammu again, Diwali night."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -639,12 +639,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 18. Chemical Drum Fires
 
-**Hook:** "Can one drum cost you four factories? Navi Mumbai lost them." (hook score 100 STRONG)  
+**Hook:** "Can 1 drum cost you four factories? Navi Mumbai lost them." (hook score 100 STRONG)  
 **Spoken length:** 6.2s + 7.6s + 7.3s = 21.1s, plus a 2s end card
 
 **Full script**
 
-1. Can one drum cost you four factories? Navi Mumbai lost them. Kolkata, September: a closed factory burned.
+1. Can 1 drum cost you four factories? Navi Mumbai lost them. Kolkata, September: a closed factory burned.
 2. A heated drum builds pressure, ruptures, and throws burning liquid. Each drum feeds the next. Closed factories still hold the fuel.
 3. Store drums apart, away from heat. Clear stock from idle units. Keep foam ready. What's stored in that closed factory?
 
@@ -671,7 +671,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can one drum cost you four factories? Navi Mumbai lost them. Kolkata, September: a closed factory burned."
+"Can 1 drum cost you four factories? Navi Mumbai lost them. Kolkata, September: a closed factory burned."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -730,12 +730,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 19. Fires During Repair Work
 
-**Hook:** "Can repairs kill you? Four killed in Chhatral." (hook score 100 STRONG)  
-**Spoken length:** 6.5s + 7.3s + 6.5s = 20.4s, plus a 2s end card
+**Hook:** "Can repairs cost you everything? Four workers lost in Chhatral." (hook score 94 STRONG)  
+**Spoken length:** 7.3s + 7.3s + 6.5s = 21.1s, plus a 2s end card
 
 **Full script**
 
-1. Can repairs kill you? Four killed in Chhatral. Pipe-fitting near a boiler. Rewari, May: blasts during repair work.
+1. Can repairs cost you everything? Four workers lost in Chhatral. Pipe-fitting near a boiler. Rewari, May: blasts during repair work.
 2. Repairs bring sparks, cutting and open lines into places built to stay closed. Plants are often riskiest while being fixed.
 3. Hot work permit. Isolate and depressurise first. Fire watch for an hour after. Does your plant use permits?
 
@@ -757,12 +757,12 @@ Shot 1 (0 to 3 seconds): a welder's sparks raining down inside a chemical plant,
 Shot 2 (3 to 6 seconds): a pipe bursting near a boiler during fitting work.
 Shot 3 (6 to 10 seconds): smoke and debris in a plant corridor.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DURING REPAIRS" at 0 seconds, then "4 KILLED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DURING REPAIRS" at 0 seconds, then "4 LIVES LOST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can repairs kill you? Four killed in Chhatral. Pipe-fitting near a boiler. Rewari, May: blasts during repair work."
+"Can repairs cost you everything? Four workers lost in Chhatral. Pipe-fitting near a boiler. Rewari, May: blasts during repair work."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -821,12 +821,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 20. High-Rise Fires
 
-**Hook:** "Can your stairs kill you? Two killed in Nalasopara." (hook score 100 STRONG)  
-**Spoken length:** 5.1s + 8.0s + 6.9s = 20.0s, plus a 2s end card
+**Hook:** "Can your stairs cost you everything? Two lives lost in Nalasopara." (hook score 94 STRONG)  
+**Spoken length:** 6.9s + 8.0s + 6.9s = 21.8s, plus a 2s end card
 
 **Full script**
 
-1. Can your stairs kill you? Two killed in Nalasopara. Goregaon, March. Ghansoli, seventh floor.
+1. Can your stairs cost you everything? Two lives lost in Nalasopara. Nalasopara, October: two. Goregaon, March. Ghansoli, seventh floor.
 2. Fire ladders reach only so high. Above that, your escape is the staircase, and in Nalasopara the stairwell itself filled with heat.
 3. Keep fire doors shut. Never store in stairwells. Know your refuge floor. Have you ever walked your fire escape?
 
@@ -853,7 +853,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can your stairs kill you? Two killed in Nalasopara. Goregaon, March. Ghansoli, seventh floor."
+"Can your stairs cost you everything? Two lives lost in Nalasopara. Nalasopara, October: two. Goregaon, March. Ghansoli, seventh floor."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```

@@ -23,12 +23,12 @@ fire footage; red is kept for impact words so it never fights the title.
 End card on every reel: FIRE CLAIMS DECODED · @parag_pethe1 · FOLLOW · 1 FIRE CAUSE EVERY REEL
 
 Every reel opens with a short, surprising question in the first 3 seconds,
-answered at once by a real number ("Can your AC kill you? Nine killed in
-Delhi."). Scored with `hookscore.py`: 48 of 50 score 94 or 100; episodes 35
-and 50 score 88 and 84 because the higher-scoring wording would have
-misstated the facts. Numbers right after "Can" are written as digits ("Can 1
-cylinder…"): the narrator still says "one", and captions read faster. Spoken lengths were timed at 165 words a
-minute; every part fits its clip.
+answered at once by a real number: "Can your AC cost you everything? Nine
+lives lost in Delhi." "Cost you everything" covers both lives and property,
+which is what this series is about; there is no "kill", "killed" or "dead" in
+any narration or on-screen word. Scored with `hookscore.py`: 48 of 50 score
+94 or 100, and episodes 35 and 42 score 88. Numbers right after "Can" are
+written as digits ("Can 1 cylinder"): the narrator still says "one".
 
 ## Before you generate
 
@@ -52,53 +52,53 @@ minute; every part fits its clip.
 
 | # | topic | hook | score |
 |---|---|---|---|
-| 01 | [Hospital ICU Fires](episodes-01-10.md#01-hospital-icu-fires) | Can your ICU kill you? One short circuit killed ten patients. | 94 |
-| 02 | [Hotel Fires](episodes-01-10.md#02-hotel-fires) | Can your hotel kill you? Twenty-one killed in Delhi. | 100 |
-| 03 | [AC Blast Fires](episodes-01-10.md#03-ac-blast-fires) | Can your AC kill you? Nine killed in Delhi. | 100 |
-| 04 | [E-Scooter Charging Fires](episodes-01-10.md#04-e-scooter-charging-fires) | Can your e-scooter kill you? Two killed in Noida. | 100 |
-| 05 | [Ground-Floor Short Circuits](episodes-01-10.md#05-ground-floor-short-circuits) | Can a shop kill you upstairs? Seventeen killed in Hyderabad. | 100 |
-| 06 | [Restaurant Gas Cylinders](episodes-01-10.md#06-restaurant-gas-cylinders) | Can 1 cylinder kill you? Never stack them. Delhi saw 3 explode. | 94 |
-| 07 | [Power Bank Fires](episodes-01-10.md#07-power-bank-fires) | Can 1 power bank kill you? Never stow it overhead. | 100 |
-| 08 | [Pharma Reactor Explosions](episodes-01-10.md#08-pharma-reactor-explosions) | Can one reactor kill you? Five workers killed in Bharuch. | 100 |
-| 09 | [Boiler Explosions](episodes-01-10.md#09-boiler-explosions) | Can your boiler kill you? Nine workers killed in April. | 100 |
-| 10 | [Godown Fire Losses](episodes-01-10.md#10-godown-fire-losses) | Can one fire cost you 4.81 crore? Nagpur lost it overnight. | 100 |
-| 11 | [Fireworks Factory Blasts](episodes-11-20.md#11-fireworks-factory-blasts) | Can one spark kill you? Three fireworks blasts killed dozens. | 94 |
-| 12 | [Crackers Stored at Home](episodes-11-20.md#12-crackers-stored-at-home) | Can crackers kill you at home? Never store them. Siwan shows why. | 94 |
-| 13 | [AC Sleeper Bus Fires](episodes-11-20.md#13-ac-sleeper-bus-fires) | Can your bus kill you? Twenty killed on one sleeper bus. | 100 |
-| 14 | [One Exit, No Way Out](episodes-11-20.md#14-one-exit-no-way-out) | Can one door kill you? Twenty-one killed in Delhi. | 100 |
-| 15 | [Decorative Light Fires](episodes-11-20.md#15-decorative-light-fires) | Can 1 light string kill you? Never leave it on overnight. | 100 |
-| 16 | [Showroom Fires](episodes-11-20.md#16-showroom-fires) | Can 1 loose joint kill you? Three showrooms lost in one week. | 94 |
-| 17 | [Market Fires](episodes-11-20.md#17-market-fires) | Can 1 narrow lane cost you? Jammu lost 40 shops. | 100 |
-| 18 | [Chemical Drum Fires](episodes-11-20.md#18-chemical-drum-fires) | Can one drum cost you four factories? Navi Mumbai lost them. | 100 |
-| 19 | [Fires During Repair Work](episodes-11-20.md#19-fires-during-repair-work) | Can repairs kill you? Four killed in Chhatral. | 100 |
-| 20 | [High-Rise Fires](episodes-11-20.md#20-high-rise-fires) | Can your stairs kill you? Two killed in Nalasopara. | 100 |
-| 21 | [Smoke Kills First](episodes-21-30.md#21-smoke-kills-first) | Can smoke kill you first? Workers died of smoke in Mangolpuri. | 94 |
-| 22 | [Textile and Garment Units](episodes-21-30.md#22-textile-and-garment-units) | Can one cylinder kill you at work? Surat lost two workers. | 100 |
-| 23 | [Transformer Fires](episodes-21-30.md#23-transformer-fires) | Can a transformer kill you? Hafeezpet lost vehicles in March. | 94 |
-| 24 | [CNG Car Fires](episodes-21-30.md#24-cng-car-fires) | Can 1 CNG car fire kill you? A Barabanki driver was killed. | 100 |
-| 25 | [Pandal Fires](episodes-21-30.md#25-pandal-fires) | Can one spark kill you? Twenty-five killed in Goa. | 100 |
-| 26 | [Plastic Factory Fires](episodes-21-30.md#26-plastic-factory-fires) | Can 1 plastic fire kill you? Never stack high. | 100 |
-| 27 | [Cold Storage Ammonia](episodes-21-30.md#27-cold-storage-ammonia) | Can 1 cold room kill you? Four killed in Prayagraj. | 100 |
-| 28 | [LPG Tanker Fires](episodes-21-30.md#28-lpg-tanker-fires) | Can a tanker kill you? Never film it. Kaushambi lost four. | 100 |
+| 01 | [Hospital ICU Fires](episodes-01-10.md#01-hospital-icu-fires) | Can 1 spark cost your ICU everything? Ten lives lost. | 100 |
+| 02 | [Hotel Fires](episodes-01-10.md#02-hotel-fires) | Can your hotel cost you everything? Twenty-one lives lost in Delhi. | 94 |
+| 03 | [AC Blast Fires](episodes-01-10.md#03-ac-blast-fires) | Can your AC cost you everything? Nine lives lost in Delhi. | 100 |
+| 04 | [E-Scooter Charging Fires](episodes-01-10.md#04-e-scooter-charging-fires) | Can your e-scooter cost you everything? Two lives lost in Noida. | 94 |
+| 05 | [Ground-Floor Short Circuits](episodes-01-10.md#05-ground-floor-short-circuits) | Can 1 shop below cost you everything? Seventeen lives lost. | 100 |
+| 06 | [Restaurant Gas Cylinders](episodes-01-10.md#06-restaurant-gas-cylinders) | Can 1 cylinder cost you everything? Never stack 19. Srinagar did. | 94 |
+| 07 | [Power Bank Fires](episodes-01-10.md#07-power-bank-fires) | Can 1 power bank risk your flight? Never stow it overhead. | 100 |
+| 08 | [Pharma Reactor Explosions](episodes-01-10.md#08-pharma-reactor-explosions) | Can 1 reactor cost you everything? Five workers lost in Bharuch. | 94 |
+| 09 | [Boiler Explosions](episodes-01-10.md#09-boiler-explosions) | Can your boiler cost you everything? Nine workers lost in April. | 94 |
+| 10 | [Godown Fire Losses](episodes-01-10.md#10-godown-fire-losses) | Can 1 fire cost you 4.81 crore? Nagpur lost it overnight. | 100 |
+| 11 | [Fireworks Factory Blasts](episodes-11-20.md#11-fireworks-factory-blasts) | Can 1 spark cost you everything? Dozens of lives lost. | 100 |
+| 12 | [Crackers Stored at Home](episodes-11-20.md#12-crackers-stored-at-home) | Can 1 cracker stock cost you everything? Never keep it home. | 100 |
+| 13 | [AC Sleeper Bus Fires](episodes-11-20.md#13-ac-sleeper-bus-fires) | Can 1 bus ride cost you everything? Twenty lives lost. | 100 |
+| 14 | [One Exit, No Way Out](episodes-11-20.md#14-one-exit-no-way-out) | Can 1 door cost you everything? Twenty-one lives lost in Delhi. | 94 |
+| 15 | [Decorative Light Fires](episodes-11-20.md#15-decorative-light-fires) | Can 1 light string cost you your shop? Never leave it on. | 100 |
+| 16 | [Showroom Fires](episodes-11-20.md#16-showroom-fires) | Can 1 loose joint cost you your showroom? Three lost. | 100 |
+| 17 | [Market Fires](episodes-11-20.md#17-market-fires) | Can 1 narrow lane cost you your shop? Jammu lost 40. | 100 |
+| 18 | [Chemical Drum Fires](episodes-11-20.md#18-chemical-drum-fires) | Can 1 drum cost you four factories? Navi Mumbai lost them. | 100 |
+| 19 | [Fires During Repair Work](episodes-11-20.md#19-fires-during-repair-work) | Can repairs cost you everything? Four workers lost in Chhatral. | 94 |
+| 20 | [High-Rise Fires](episodes-11-20.md#20-high-rise-fires) | Can your stairs cost you everything? Two lives lost in Nalasopara. | 94 |
+| 21 | [Smoke Strikes First](episodes-21-30.md#21-smoke-strikes-first) | Can 1 breath of smoke cost you everything? Mangolpuri lost workers. | 94 |
+| 22 | [Textile and Garment Units](episodes-21-30.md#22-textile-and-garment-units) | Can 1 cylinder cost your factory everything? Surat lost two workers. | 94 |
+| 23 | [Transformer Fires](episodes-21-30.md#23-transformer-fires) | Can 1 transformer cost you your car? Hafeezpet lost vehicles in March. | 94 |
+| 24 | [CNG Car Fires](episodes-21-30.md#24-cng-car-fires) | Can 1 CNG car fire cost you everything? One driver lost. | 100 |
+| 25 | [Pandal Fires](episodes-21-30.md#25-pandal-fires) | Can 1 spark cost you everything? Twenty-five lives lost in Goa. | 94 |
+| 26 | [Plastic Factory Fires](episodes-21-30.md#26-plastic-factory-fires) | Can 1 plastic fire cost you your factory? Never stack high. | 100 |
+| 27 | [Cold Storage Ammonia](episodes-21-30.md#27-cold-storage-ammonia) | Can 1 cold room cost you everything? Four workers lost in Prayagraj. | 94 |
+| 28 | [LPG Tanker Fires](episodes-21-30.md#28-lpg-tanker-fires) | Can 1 tanker cost you everything? Never film it. Kaushambi lost four. | 94 |
 | 29 | [Cotton Ginning Fires](episodes-21-30.md#29-cotton-ginning-fires) | Can 1 hot silencer cost you? 2,000 quintals lost in Washim. | 100 |
 | 30 | [Diwali Night Fires](episodes-21-30.md#30-diwali-night-fires) | Can 1 rocket cost you your home? Never store junk on balconies. | 94 |
 | 31 | [Rooftop Solar Fires](episodes-31-40.md#31-rooftop-solar-fires) | Can 1 bad solar wire cost you your home? Never skip checks. | 100 |
-| 32 | [LPG Leaks at Night](episodes-31-40.md#32-lpg-leaks-at-night) | Can 1 switch kill you? Never touch it if you smell gas. | 100 |
-| 33 | [Short Circuits That Don't Trip](episodes-31-40.md#33-short-circuits-that-dont-trip) | Can 1 short circuit kill you? Six killed in Seoni. | 100 |
-| 34 | [Fire Tender Access](episodes-31-40.md#34-fire-tender-access) | Can 400 metres kill you? Goa's fire tankers waited there. Twenty-five killed. | 94 |
-| 35 | [ICU Evacuation Done Right](episodes-31-40.md#35-icu-evacuation-done-right) | Can 1 drill save your patients? Never skip it. Ten killed in Cuttack. | 88 |
-| 36 | [Fire NOC and Licences](episodes-31-40.md#36-fire-noc-and-licences) | Can no NOC kill your claim? Twenty-five died in one Goa club. | 94 |
-| 37 | [Illegal Units Near Homes](episodes-31-40.md#37-illegal-units-near-homes) | Can 1 illegal unit kill you? Eight killed in Ahmedabad. | 100 |
-| 38 | [Overloaded Wiring](episodes-31-40.md#38-overloaded-wiring) | Can your wiring kill you? Seventeen killed in Hyderabad. | 100 |
+| 32 | [LPG Leaks at Night](episodes-31-40.md#32-lpg-leaks-at-night) | Can 1 switch cost you everything? Never flick it near gas. | 100 |
+| 33 | [Short Circuits That Don't Trip](episodes-31-40.md#33-short-circuits-that-dont-trip) | Can 1 short circuit cost you everything? Six lives lost in Seoni. | 94 |
+| 34 | [Fire Tender Access](episodes-31-40.md#34-fire-tender-access) | Can 400 metres cost you everything? Twenty-five lost in Goa. | 100 |
+| 35 | [ICU Evacuation Done Right](episodes-31-40.md#35-icu-evacuation-done-right) | Can 1 drill save your patients? Never skip it. Ten lost in Cuttack. | 88 |
+| 36 | [Fire NOC and Licences](episodes-31-40.md#36-fire-noc-and-licences) | Can no NOC cost you your claim? Twenty-five lost in Goa. | 100 |
+| 37 | [Illegal Units Near Homes](episodes-31-40.md#37-illegal-units-near-homes) | Can 1 illegal unit cost you everything? Eight lives lost in Ahmedabad. | 94 |
+| 38 | [Overloaded Wiring](episodes-31-40.md#38-overloaded-wiring) | Can your wiring cost you everything? Seventeen lives lost in Hyderabad. | 94 |
 | 39 | [Business Interruption](episodes-31-40.md#39-business-interruption) | Can 1 fire cost you 3 months' rent? Not on a basic policy. | 94 |
 | 40 | [Fire Spreads to Neighbours](episodes-31-40.md#40-fire-spreads-to-neighbours) | Can 1 neighbour's fire cost you? Four factories lost to one. | 100 |
 | 41 | [Vehicles Burned in Fires](episodes-41-50.md#41-vehicles-burned-in-fires) | Can 1 kitchen blast cost you your car? Balasore lost several. | 94 |
-| 42 | [Why Fire Cause Matters](episodes-41-50.md#42-why-fire-cause-matters) | Can no cause kill your claim? Never clean up. Seoni called forensics. | 94 |
+| 42 | [Why Fire Cause Matters](episodes-41-50.md#42-why-fire-cause-matters) | Can no cause cost you your claim? Never clean up. Seoni called forensics. | 88 |
 | 43 | [Escape Before You Need It](episodes-41-50.md#43-escape-before-you-need-it) | Can you escape without a plan? Never. Lucknow students jumped. | 94 |
-| 44 | [AC Fires in Hotels and Buses](episodes-41-50.md#44-ac-fires-in-hotels-and-buses) | Can 1 hotel AC kill you? Nine killed in Kolkata. | 100 |
-| 45 | [Lithium Battery Fires](episodes-41-50.md#45-lithium-battery-fires) | Can 1 swollen battery kill you? Never charge it. | 100 |
-| 46 | [Stilt Parking Fires](episodes-41-50.md#46-stilt-parking-fires) | Can your parking kill you? Two killed in Noida. Never charge there. | 94 |
-| 47 | [Restaurant Fires Spread Up](episodes-41-50.md#47-restaurant-fires-spread-up) | Can 1 kitchen fire kill you upstairs? Never ignore it. | 100 |
+| 44 | [AC Fires in Hotels and Buses](episodes-41-50.md#44-ac-fires-in-hotels-and-buses) | Can 1 hotel AC cost you everything? Nine lives lost in Kolkata. | 94 |
+| 45 | [Lithium Battery Fires](episodes-41-50.md#45-lithium-battery-fires) | Can 1 swollen battery cost you everything? Never charge it. | 100 |
+| 46 | [Stilt Parking Fires](episodes-41-50.md#46-stilt-parking-fires) | Can your parking cost you everything? Two lives lost in Noida. | 94 |
+| 47 | [Restaurant Fires Spread Up](episodes-41-50.md#47-restaurant-fires-spread-up) | Can 1 kitchen fire cost you everything upstairs? Never ignore it. | 94 |
 | 48 | [The Underinsurance Trap](episodes-41-50.md#48-the-underinsurance-trap) | Can 1 crore cover only 50 lakh? Never underinsure your stock. | 94 |
 | 49 | [Godown Fires at Night](episodes-41-50.md#49-godown-fires-at-night) | Can 1 godown fire cost you crores? Never leave power on. | 100 |
-| 50 | [Toxic Gas After Industrial Fires](episodes-41-50.md#50-toxic-gas-after-industrial-fires) | Can 1 blast leak toxic gas on you? Five killed in Bharuch. | 84 |
+| 50 | [Toxic Gas After Industrial Fires](episodes-41-50.md#50-toxic-gas-after-industrial-fires) | Can 1 blast cost you everything? Five lives lost, then gas leaked. | 94 |

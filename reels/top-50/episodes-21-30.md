@@ -1,13 +1,13 @@
 # Fire Claims Decoded: episodes 21 to 30
 
-## 21. Smoke Kills First
+## 21. Smoke Strikes First
 
-**Hook:** "Can smoke kill you first? Workers died of smoke in Mangolpuri." (hook score 94 STRONG)  
+**Hook:** "Can 1 breath of smoke cost you everything? Mangolpuri lost workers." (hook score 94 STRONG)  
 **Spoken length:** 6.2s + 7.3s + 7.3s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Can smoke kill you first? Workers died of smoke in Mangolpuri. Kolkata hotel: victims found in bathrooms.
+1. Can 1 breath of smoke cost you everything? Mangolpuri lost workers. Kolkata hotel: victims found in bathrooms.
 2. Smoke reaches you before fire does. A few breaths make you drowsy and confused. People hide instead of getting out.
 3. Stay low. Cover your mouth. Get out, don't hide. Close doors behind you. Would you know which way to crawl?
 
@@ -20,7 +20,7 @@
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Smoke Kills First" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Smoke Strikes First" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
@@ -34,7 +34,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can smoke kill you first? Workers died of smoke in Mangolpuri. Kolkata hotel: victims found in bathrooms."
+"Can 1 breath of smoke cost you everything? Mangolpuri lost workers. Kolkata hotel: victims found in bathrooms."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -44,7 +44,7 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Smoke Kills First" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Smoke Strikes First" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
@@ -68,7 +68,7 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Smoke Kills First" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Smoke Strikes First" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
@@ -93,12 +93,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 22. Textile and Garment Units
 
-**Hook:** "Can one cylinder kill you at work? Surat lost two workers." (hook score 100 STRONG)  
+**Hook:** "Can 1 cylinder cost your factory everything? Surat lost two workers." (hook score 94 STRONG)  
 **Spoken length:** 8.0s + 7.3s + 7.3s = 22.5s, plus a 2s end card
 
 **Full script**
 
-1. Can one cylinder kill you at work? Surat lost two workers. Short circuit, then cylinders. Najafgarh: fire jumped to the next unit.
+1. Can 1 cylinder cost your factory everything? Surat lost two workers. Short circuit, then cylinders. Najafgarh: fire jumped to the next unit.
 2. Fabric, thread and dust burn fast. Add cooking cylinders and old machine wiring, and one spark has everything it needs.
 3. No cylinders on the factory floor. Machines on separate circuits. Lint cleaned daily. What else is stored in your unit?
 
@@ -125,7 +125,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can one cylinder kill you at work? Surat lost two workers. Short circuit, then cylinders. Najafgarh: fire jumped to the next unit."
+"Can 1 cylinder cost your factory everything? Surat lost two workers. Short circuit, then cylinders. Najafgarh: fire jumped to the next unit."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -184,12 +184,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 23. Transformer Fires
 
-**Hook:** "Can a transformer kill you? Hafeezpet lost vehicles in March." (hook score 94 STRONG)  
-**Spoken length:** 6.9s + 6.5s + 6.9s = 20.4s, plus a 2s end card
+**Hook:** "Can 1 transformer cost you your car? Hafeezpet lost vehicles in March." (hook score 94 STRONG)  
+**Spoken length:** 7.6s + 6.5s + 6.9s = 21.1s, plus a 2s end card
 
 **Full script**
 
-1. Can a transformer kill you? Hafeezpet lost vehicles in March. Laxmi Nagar, April: a transformer fire climbed into flats.
+1. Can 1 transformer cost you your car? Hafeezpet lost vehicles in March. Laxmi Nagar, April: a transformer fire climbed into flats.
 2. An overloaded transformer overheats its oil. The oil leaks, ignites, and anything parked or dumped underneath becomes fuel.
 3. Never park or dump garbage under a transformer. Report leaks and sparking. What's under the one on your street?
 
@@ -216,7 +216,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can a transformer kill you? Hafeezpet lost vehicles in March. Laxmi Nagar, April: a transformer fire climbed into flats."
+"Can 1 transformer cost you your car? Hafeezpet lost vehicles in March. Laxmi Nagar, April: a transformer fire climbed into flats."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -275,12 +275,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 24. CNG Car Fires
 
-**Hook:** "Can 1 CNG car fire kill you? A Barabanki driver was killed." (hook score 100 STRONG)  
-**Spoken length:** 6.9s + 8.7s + 6.9s = 22.5s, plus a 2s end card
+**Hook:** "Can 1 CNG car fire cost you everything? One driver lost." (hook score 100 STRONG)  
+**Spoken length:** 7.3s + 8.7s + 6.9s = 22.9s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 CNG car fire kill you? A Barabanki driver was killed. Indore: a family escaped just in time.
+1. Can 1 CNG car fire cost you everything? One driver lost. Barabanki, October. Indore: a family escaped just in time.
 2. A badly fitted kit, a loose fuel joint, or a short circuit behind the dashboard. In a car, flames reach the cabin in seconds.
 3. Authorised kit fitment only. Leak test every year. Smell gas? Stop, get out, step away. When was yours tested?
 
@@ -307,7 +307,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 CNG car fire kill you? A Barabanki driver was killed. Indore: a family escaped just in time."
+"Can 1 CNG car fire cost you everything? One driver lost. Barabanki, October. Indore: a family escaped just in time."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -366,12 +366,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 25. Pandal Fires
 
-**Hook:** "Can one spark kill you? Twenty-five killed in Goa." (hook score 100 STRONG)  
-**Spoken length:** 6.5s + 8.0s + 7.6s = 22.2s, plus a 2s end card
+**Hook:** "Can 1 spark cost you everything? Twenty-five lives lost in Goa." (hook score 94 STRONG)  
+**Spoken length:** 8.0s + 8.0s + 7.6s = 23.6s, plus a 2s end card
 
 **Full script**
 
-1. Can one spark kill you? Twenty-five killed in Goa. Raipur, October: a firework spark lit a Durga pandal.
+1. Can 1 spark cost you everything? Twenty-five lives lost in Goa. Goa, December. Raipur, October: a firework spark lit a Durga pandal.
 2. Thermocol, cloth and bamboo are fuel dressed up as decoration. Add sparks or fireworks nearby, and the whole structure goes up together.
 3. Fire-retardant fabric. No fireworks near pandals. Two clear exits. Patna now needs fire certificates for big pandals. Does yours have one?
 
@@ -398,7 +398,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can one spark kill you? Twenty-five killed in Goa. Raipur, October: a firework spark lit a Durga pandal."
+"Can 1 spark cost you everything? Twenty-five lives lost in Goa. Goa, December. Raipur, October: a firework spark lit a Durga pandal."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -457,12 +457,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 26. Plastic Factory Fires
 
-**Hook:** "Can 1 plastic fire kill you? Never stack high." (hook score 100 STRONG)  
-**Spoken length:** 7.3s + 7.6s + 5.1s = 20.0s, plus a 2s end card
+**Hook:** "Can 1 plastic fire cost you your factory? Never stack high." (hook score 100 STRONG)  
+**Spoken length:** 8.0s + 7.6s + 5.1s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 plastic fire kill you? Never stack high. Ghaziabad lost a factory this month. Gurugram: fire jumped to warehouses.
+1. Can 1 plastic fire cost you your factory? Never stack high. Ghaziabad lost a factory this month. Gurugram: fire jumped to warehouses.
 2. Plastic burns hotter than wood, melts, drips fire, and makes black smoke you can't see through. Ordinary sprinklers can't keep up.
 3. Limit stack height. Separate storage. Sprinklers designed for plastics. Would your sprinklers handle plastic?
 
@@ -489,7 +489,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 plastic fire kill you? Never stack high. Ghaziabad lost a factory this month. Gurugram: fire jumped to warehouses."
+"Can 1 plastic fire cost you your factory? Never stack high. Ghaziabad lost a factory this month. Gurugram: fire jumped to warehouses."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -548,12 +548,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 27. Cold Storage Ammonia
 
-**Hook:** "Can 1 cold room kill you? Four killed in Prayagraj." (hook score 100 STRONG)  
-**Spoken length:** 5.8s + 6.9s + 5.5s = 18.2s, plus a 2s end card
+**Hook:** "Can 1 cold room cost you everything? Four workers lost in Prayagraj." (hook score 94 STRONG)  
+**Spoken length:** 7.6s + 6.9s + 5.5s = 20.0s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 cold room kill you? Four killed in Prayagraj. Ammonia suspected. Chhapra, June: another leak.
+1. Can 1 cold room cost you everything? Four workers lost in Prayagraj. Prayagraj, March: four lost, ammonia suspected. Chhapra: another leak.
 2. Ammonia keeps cold rooms cold. Leaked into a closed space, it can ignite, and it's toxic long before that.
 3. Leak detectors. Maintained pipelines. Emergency ventilation. Trained staff. Would your staff know what to do?
 
@@ -580,7 +580,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 cold room kill you? Four killed in Prayagraj. Ammonia suspected. Chhapra, June: another leak."
+"Can 1 cold room cost you everything? Four workers lost in Prayagraj. Prayagraj, March: four lost, ammonia suspected. Chhapra: another leak."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -639,12 +639,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 28. LPG Tanker Fires
 
-**Hook:** "Can a tanker kill you? Never film it. Kaushambi lost four." (hook score 100 STRONG)  
-**Spoken length:** 8.0s + 8.0s + 7.3s = 23.3s, plus a 2s end card
+**Hook:** "Can 1 tanker cost you everything? Never film it. Kaushambi lost four." (hook score 94 STRONG)  
+**Spoken length:** 8.4s + 8.0s + 7.3s = 23.6s, plus a 2s end card
 
 **Full script**
 
-1. Can a tanker kill you? Never film it. Kaushambi lost four. A toll plaza fireball in June. Ramban, August: a tyre fire.
+1. Can 1 tanker cost you everything? Never film it. Kaushambi lost four. A toll plaza fireball in June. Ramban, August: a tyre fire.
 2. One was stopped in time. One wasn't. A tyre fire is minutes from the tank. A leak is seconds from a spark.
 3. Drivers: stop, cut the engine, get everyone away. Everyone else: never stop to watch or film. Would you walk away?
 
@@ -671,7 +671,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can a tanker kill you? Never film it. Kaushambi lost four. A toll plaza fireball in June. Ramban, August: a tyre fire."
+"Can 1 tanker cost you everything? Never film it. Kaushambi lost four. A toll plaza fireball in June. Ramban, August: a tyre fire."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```

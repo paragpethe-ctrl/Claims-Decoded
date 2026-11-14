@@ -1,11 +1,11 @@
 # The Refuge Area That Became a Store Room
 
-**Hook:** "Can 1 refuge area save you? Never block it. Two lost in Nalasopara." Hook score 88. The earlier statement hook ("Never block your one refuge area. Nalasopara lost two lives.") scored 100; the question version scores lower because the question needs a few more words to stay accurate. A shorter question ("Can 1 blocked refuge area kill you?") scores 94 but would suggest a blocked refuge caused the Nalasopara deaths, which no report says.
-**Timing:** 9.5s + 8.7s + 6.5s spoken, plus a 2s end card.
+**Hook:** "Can 1 refuge area save you? Never block it. Nalasopara lost two." Hook score 94. It is followed straight away by what was reported (the fire reached the refuge-floor door); no report says a blocked refuge caused the deaths.
+**Timing:** 9.1s + 8.7s + 6.5s spoken, plus a 2s end card.
 
 ## Script
 
-1. Can 1 refuge area save you? Never block it. Two lost in Nalasopara. The fire reached its refuge floor door. Mumbai, November: a refuge area burned.
+1. Can 1 refuge area save you? Never block it. Nalasopara lost two. The fire reached its refuge floor door. Mumbai, November: a refuge area burned.
 2. Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on the 15th-floor refuge. Fill yours with junk, and it becomes fuel.
 3. Check 3 things every month: empty, unlocked, signposted. Do you know which floor your refuge area is on?
 
@@ -37,7 +37,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 refuge area save you? Never block it. Two lost in Nalasopara. The fire reached its refuge floor door. Mumbai, November: a refuge area burned."
+"Can 1 refuge area save you? Never block it. Nalasopara lost two. The fire reached its refuge floor door. Mumbai, November: a refuge area burned."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```

@@ -93,12 +93,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 32. LPG Leaks at Night
 
-**Hook:** "Can 1 switch kill you? Never touch it if you smell gas." (hook score 100 STRONG)  
-**Spoken length:** 8.7s + 8.0s + 7.6s = 24.4s, plus a 2s end card
+**Hook:** "Can 1 switch cost you everything? Never flick it near gas." (hook score 100 STRONG)  
+**Spoken length:** 8.4s + 8.0s + 7.6s = 24.0s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 switch kill you? Never touch it if you smell gas. Miryalguda, June: three died in a night blast. Pune, 2025: two more.
+1. Can 1 switch cost you everything? Never flick it near gas. Miryalguda, June: three died in a night blast. Pune, 2025: two more.
 2. Here's how a slow leak becomes a blast: gas fills the room overnight, and one switch in the morning is the spark.
 3. Regulator off every night. Hose changed before expiry. Smell gas? Open windows, touch no switch, get out. Is yours off now?
 
@@ -120,12 +120,12 @@ Shot 1 (0 to 3 seconds): a small two-room house at night, windows blowing out in
 Shot 2 (3 to 6 seconds): a gas cylinder in a dark kitchen, a faint hiss.
 Shot 3 (6 to 10 seconds): neighbours gathering outside a damaged house at dawn, faces not visible.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NIGHT BLAST" at 0 seconds, then "3 KILLED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NIGHT BLAST" at 0 seconds, then "3 LIVES LOST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 switch kill you? Never touch it if you smell gas. Miryalguda, June: three died in a night blast. Pune, 2025: two more."
+"Can 1 switch cost you everything? Never flick it near gas. Miryalguda, June: three died in a night blast. Pune, 2025: two more."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -184,12 +184,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 33. Short Circuits That Don't Trip
 
-**Hook:** "Can 1 short circuit kill you? Six killed in Seoni." (hook score 100 STRONG)  
-**Spoken length:** 5.8s + 7.3s + 7.6s = 20.7s, plus a 2s end card
+**Hook:** "Can 1 short circuit cost you everything? Six lives lost in Seoni." (hook score 94 STRONG)  
+**Spoken length:** 7.6s + 7.3s + 7.6s = 22.5s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 short circuit kill you? Six killed in Seoni. Jammu: forty shops. Shankarpally: 3.6 crore.
+1. Can 1 short circuit cost you everything? Six lives lost in Seoni. Seoni: six lives. Jammu: forty shops. Shankarpally: 3.6 crore.
 2. Your MCB trips on overload. A loose joint doesn't overload, it just heats, quietly, for weeks, until the insulation burns.
 3. Tighten terminals yearly. Add an RCCB. Warm switch or burning smell? Call an electrician today. Is any switch warm at home?
 
@@ -216,7 +216,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 short circuit kill you? Six killed in Seoni. Jammu: forty shops. Shankarpally: 3.6 crore."
+"Can 1 short circuit cost you everything? Six lives lost in Seoni. Seoni: six lives. Jammu: forty shops. Shankarpally: 3.6 crore."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -275,12 +275,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 34. Fire Tender Access
 
-**Hook:** "Can 400 metres kill you? Goa's fire tankers waited there. Twenty-five killed." (hook score 94 STRONG)  
-**Spoken length:** 6.5s + 8.4s + 7.3s = 22.2s, plus a 2s end card
+**Hook:** "Can 400 metres cost you everything? Twenty-five lost in Goa." (hook score 100 STRONG)  
+**Spoken length:** 5.8s + 8.4s + 7.3s = 21.5s, plus a 2s end card
 
 **Full script**
 
-1. Can 400 metres kill you? Goa's fire tankers waited there. Twenty-five killed. Jammu's narrow lane. Washim's blocked yard.
+1. Can 400 metres cost you everything? Twenty-five lost in Goa. Jammu's narrow lane. Washim's blocked yard.
 2. Every minute a tender can't reach you, the fire grows. Narrow lanes, parked cars and locked gates decide the size of the loss.
 3. Keep the access road clear. No parking at the gate. Gates that open. Can a fire truck reach your building?
 
@@ -307,7 +307,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 400 metres kill you? Goa's fire tankers waited there. Twenty-five killed. Jammu's narrow lane. Washim's blocked yard."
+"Can 400 metres cost you everything? Twenty-five lost in Goa. Jammu's narrow lane. Washim's blocked yard."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -366,12 +366,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 35. ICU Evacuation Done Right
 
-**Hook:** "Can 1 drill save your patients? Never skip it. Ten killed in Cuttack." (hook score 88 STRONG)  
+**Hook:** "Can 1 drill save your patients? Never skip it. Ten lost in Cuttack." (hook score 88 STRONG)  
 **Spoken length:** 8.4s + 8.0s + 6.5s = 22.9s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 drill save your patients? Never skip it. Ten killed in Cuttack. A day later, every ICU patient got out in Thiruvananthapuram.
+1. Can 1 drill save your patients? Never skip it. Ten lost in Cuttack. A day later, every ICU patient got out in Thiruvananthapuram.
 2. In an ICU fire, the difference is minutes: who moves which patient, which door, which ward next. Plans made before, not during.
 3. Practise moving bed patients. Mark the route. Keep doors clear. Has your hospital done a drill this year?
 
@@ -398,7 +398,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 drill save your patients? Never skip it. Ten killed in Cuttack. A day later, every ICU patient got out in Thiruvananthapuram."
+"Can 1 drill save your patients? Never skip it. Ten lost in Cuttack. A day later, every ICU patient got out in Thiruvananthapuram."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -457,12 +457,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 36. Fire NOC and Licences
 
-**Hook:** "Can no NOC kill your claim? Twenty-five died in one Goa club." (hook score 94 STRONG)  
-**Spoken length:** 8.7s + 7.3s + 6.2s = 22.2s, plus a 2s end card
+**Hook:** "Can no NOC cost you your claim? Twenty-five lost in Goa." (hook score 100 STRONG)  
+**Spoken length:** 8.4s + 7.3s + 6.2s = 21.8s, plus a 2s end card
 
 **Full script**
 
-1. Can no NOC kill your claim? Twenty-five died in one Goa club. A Tamil Nadu unit without permission. A Kolkata hotel with no system.
+1. Can no NOC cost you your claim? Twenty-five lost in Goa. A Tamil Nadu unit without permission. A Kolkata hotel with no system.
 2. A licence isn't paperwork. It means someone checked exits, equipment and loads. Without it, your insurance claim can get complicated.
 3. Ask any venue for its fire NOC. Owners: renew it on time. Would you ask before booking?
 
@@ -489,7 +489,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can no NOC kill your claim? Twenty-five died in one Goa club. A Tamil Nadu unit without permission. A Kolkata hotel with no system."
+"Can no NOC cost you your claim? Twenty-five lost in Goa. A Tamil Nadu unit without permission. A Kolkata hotel with no system."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -548,12 +548,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 37. Illegal Units Near Homes
 
-**Hook:** "Can 1 illegal unit kill you? Eight killed in Ahmedabad." (hook score 100 STRONG)  
-**Spoken length:** 6.9s + 6.5s + 6.2s = 19.6s, plus a 2s end card
+**Hook:** "Can 1 illegal unit cost you everything? Eight lives lost in Ahmedabad." (hook score 94 STRONG)  
+**Spoken length:** 8.0s + 6.5s + 6.2s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Can 1 illegal unit kill you? Eight killed in Ahmedabad. Siwan, October: a house blast linked to illegal manufacturing.
+1. Can 1 illegal unit cost you everything? Eight lives lost in Ahmedabad. Ahmedabad, July. Siwan: a house blast linked to illegal manufacturing.
 2. Illegal units skip licences, stock limits and exits. Their fire doesn't stay inside their walls. It reaches yours.
 3. Know what operates in your lane. Report unlicensed units to the authorities. Is there one near you?
 
@@ -575,12 +575,12 @@ Shot 1 (0 to 3 seconds): a small unit in a residential lane exploding at dusk.
 Shot 2 (3 to 6 seconds): a house in a village lane with smoke and flashes.
 Shot 3 (6 to 10 seconds): neighbouring homes with cracked windows and soot.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ILLEGAL" at 0 seconds, then "8 DEAD" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ILLEGAL" at 0 seconds, then "8 LIVES LOST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 illegal unit kill you? Eight killed in Ahmedabad. Siwan, October: a house blast linked to illegal manufacturing."
+"Can 1 illegal unit cost you everything? Eight lives lost in Ahmedabad. Ahmedabad, July. Siwan: a house blast linked to illegal manufacturing."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -639,12 +639,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 38. Overloaded Wiring
 
-**Hook:** "Can your wiring kill you? Seventeen killed in Hyderabad." (hook score 100 STRONG)  
-**Spoken length:** 6.5s + 8.4s + 6.2s = 21.1s, plus a 2s end card
+**Hook:** "Can your wiring cost you everything? Seventeen lives lost in Hyderabad." (hook score 94 STRONG)  
+**Spoken length:** 8.0s + 8.4s + 6.2s = 22.5s, plus a 2s end card
 
 **Full script**
 
-1. Can your wiring kill you? Seventeen killed in Hyderabad. Fourteen ACs on aged cables. Hafeezpet: an overloaded transformer.
+1. Can your wiring cost you everything? Seventeen lives lost in Hyderabad. Hyderabad, 2025: fourteen ACs on aged cables. Hafeezpet: an overloaded transformer.
 2. Wires are sized for a load. Add ACs, geysers and chargers, and the same cable carries far more, heating up inside the wall.
 3. Get a load check before adding ACs. Upgrade cables and boards. How many ACs share your wiring?
 
@@ -671,7 +671,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can your wiring kill you? Seventeen killed in Hyderabad. Fourteen ACs on aged cables. Hafeezpet: an overloaded transformer."
+"Can your wiring cost you everything? Seventeen lives lost in Hyderabad. Hyderabad, 2025: fourteen ACs on aged cables. Hafeezpet: an overloaded transformer."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
