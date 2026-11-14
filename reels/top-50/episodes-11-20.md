@@ -20,20 +20,20 @@
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Fireworks Factory Blasts" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Fireworks Factory Blasts" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a fireworks factory shed in a dry field erupting in a huge flash and smoke column.
 Shot 2 (3 to 6 seconds): a second shed exploding moments later.
 Shot 3 (6 to 10 seconds): burnt cartons of fireworks scattered across red soil.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "3 BLASTS" at 0 seconds, then "DOZENS DEAD" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 BLASTS" at 0 seconds, then "DOZENS DEAD" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Three fireworks blasts. Dozens killed. Is your lane next? Andhra, February. Tamil Nadu, April. Gujarat, July."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -44,20 +44,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Fireworks Factory Blasts" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Fireworks Factory Blasts" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): macro of grey powder being mixed by hand, a tiny spark.
 Shot 2 (3 to 6 seconds): fireworks cartons stacked wall to wall in one room.
 Shot 3 (6 to 10 seconds): a blast wave tearing through a thin wall into the next room.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "ONE SPARK" at 0 seconds, then "CHAIN BLAST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ONE SPARK" at 0 seconds, then "CHAIN BLAST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Friction, heat or one spark in a mixing room. Without separation and stock limits, one room's blast sets off the next."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -68,21 +68,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Fireworks Factory Blasts" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Fireworks Factory Blasts" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): separate small sheds spaced far apart with earth mounds between them.
 Shot 2 (2.5 to 5 seconds): a closed, empty storage shed with a padlock.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "LICENCE" at 0 seconds, then "KEEP APART" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "LICENCE" at 0 seconds, then "KEEP APART" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Licensed units. Stock limits. Rooms kept apart. Nothing illegal in your lane. Is there a cracker unit near you?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -110,20 +111,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Crackers Stored at Home" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Crackers Stored at Home" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a village house at night with bright flashes bursting behind its windows.
 Shot 2 (3 to 6 seconds): a cupboard stacked with colourful cracker boxes, a fuse fizzing.
 Shot 3 (6 to 10 seconds): a cracker shop shutter with smoke pouring out.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "SIWAN" at 0 seconds, then "EXPLODED FOR HOURS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "SIWAN" at 0 seconds, then "EXPLODED FOR HOURS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never store Diwali crackers at home. Siwan shows why. A house exploded for hours. Then a Namakkal godown, a Solan shop."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -134,20 +135,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Crackers Stored at Home" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Crackers Stored at Home" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): macro of cracker powder burning fiercely under a glass dome.
 Shot 2 (3 to 6 seconds): a spark jumping from one carton to the next in a dark room.
 Shot 3 (6 to 10 seconds): a family living room with cracker boxes stacked beside a sofa.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "OWN OXYGEN" at 0 seconds, then "NO SEPARATION" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "OWN OXYGEN" at 0 seconds, then "NO SEPARATION" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Crackers carry their own oxygen. Once they catch, you can't smother them. In a home, there is no separation at all."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -158,21 +159,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Crackers Stored at Home" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Crackers Stored at Home" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): a bright licensed cracker shop with stock on metal racks and sand buckets.
 Shot 2 (2.5 to 5 seconds): a family bursting a few crackers outdoors in an open ground.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "NEVER AT HOME" at 0 seconds, then "LICENSED ONLY" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NEVER AT HOME" at 0 seconds, then "LICENSED ONLY" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Buy only what you'll burst. Never store stock at home. Licensed shops only. Is anyone storing crackers in your lane?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -200,20 +202,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "AC Sleeper Bus Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "AC Sleeper Bus Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): an AC sleeper bus on a dark highway, flames bursting from its rear.
 Shot 2 (3 to 6 seconds): the bus burning on the roadside, smoke lit by passing headlights.
 Shot 3 (6 to 10 seconds): a burnt bus shell at dawn.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "9 + 20 DEAD" at 0 seconds, then "SLEEPER BUS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "9 + 20 DEAD" at 0 seconds, then "SLEEPER BUS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Twenty killed on one sleeper bus. Would you find your exit? Jaisalmer, 2025. Yamuna Expressway, 2026: nine more."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -224,20 +226,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "AC Sleeper Bus Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "AC Sleeper Bus Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a narrow aisle between curtained sleeper berths filling with smoke.
 Shot 2 (3 to 6 seconds): a hand pushing against a window from inside, smoke behind.
 Shot 3 (6 to 10 seconds): the single front door jammed by smoke and heat.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "ONE AISLE" at 0 seconds, then "ONE DOOR" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ONE AISLE" at 0 seconds, then "ONE DOOR" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Sleeper berths, curtains, one narrow aisle, one door. Reports say passengers jumped out of the windows to escape."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -248,21 +250,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "AC Sleeper Bus Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "AC Sleeper Bus Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): close-up of a red emergency hammer clipped beside a bus window.
 Shot 2 (2.5 to 5 seconds): an emergency exit window on a bus, its handle in focus (no readable text).
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "FIND THE EXIT" at 0 seconds, then "FIND THE HAMMER" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "FIND THE EXIT" at 0 seconds, then "FIND THE HAMMER" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Before you sleep on a bus, find the emergency exit and the hammer. Would you find yours?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -290,20 +293,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "One Exit, No Way Out" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "One Exit, No Way Out" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a narrow single doorway at night, black smoke pouring out of it.
 Shot 2 (3 to 6 seconds): a three-storey building with silhouettes at upper windows, smoke above.
 Shot 3 (6 to 10 seconds): a crowded club entrance passage, lights flickering, smoke rolling in.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "ONE DOOR" at 0 seconds, then "STUDENTS JUMPED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ONE DOOR" at 0 seconds, then "STUDENTS JUMPED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "One door. No way out. Twenty-one killed. Would you find another exit? Delhi guest house. Lucknow coaching centre. A Goa club."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -314,20 +317,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "One Exit, No Way Out" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "One Exit, No Way Out" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): the only staircase in a building filling with black smoke from below.
 Shot 2 (3 to 6 seconds): a clock's second hand ticking, smoke drifting past it.
 Shot 3 (6 to 10 seconds): a padlocked metal exit door, slow push-in.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "EXIT BLOCKED" at 0 seconds, then "SECONDS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "EXIT BLOCKED" at 0 seconds, then "SECONDS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Fire doesn't need to reach you. Smoke blocks the one exit you know, and every second after that is luck."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -338,21 +341,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "One Exit, No Way Out" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "One Exit, No Way Out" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): a wide, clear exit door with a push bar swinging open onto open air.
 Shot 2 (2.5 to 5 seconds): a person pausing at the entrance of a venue to look for the second exit.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "2 EXITS" at 0 seconds, then "NEVER LOCKED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "2 EXITS" at 0 seconds, then "NEVER LOCKED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Two exits on every floor. Never locked. Never blocked. Find both before you settle anywhere. Did you check today?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -380,20 +384,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Decorative Light Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Decorative Light Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): an artificial tree wrapped in LED lights in a mall atrium, one strand sparking.
 Shot 2 (3 to 6 seconds): decorative lights melting into a cloth drape, flames catching.
 Shot 3 (6 to 10 seconds): fire engines with lights flashing on a festive city street at night.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "MALL FIRE" at 0 seconds, then "257 CALLS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "MALL FIRE" at 0 seconds, then "257 CALLS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never leave festive lights on all night. One mall caught fire this month. Delhi: 257 emergency calls on Diwali night."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -404,20 +408,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Decorative Light Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Decorative Light Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): macro of two light-string wires joined with tape, browning.
 Shot 2 (3 to 6 seconds): a light string pressed against a curtain, heat haze.
 Shot 3 (6 to 10 seconds): a dark shop at night lit only by a string of lights, one bulb glowing too bright.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "TAPED JOINTS" at 0 seconds, then "ALL NIGHT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "TAPED JOINTS" at 0 seconds, then "ALL NIGHT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Cheap light strings, joints taped together, left on all night against cloth and plastic. Heat builds where nobody is looking."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -428,21 +432,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Decorative Light Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Decorative Light Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): a hand checking a certification mark on a light-string box (mark not legible).
 Shot 2 (2.5 to 5 seconds): a hand switching off festive lights at a wall switch before bed.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "CERTIFIED" at 0 seconds, then "SWITCH OFF" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CERTIFIED" at 0 seconds, then "SWITCH OFF" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Certified lights only. No taped joints. Switch off at night. How long do your festive lights stay on?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -470,20 +475,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Showroom Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Showroom Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a glass-front car showroom at night, flames reflected in the glass.
 Shot 2 (3 to 6 seconds): an electronics showroom, rows of TVs going dark as smoke rolls across the ceiling.
 Shot 3 (6 to 10 seconds): a projector room with sparks spitting from a panel.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "3 SHOWROOMS" at 0 seconds, then "1 WEEK" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 SHOWROOMS" at 0 seconds, then "1 WEEK" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never ignore a warm switch in your showroom. Three burned in one week. Saket, Kanpur, Greater Noida. November."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -494,20 +499,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Showroom Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Showroom Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a crowded power board behind a display wall, many plugs.
 Shot 2 (3 to 6 seconds): macro of a loose terminal glowing red.
 Shot 3 (6 to 10 seconds): smoke seeping from a false ceiling above a shop floor.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "OLD WIRING" at 0 seconds, then "LOOSE JOINT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "OLD WIRING" at 0 seconds, then "LOOSE JOINT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Showrooms run lights, displays and chargers all day on wiring that was never upgraded. A short circuit waits for one loose joint."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -518,21 +523,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Showroom Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Showroom Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): an electrician scanning a panel with a thermal camera.
 Shot 2 (2.5 to 5 seconds): a shop owner switching off the main switch and pulling the shutter down.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "THERMAL SCAN" at 0 seconds, then "LOAD CHECK" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "THERMAL SCAN" at 0 seconds, then "LOAD CHECK" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Yearly thermal scan of panels. Load check before adding displays. Main switch off at closing. When did you last check?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -560,20 +566,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Market Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Market Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): an old crowded market at night, a row of shops ablaze, wind blowing embers.
 Shot 2 (3 to 6 seconds): cloth bales burning inside a closed shop, shutters glowing.
 Shot 3 (6 to 10 seconds): an aerial view of a market with smoke rising between tight rooftops.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "40 SHOPS" at 0 seconds, then "GONE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "40 SHOPS" at 0 seconds, then "GONE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Forty shops lost in one night. Can a fire tender reach your shop? Jammu, October. Hyderabad's Patel Market. Jammu again, Diwali."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -584,20 +590,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Market Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Market Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a single shop's meter board sparking.
 Shot 2 (3 to 6 seconds): a fire tender stuck at the mouth of a narrow lane packed with carts.
 Shot 3 (6 to 10 seconds): flames jumping from one shop awning to the next.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "NARROW LANES" at 0 seconds, then "TRUCKS WAIT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NARROW LANES" at 0 seconds, then "TRUCKS WAIT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "One short circuit in one shop, wind, and lanes too narrow for fire tenders. The market burns while the trucks wait outside."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -608,21 +614,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Market Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Market Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): a clear market lane wide enough for a fire tender.
 Shot 2 (2.5 to 5 seconds): a shopkeeper checking the gauge of an extinguisher behind the counter.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "CLEAR LANES" at 0 seconds, then "EXTINGUISHER" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CLEAR LANES" at 0 seconds, then "EXTINGUISHER" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Clear the lanes. Extinguisher in every shop. Main switch off at closing. Can a fire tender reach your shop?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -650,20 +657,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Chemical Drum Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Chemical Drum Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): blue chemical drums in a yard bursting one after another into fireballs.
 Shot 2 (3 to 6 seconds): fire spreading across a row of industrial units at night.
 Shot 3 (6 to 10 seconds): an abandoned factory with flames inside broken windows.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "DRUMS BURST" at 0 seconds, then "4 FACTORIES" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DRUMS BURST" at 0 seconds, then "4 FACTORIES" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never store chemical drums together. One fire spread to four factories. Navi Mumbai, January. Kolkata, September: a closed factory burned."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -674,20 +681,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Chemical Drum Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Chemical Drum Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): macro of a drum lid bulging from heat.
 Shot 2 (3 to 6 seconds): burning liquid spilling across a concrete floor.
 Shot 3 (6 to 10 seconds): dusty drums stacked in a dark, closed factory.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "PRESSURE" at 0 seconds, then "CHAIN FIRE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "PRESSURE" at 0 seconds, then "CHAIN FIRE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "A heated drum builds pressure, ruptures, and throws burning liquid. Each drum feeds the next. Closed factories still hold the fuel."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -698,21 +705,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Chemical Drum Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Chemical Drum Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): drums stored on spill pallets with clear gaps between rows.
 Shot 2 (2.5 to 5 seconds): a firefighter laying a foam blanket over a spill.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "KEEP APART" at 0 seconds, then "FOAM READY" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "KEEP APART" at 0 seconds, then "FOAM READY" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Store drums apart, away from heat. Clear stock from idle units. Keep foam ready. What's stored in that closed factory?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -740,20 +748,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Fires During Repair Work" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Fires During Repair Work" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a welder's sparks raining down inside a chemical plant, then a flash.
 Shot 2 (3 to 6 seconds): a pipe bursting near a boiler during fitting work.
 Shot 3 (6 to 10 seconds): smoke and debris in a plant corridor.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "DURING REPAIRS" at 0 seconds, then "4 KILLED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DURING REPAIRS" at 0 seconds, then "4 KILLED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Your plant is riskiest during repairs. Four killed in Chhatral. Pipe-fitting near a boiler. Rewari, May: blasts during repair work."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -764,20 +772,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Fires During Repair Work" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Fires During Repair Work" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): macro of grinder sparks landing near a drum.
 Shot 2 (3 to 6 seconds): an open pipe flange leaking vapour.
 Shot 3 (6 to 10 seconds): workers' tools abandoned beside a smoking pipe.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "SPARKS" at 0 seconds, then "OPEN LINES" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "SPARKS" at 0 seconds, then "OPEN LINES" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Repairs bring sparks, cutting and open lines into places built to stay closed. Plants are often riskiest while being fixed."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -788,21 +796,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "Fires During Repair Work" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Fires During Repair Work" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): a supervisor signing a hot work permit card (text not legible).
 Shot 2 (2.5 to 5 seconds): a worker with an extinguisher on fire watch beside a welder.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "PERMIT" at 0 seconds, then "FIRE WATCH" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "PERMIT" at 0 seconds, then "FIRE WATCH" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Hot work permit. Isolate and depressurise first. Fire watch for an hour after. Does your plant use permits?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
@@ -830,20 +839,20 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "High-Rise Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "High-Rise Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a tall residential tower at night, fire on a middle floor, smoke climbing the face.
 Shot 2 (3 to 6 seconds): a fire ladder at full stretch, still short of the upper floors.
 Shot 3 (6 to 10 seconds): residents at a high window waving cloth.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "HIGH-RISE" at 0 seconds, then "UPPER FLOORS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "HIGH-RISE" at 0 seconds, then "UPPER FLOORS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never store anything in your stairwell. Two died in a Nalasopara high-rise. Goregaon, March. Ghansoli, seventh floor."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -854,20 +863,20 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "High-Rise Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "High-Rise Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-B-roll only in this clip: no presenter on screen.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 3 seconds): a staircase in a tower filled with orange heat haze and smoke.
 Shot 2 (3 to 6 seconds): a fire door propped open with a chair.
 Shot 3 (6 to 10 seconds): shoes and boxes stored in a stairwell blocking half the steps.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "LADDERS STOP" at 0 seconds, then "STAIRS ONLY" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "LADDERS STOP" at 0 seconds, then "STAIRS ONLY" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Fire ladders reach only so high. Above that, your escape is the staircase, and in Nalasopara the stairwell itself filled with heat."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -878,21 +887,22 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ```
 Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
-FRAME (identical in every shot, for the full clip): the whole video sits inside a fixed graphic frame. Black background border, gold diagonal accents in all four corners, and thin gold border lines around the video. Top header, always visible: the words "Fire Claims Decoded" in bold gold serif lettering. Directly below it, the subheading "High-Rise Fires" in clean white lettering, with small gold chevron marks ">>>" beside it. The footage plays inside the frame, below the header. The frame never moves, fades or changes. Spell all text exactly as written.
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "High-Rise Fires" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
+No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
 Shot 1 (0 to 2.5 seconds): a fire door closing by itself and sealing.
 Shot 2 (2.5 to 5 seconds): a family walking calmly down a clear tower staircase.
-Shot 3 (5 to 8 seconds): the presenter steps into frame: use my uploaded photograph as the presenter reference and preserve my real face, facial structure and identity. He wears a plain navy blue shirt, stands against a dark background lit by a warm fire glow, leans toward the camera and asks the closing question with natural, perfectly synchronised lip movements.
+Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black inside the frame. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred inside the frame, punching in with a whoosh: "DOORS SHUT" at 0 seconds, then "REFUGE FLOOR" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DOORS SHUT" at 0 seconds, then "REFUGE FLOOR" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
 
-NARRATION: a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Keep fire doors shut. Never store in stairwells. Know your refuge floor. Have you ever walked your fire escape?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.

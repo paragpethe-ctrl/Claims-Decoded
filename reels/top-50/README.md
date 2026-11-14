@@ -1,17 +1,24 @@
 # Fire Claims Decoded: 50 reels, 150 Gemini prompts
 
 Each reel is about 30 seconds: three clips of 10 seconds, one Gemini prompt
-per clip. Every prompt carries the same gold frame, style, captions, Indian
-English narration and (in part 3) the end card, word for word. Only the
-subheading changes: it is the topic of that episode.
+per clip. Every prompt carries the same on-screen titles, style, captions, Indian
+English voiceover and (in part 3) the end card, word for word. No frame and
+no presenter: full-screen b-roll throughout. Only the subtitle changes: it
+is the topic of that episode.
+
+Title colours: "FIRE CLAIMS DECODED" in amber-gold (#FFB300) with a soft
+shadow; the topic subtitle in white (#FFFFFF) on a 60% black strip with a
+red-orange (#FF4D00) accent line. Impact words red and yellow; captions
+white with the spoken word in yellow. Warm gold and white read clearly over
+fire footage; red is kept for impact words so it never fights the title.
 
 ## How each reel is built
 
 | part | seconds | what happens | presenter |
 |---|---|---|---|
-| 1 | 0 to 10 | Hook spoken on the first frame with a bass hit, then 2 or 3 real incidents | no, b-roll only |
-| 2 | 10 to 20 | The engineer's "why it happens" | no, b-roll only |
-| 3 | 20 to 30 | Fixes, then you ask the closing question (about 3 seconds), then the end card | yes, about 3 seconds |
+| 1 | 0 to 10 | Hook spoken on the first frame with a bass hit, then 2 or 3 real incidents | no |
+| 2 | 10 to 20 | The engineer's "why it happens" | no |
+| 3 | 20 to 30 | Fixes, then the closing question over a single flame in darkness (the series' signature shot), then the end card | no |
 
 End card on every reel: FIRE CLAIMS DECODED · @parag_pethe1 · FOLLOW · 1 FIRE CAUSE EVERY REEL
 
@@ -21,10 +28,10 @@ minute; every part fits its clip.
 
 ## Before you generate
 
-1. **Upload your photo only for part 3.** Parts 1 and 2 have no presenter.
-2. **Check every word Gemini draws.** The prompts ask for the frame header,
+1. **No photo upload needed.** Every clip is b-roll with voiceover.
+2. **Check every word Gemini draws.** The prompts ask for the titles,
    impact words, captions and end card. AI video often misspells text. If it
-   does, generate without those lines and add the frame, captions (CapCut
+   does, generate without those lines and add the titles, captions (CapCut
    auto captions) and end card in your editor instead.
 3. **Re-check the incident facts on the day you post.** Each episode lists
    what was reported and the sources. Death tolls and causes are often
