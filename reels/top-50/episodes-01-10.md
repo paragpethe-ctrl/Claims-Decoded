@@ -31,7 +31,7 @@ Shot 3 (6 to 10 seconds): an empty ICU ward at night filling with thin smoke, be
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "10 PATIENTS" at 0 seconds, then "3 ICU FIRES" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "One short circuit killed ten ICU patients. Your hospital could be next. Cuttack, March. Thiruvananthapuram, the next day. Muzaffarpur, June."
@@ -55,7 +55,7 @@ Shot 3 (6 to 10 seconds): staff wheeling a hospital bed out through smoke, faces
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "OXYGEN + SPARK" at 0 seconds, then "NO TIME" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "An ICU runs dozens of machines nonstop, on old wiring, in oxygen-rich air. One fault, and fire spreads faster than patients can be moved."
@@ -81,7 +81,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "THERMAL SCAN" at 0 seconds, then "DRILL IT" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Annual thermal scan of ICU panels. Separate circuits for critical equipment. Evacuation drills. Is your hospital's ICU checked?"
@@ -122,7 +122,7 @@ Shot 3 (6 to 10 seconds): a hotel key card dropped on a smoky carpet, slow motio
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "21 · 9 · 8" at 0 seconds, then "3 HOTELS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Twenty-one killed in one Delhi hotel. Would you get out of yours? Kolkata, August: nine more. Tarapith: eight."
@@ -146,7 +146,7 @@ Shot 3 (6 to 10 seconds): an empty fire extinguisher bracket on a hotel wall.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ONE DOOR" at 0 seconds, then "NO ALARM" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Reports say the Delhi building had one door in and out. In Kolkata, a guest said there was no fire safety system at all."
@@ -172,7 +172,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "FIND 2 EXITS" at 0 seconds, then "COUNT DOORS" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "In any hotel, find two exits before you sleep. Count the doors. Never the lift. Would you know your way out?"
@@ -213,7 +213,7 @@ Shot 3 (6 to 10 seconds): an outdoor AC unit on a balcony pouring smoke.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "AC BLAST" at 0 seconds, then "9 DEAD" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never ignore a noisy AC. Nine killed after an AC blast in Delhi. Then Indirapuram. Then Noida, twenty-first floor."
@@ -237,7 +237,7 @@ Shot 3 (6 to 10 seconds): a dusty outdoor AC coil, its fan straining.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "LEAK + SPARK" at 0 seconds, then "OVERHEAT" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Months of nonstop running, a weak capacitor, a refrigerant leak, a loose wire. Your AC works harder than any machine in your home."
@@ -263,7 +263,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "SERVICE IT" at 0 seconds, then "1 AC · 1 MCB" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Service it every summer. One MCB per AC. Never on an extension board. When was yours serviced?"
@@ -304,7 +304,7 @@ Shot 3 (6 to 10 seconds): thick smoke pouring up an apartment staircase.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CHARGING" at 0 seconds, then "2 DEAD" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never charge your e-scooter in the parking. Two people died in Noida. Pune, same month: three scooters burned while charging."
@@ -328,7 +328,7 @@ Shot 3 (6 to 10 seconds): residents' doors upstairs with smoke curling under the
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CHAIN REACTION" at 0 seconds, then "SMOKE RISES" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Lithium cells overheat, then ignite each other. And smoke from the parking rises straight up the staircase you need to escape."
@@ -354,7 +354,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CHARGE OUTSIDE" at 0 seconds, then "NOT ON STAIRS" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Charge outdoors or in a ventilated bay. Original charger only. Never near the stairs. Where does your building charge?"
@@ -395,7 +395,7 @@ Shot 3 (6 to 10 seconds): smoke curling up a staircase past family photos on the
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "17 · 3 · 6" at 0 seconds, then "BELOW THEM" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never sleep above a shop without a smoke alarm. Seventeen killed in Hyderabad. Delhi, June: three. Seoni, November: six."
@@ -419,7 +419,7 @@ Shot 3 (6 to 10 seconds): a bedroom door upstairs, smoke seeping under it, a fam
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ONE STAIRCASE" at 0 seconds, then "NO WAY DOWN" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "A short circuit in the shop or parking downstairs. Smoke climbs the only staircase. Families upstairs wake up with no way down."
@@ -445,7 +445,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "SMOKE ALARM" at 0 seconds, then "2ND EXIT" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Smoke alarm on every floor. Main switch where you can reach it. A second way out. Does your building have one?"
@@ -486,7 +486,7 @@ Shot 3 (6 to 10 seconds): firefighters carrying cylinders out of a smoky restaur
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 EXPLODED" at 0 seconds, then "19 FOUND" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never stack cylinders in your kitchen. Three exploded in one Delhi fire. Srinagar: nineteen found. Balasore: another blast."
@@ -510,7 +510,7 @@ Shot 3 (6 to 10 seconds): a second cylinder venting and flaring after the first.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CHAIN BLAST" at 0 seconds, then "FUEL STORE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "One cylinder is fuel. Nineteen in a kitchen is a bomb store. When one heats up, the next one follows."
@@ -536,7 +536,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "KEEP OUTSIDE" at 0 seconds, then "LEAK DETECTOR" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Cylinders outside, in a ventilated bank. Manifold and leak detector. Only what you need. How many are in your kitchen?"
@@ -577,7 +577,7 @@ Shot 3 (6 to 10 seconds): an aircraft descending toward a runway at night.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "MID-AIR FIRE" at 0 seconds, then "DIVERTED" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never put your power bank in the overhead bin. One caught fire on IndiGo. The flight diverted to Hyderabad. It happened in 2025 too."
@@ -601,7 +601,7 @@ Shot 3 (6 to 10 seconds): sparks spitting from a damaged battery cell, slow moti
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "LITHIUM" at 0 seconds, then "NO WARNING" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "A power bank is a box of lithium cells. Crushed, cheap or overheated, it can ignite with no warning, inside your bag."
@@ -627,7 +627,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NOT OVERHEAD" at 0 seconds, then "NOT ON BED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Keep it with you, never in the overhead bin. Never charge it on your bed overnight. Where's yours right now?"
@@ -668,7 +668,7 @@ Shot 3 (6 to 10 seconds): a smoke-filled plant floor with emergency lights spinn
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "5 + 2 KILLED" at 0 seconds, then "REACTOR BLAST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Five workers killed when a reactor exploded. Your plant runs the same risk. Bharuch, October. Telangana, August: two more."
@@ -692,7 +692,7 @@ Shot 3 (6 to 10 seconds): the vessel wall bulging, then splitting.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "RUNAWAY HEAT" at 0 seconds, then "PRESSURE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "A reaction that gets too hot speeds itself up. Pressure builds faster than the vent can release it. Then the vessel fails."
@@ -718,7 +718,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ALARMS" at 0 seconds, then "RELIEF VALVES" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Temperature alarms that cut the feed. Tested relief valves. No shortcuts on batch steps. Who checks your reactors?"
@@ -759,7 +759,7 @@ Shot 3 (6 to 10 seconds): twisted metal and steam clouds in a factory yard.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "9 · 5 · 4" at 0 seconds, then "BOILER BLAST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Nine killed in one boiler blast. Is your boiler inspected? Chhattisgarh, April. Sri City, October: five. Chhatral: four."
@@ -783,7 +783,7 @@ Shot 3 (6 to 10 seconds): workers' tools left beside a live steam line.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "PRESSURE" at 0 seconds, then "ALL AT ONCE" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "A boiler stores energy as pressure. A weak pipe, a stuck valve, or work on a live line, and it releases all at once."
@@ -809,7 +809,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "INSPECT" at 0 seconds, then "TEST VALVES" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Statutory inspections on time. Safety valves tested. No pipe work under pressure. When was yours last inspected?"
@@ -850,7 +850,7 @@ Shot 3 (6 to 10 seconds): a burnt-out godown at dawn, smoke rising from black he
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "₹4.81 CR" at 0 seconds, then "₹3.6 CR" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "You lost 4.81 crore in one night. Could you prove it to your insurer? Nagpur's seven godowns. Shankarpally: 3.6 crore. Shillong: 2."
@@ -874,7 +874,7 @@ Shot 3 (6 to 10 seconds): a phone photographing damaged stock.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "PROVE IT" at 0 seconds, then "BILLS · REGISTERS" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Those are owners' estimates. The insurer pays what you can prove, up to what you insured. Bills, stock registers, photos."
@@ -900,7 +900,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CLOUD BACKUP" at 0 seconds, then "FULL VALUE" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Keep stock records in the cloud. Insure full value. Update it every year. Could you prove your stock tomorrow?"

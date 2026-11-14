@@ -35,7 +35,7 @@ Shot 3 (6 to 10 seconds): an old scrap diesel generator smouldering in a dark co
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NEVER BLOCK IT" at 0 seconds, then "2 LIVES LOST" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Never block your one refuge area. Nalasopara lost two lives. The fire reached the refuge floor door itself. Mumbai, November: a refuge area burned, beside scrap."
@@ -59,7 +59,7 @@ Shot 3 (6 to 10 seconds): the same refuge floor stacked with junk, flames racing
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "24 METRES +" at 0 seconds, then "SAFE FLOOR" at 5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on the 15th-floor refuge. Fill yours with junk, and it becomes fuel."
@@ -85,7 +85,7 @@ END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Cent
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 CHECKS" at 0 seconds, then "EMPTY · UNLOCKED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
-CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the frame, above the bottom border.
+CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Check 3 things every month: empty, unlocked, signposted. Do you know which floor your refuge area is on?"
