@@ -2,12 +2,12 @@
 
 ## 41. Vehicles Burned in Fires
 
-**Hook:** "Never park beside a restaurant kitchen. Balasore lost cars in one blast." (hook score 84 STRONG)  
-**Spoken length:** 7.6s + 6.5s + 6.5s = 20.7s, plus a 2s end card
+**Hook:** "Can 1 kitchen blast cost you your car? Balasore lost several." (hook score 94 STRONG)  
+**Spoken length:** 7.3s + 6.5s + 6.5s = 20.4s, plus a 2s end card
 
 **Full script**
 
-1. Never park beside a restaurant kitchen. Balasore lost cars in one blast. Hafeezpet: bikes and a truck. Delhi: parked two-wheelers burned.
+1. Can 1 kitchen blast cost you your car? Balasore lost several. Hafeezpet: bikes and a truck. Delhi: parked two-wheelers burned.
 2. Fuel tanks and batteries turn a parking area into a fuel store, often right under homes and shops.
 3. Don't park under transformers or next to kitchens. Keep stilt parking clear. Where do you park every night?
 
@@ -34,7 +34,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never park beside a restaurant kitchen. Balasore lost cars in one blast. Hafeezpet: bikes and a truck. Delhi: parked two-wheelers burned."
+"Can 1 kitchen blast cost you your car? Balasore lost several. Hafeezpet: bikes and a truck. Delhi: parked two-wheelers burned."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -93,12 +93,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 42. Why Fire Cause Matters
 
-**Hook:** "No cause, no settlement. Your claim waits for the fire investigation." (hook score 80 STRONG)  
-**Spoken length:** 7.6s + 7.3s + 6.9s = 21.8s, plus a 2s end card
+**Hook:** "Can no cause kill your claim? Never clean up. Seoni called forensics." (hook score 94 STRONG)  
+**Spoken length:** 7.3s + 7.3s + 6.9s = 21.5s, plus a 2s end card
 
 **Full script**
 
-1. No cause, no settlement. Your claim waits for the fire investigation. Delhi guest house, Lucknow coaching centre: causes unclear. Seoni: forensics.
+1. Can no cause kill your claim? Never clean up. Seoni called forensics. Delhi guest house, Lucknow coaching centre: causes unclear.
 2. Investigators read burn patterns, wiring and timelines. Insurers wait for that answer, because the cause decides what the policy pays.
 3. Don't clean up before the surveyor arrives. Photograph everything. Keep records safe. Did you know cause decides your claim?
 
@@ -125,7 +125,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"No cause, no settlement. Your claim waits for the fire investigation. Delhi guest house, Lucknow coaching centre: causes unclear. Seoni: forensics."
+"Can no cause kill your claim? Never clean up. Seoni called forensics. Delhi guest house, Lucknow coaching centre: causes unclear."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -184,12 +184,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 43. Escape Before You Need It
 
-**Hook:** "Students jumped to escape a fire. Never wait to make your escape plan." (hook score 75 STRONG)  
-**Spoken length:** 6.9s + 6.9s + 6.5s = 20.4s, plus a 2s end card
+**Hook:** "Can you escape without a plan? Never. Lucknow students jumped." (hook score 94 STRONG)  
+**Spoken length:** 5.5s + 6.9s + 6.5s = 18.9s, plus a 2s end card
 
 **Full script**
 
-1. Students jumped to escape a fire. Never wait to make your escape plan. Lucknow, June. Nalasopara, October: trapped upstairs.
+1. Can you escape without a plan? Never. Lucknow students jumped. Nalasopara, October: residents trapped upstairs.
 2. When the only staircase fills with smoke, people have seconds to decide. Without a plan, they choose the window.
 3. Know two ways out. Practise them once. Agree a meeting point outside. Have you ever practised your escape?
 
@@ -216,7 +216,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Students jumped to escape a fire. Never wait to make your escape plan. Lucknow, June. Nalasopara, October: trapped upstairs."
+"Can you escape without a plan? Never. Lucknow students jumped. Nalasopara, October: residents trapped upstairs."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -275,12 +275,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 44. AC Fires in Hotels and Buses
 
-**Hook:** "Never ignore a burning smell in your hotel room. Nine killed in Kolkata." (hook score 88 STRONG)  
-**Spoken length:** 8.4s + 7.3s + 6.2s = 21.8s, plus a 2s end card
+**Hook:** "Can 1 hotel AC kill you? Nine killed in Kolkata." (hook score 100 STRONG)  
+**Spoken length:** 7.3s + 7.3s + 6.2s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Never ignore a burning smell in your hotel room. Nine killed in Kolkata. A faulty AC suspected. Yamuna Expressway bus: an AC blast.
+1. Can 1 hotel AC kill you? Nine killed in Kolkata. A faulty AC suspected. Yamuna Expressway bus: an AC blast.
 2. Commercial ACs run nonstop, with cheap servicing and wiring stretched across rooms and engines. Faults build up until something gives.
 3. Owners: service records, not promises. Guests: smell burning, act on it. Would you complain or ignore it?
 
@@ -307,7 +307,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never ignore a burning smell in your hotel room. Nine killed in Kolkata. A faulty AC suspected. Yamuna Expressway bus: an AC blast."
+"Can 1 hotel AC kill you? Nine killed in Kolkata. A faulty AC suspected. Yamuna Expressway bus: an AC blast."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -366,12 +366,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 45. Lithium Battery Fires
 
-**Hook:** "Never charge a swollen battery. One chemistry caused three fires this year." (hook score 82 STRONG)  
-**Spoken length:** 8.0s + 7.6s + 7.6s = 23.3s, plus a 2s end card
+**Hook:** "Can 1 swollen battery kill you? Never charge it." (hook score 100 STRONG)  
+**Spoken length:** 6.9s + 7.6s + 7.6s = 22.2s, plus a 2s end card
 
 **Full script**
 
-1. Never charge a swollen battery. One chemistry caused three fires this year. A Noida e-scooter. An IndiGo power bank. A Fatehabad plant.
+1. Can 1 swollen battery kill you? Never charge it. A Noida e-scooter. An IndiGo power bank. A Fatehabad plant.
 2. Lithium cells pack huge energy. Damage or overheat one, and it heats the next. A chain reaction that's hard to stop.
 3. Original chargers. Never charge a damaged or swollen battery. Charge away from exits. How many lithium batteries are in your home?
 
@@ -398,7 +398,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never charge a swollen battery. One chemistry caused three fires this year. A Noida e-scooter. An IndiGo power bank. A Fatehabad plant."
+"Can 1 swollen battery kill you? Never charge it. A Noida e-scooter. An IndiGo power bank. A Fatehabad plant."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -457,12 +457,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 46. Stilt Parking Fires
 
-**Hook:** "Never charge in stilt parking. Your family lives right above it." (hook score 80 STRONG)  
-**Spoken length:** 7.3s + 7.6s + 7.6s = 22.5s, plus a 2s end card
+**Hook:** "Can your parking kill you? Two killed in Noida. Never charge there." (hook score 94 STRONG)  
+**Spoken length:** 7.6s + 7.6s + 7.6s = 22.9s, plus a 2s end card
 
 **Full script**
 
-1. Never charge in stilt parking. Your family lives right above it. Delhi, June. Noida, July. Pune: three scooters at once.
+1. Can your parking kill you? Two killed in Noida. Never charge there. Delhi, June: parked two-wheelers. Pune: three scooters at once.
 2. Stilt parking sits right under homes. Fuel, batteries and open sides feed the fire, and smoke goes straight up the stairs.
 3. No charging in stilt parking. Fire doors between parking and stairs. Smoke alarms at the bottom. What's parked under your flat?
 
@@ -489,7 +489,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never charge in stilt parking. Your family lives right above it. Delhi, June. Noida, July. Pune: three scooters at once."
+"Can your parking kill you? Two killed in Noida. Never charge there. Delhi, June: parked two-wheelers. Pune: three scooters at once."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -548,12 +548,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 47. Restaurant Fires Spread Up
 
-**Hook:** "Never sit above a dirty kitchen duct. A Delhi restaurant fire climbed four floors." (hook score 78 STRONG)  
-**Spoken length:** 7.6s + 8.0s + 6.5s = 22.2s, plus a 2s end card
+**Hook:** "Can 1 kitchen fire kill you upstairs? Never ignore it." (hook score 100 STRONG)  
+**Spoken length:** 7.3s + 8.0s + 6.5s = 21.8s, plus a 2s end card
 
 **Full script**
 
-1. Never sit above a dirty kitchen duct. A Delhi restaurant fire climbed four floors. Srinagar: an attic kitchen. Guwahati: a dhaba.
+1. Can 1 kitchen fire kill you upstairs? Never ignore it. Kalkaji, June: it climbed four floors. Srinagar: an attic kitchen.
 2. Kitchens sit under offices, homes and hotels. Grease ducts and stairs carry fire straight up to people who never smelled it start.
 3. Clean ducts every three months. Fire-rated kitchen walls. Gas shut-off at the door. What's above your favourite restaurant?
 
@@ -580,7 +580,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never sit above a dirty kitchen duct. A Delhi restaurant fire climbed four floors. Srinagar: an attic kitchen. Guwahati: a dhaba."
+"Can 1 kitchen fire kill you upstairs? Never ignore it. Kalkaji, June: it climbed four floors. Srinagar: an attic kitchen."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -639,12 +639,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 48. The Underinsurance Trap
 
-**Hook:** "Insured for 1 crore, lost 1 crore, paid 50 lakh. Don't let this be you." (hook score 77 STRONG)  
-**Spoken length:** 8.0s + 8.4s + 5.8s = 22.2s, plus a 2s end card
+**Hook:** "Can 1 crore cover only 50 lakh? Never underinsure your stock." (hook score 94 STRONG)  
+**Spoken length:** 6.5s + 8.4s + 5.8s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Insured for 1 crore, lost 1 crore, paid 50 lakh. Don't let this be you. Nagpur's godowns lost 4.81 crore this month.
+1. Can 1 crore cover only 50 lakh? Never underinsure your stock. Nagpur's godowns lost 4.81 crore this month.
 2. Not 1 crore. Under the average condition many fire policies apply, you were insured for half, so you get roughly half. 50 lakh.
 3. Insure the full value. Update it every year. Check your policy wording. What did you guess?
 
@@ -671,7 +671,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Insured for 1 crore, lost 1 crore, paid 50 lakh. Don't let this be you. Nagpur's godowns lost 4.81 crore this month."
+"Can 1 crore cover only 50 lakh? Never underinsure your stock. Nagpur's godowns lost 4.81 crore this month."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -730,12 +730,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 49. Godown Fires at Night
 
-**Hook:** "Never leave your godown without switching off the main. Three lost crores." (hook score 94 STRONG)  
-**Spoken length:** 5.5s + 7.6s + 7.3s = 20.4s, plus a 2s end card
+**Hook:** "Can 1 godown fire cost you crores? Never leave power on." (hook score 100 STRONG)  
+**Spoken length:** 5.1s + 7.6s + 7.3s = 20.0s, plus a 2s end card
 
 **Full script**
 
-1. Never leave your godown without switching off the main. Three lost crores. Shankarpally, Balapur, Shillong.
+1. Can 1 godown fire cost you crores? Never leave power on. Shankarpally, Balapur, Shillong.
 2. Godowns sit shut for hours, full of stock, with nobody to smell the first smoke. By morning, it's a total loss.
 3. Smoke detectors that alert your phone. Main switch off at closing. Would you know if your godown caught fire tonight?
 
@@ -762,7 +762,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never leave your godown without switching off the main. Three lost crores. Shankarpally, Balapur, Shillong."
+"Can 1 godown fire cost you crores? Never leave power on. Shankarpally, Balapur, Shillong."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -821,12 +821,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 50. Toxic Gas After Industrial Fires
 
-**Hook:** "The fire is out, but the gas can still kill you. Five killed in Bharuch." (hook score 73 STRONG)  
-**Spoken length:** 8.4s + 7.3s + 6.5s = 22.2s, plus a 2s end card
+**Hook:** "Can 1 blast leak toxic gas on you? Five killed in Bharuch." (hook score 84 STRONG)  
+**Spoken length:** 6.9s + 7.3s + 6.5s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. The fire is out, but the gas can still kill you. Five killed in Bharuch. A solvent leak after the blast. Prayagraj: ammonia.
+1. Can 1 blast leak toxic gas on you? Five killed in Bharuch. A solvent leak followed. Prayagraj: ammonia suspected.
 2. In industrial fires, flames are only half the danger. Leaked gases poison rescuers and neighbours who never saw the fire.
 3. Gas detectors. Wind socks. Breathing sets for responders. A warning plan for neighbours. Does your plant have one?
 
@@ -853,7 +853,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"The fire is out, but the gas can still kill you. Five killed in Bharuch. A solvent leak after the blast. Prayagraj: ammonia."
+"Can 1 blast leak toxic gas on you? Five killed in Bharuch. A solvent leak followed. Prayagraj: ammonia suspected."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```

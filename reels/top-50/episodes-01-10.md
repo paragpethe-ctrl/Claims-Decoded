@@ -2,12 +2,12 @@
 
 ## 01. Hospital ICU Fires
 
-**Hook:** "One short circuit killed ten ICU patients. Your hospital could be next." (hook score 83 STRONG)  
-**Spoken length:** 7.3s + 8.7s + 6.5s = 22.5s, plus a 2s end card
+**Hook:** "Can your ICU kill you? One short circuit killed ten patients." (hook score 94 STRONG)  
+**Spoken length:** 6.9s + 8.7s + 6.5s = 22.2s, plus a 2s end card
 
 **Full script**
 
-1. One short circuit killed ten ICU patients. Your hospital could be next. Cuttack, March. Thiruvananthapuram, the next day. Muzaffarpur, June.
+1. Can your ICU kill you? One short circuit killed ten patients. Cuttack, March. Thiruvananthapuram, the next day. Muzaffarpur, June.
 2. An ICU runs dozens of machines nonstop, on old wiring, in oxygen-rich air. One fault, and fire spreads faster than patients can be moved.
 3. Annual thermal scan of ICU panels. Separate circuits for critical equipment. Evacuation drills. Is your hospital's ICU checked?
 
@@ -34,7 +34,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"One short circuit killed ten ICU patients. Your hospital could be next. Cuttack, March. Thiruvananthapuram, the next day. Muzaffarpur, June."
+"Can your ICU kill you? One short circuit killed ten patients. Cuttack, March. Thiruvananthapuram, the next day. Muzaffarpur, June."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -93,12 +93,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 02. Hotel Fires
 
-**Hook:** "Twenty-one killed in one Delhi hotel. Would you get out of yours?" (hook score 83 STRONG)  
-**Spoken length:** 6.5s + 8.7s + 7.6s = 22.9s, plus a 2s end card
+**Hook:** "Can your hotel kill you? Twenty-one killed in Delhi." (hook score 100 STRONG)  
+**Spoken length:** 5.5s + 8.7s + 7.6s = 21.8s, plus a 2s end card
 
 **Full script**
 
-1. Twenty-one killed in one Delhi hotel. Would you get out of yours? Kolkata, August: nine more. Tarapith: eight.
+1. Can your hotel kill you? Twenty-one killed in Delhi. Kolkata, August: nine more. Tarapith: eight.
 2. Reports say the Delhi building had one door in and out. In Kolkata, a guest said there was no fire safety system at all.
 3. In any hotel, find two exits before you sleep. Count the doors. Never the lift. Would you know your way out?
 
@@ -125,7 +125,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Twenty-one killed in one Delhi hotel. Would you get out of yours? Kolkata, August: nine more. Tarapith: eight."
+"Can your hotel kill you? Twenty-one killed in Delhi. Kolkata, August: nine more. Tarapith: eight."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -184,12 +184,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 03. AC Blast Fires
 
-**Hook:** "Never ignore a noisy AC. Nine killed after an AC blast in Delhi." (hook score 87 STRONG)  
-**Spoken length:** 6.9s + 8.4s + 6.2s = 21.5s, plus a 2s end card
+**Hook:** "Can your AC kill you? Nine killed in Delhi." (hook score 100 STRONG)  
+**Spoken length:** 5.5s + 8.4s + 6.2s = 20.0s, plus a 2s end card
 
 **Full script**
 
-1. Never ignore a noisy AC. Nine killed after an AC blast in Delhi. Then Indirapuram. Then Noida, twenty-first floor.
+1. Can your AC kill you? Nine killed in Delhi. Then Indirapuram. Then Noida, twenty-first floor.
 2. Months of nonstop running, a weak capacitor, a refrigerant leak, a loose wire. Your AC works harder than any machine in your home.
 3. Service it every summer. One MCB per AC. Never on an extension board. When was yours serviced?
 
@@ -216,7 +216,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never ignore a noisy AC. Nine killed after an AC blast in Delhi. Then Indirapuram. Then Noida, twenty-first floor."
+"Can your AC kill you? Nine killed in Delhi. Then Indirapuram. Then Noida, twenty-first floor."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -275,12 +275,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 04. E-Scooter Charging Fires
 
-**Hook:** "Never charge your e-scooter in the parking. Two people died in Noida." (hook score 83 STRONG)  
-**Spoken length:** 7.3s + 7.6s + 6.9s = 21.8s, plus a 2s end card
+**Hook:** "Can your e-scooter kill you? Two killed in Noida." (hook score 100 STRONG)  
+**Spoken length:** 7.6s + 7.6s + 6.9s = 22.2s, plus a 2s end card
 
 **Full script**
 
-1. Never charge your e-scooter in the parking. Two people died in Noida. Pune, same month: three scooters burned while charging.
+1. Can your e-scooter kill you? Two killed in Noida. It was charging in the parking. Pune, same month: three scooters burned.
 2. Lithium cells overheat, then ignite each other. And smoke from the parking rises straight up the staircase you need to escape.
 3. Charge outdoors or in a ventilated bay. Original charger only. Never near the stairs. Where does your building charge?
 
@@ -307,7 +307,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never charge your e-scooter in the parking. Two people died in Noida. Pune, same month: three scooters burned while charging."
+"Can your e-scooter kill you? Two killed in Noida. It was charging in the parking. Pune, same month: three scooters burned."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -366,12 +366,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 05. Ground-Floor Short Circuits
 
-**Hook:** "Never sleep above a shop without a smoke alarm. Seventeen killed in Hyderabad." (hook score 87 STRONG)  
-**Spoken length:** 6.9s + 8.0s + 7.6s = 22.5s, plus a 2s end card
+**Hook:** "Can a shop kill you upstairs? Seventeen killed in Hyderabad." (hook score 100 STRONG)  
+**Spoken length:** 5.8s + 8.0s + 7.6s = 21.5s, plus a 2s end card
 
 **Full script**
 
-1. Never sleep above a shop without a smoke alarm. Seventeen killed in Hyderabad. Delhi, June: three. Seoni, November: six.
+1. Can a shop kill you upstairs? Seventeen killed in Hyderabad. Delhi, June: three. Seoni, November: six.
 2. A short circuit in the shop or parking downstairs. Smoke climbs the only staircase. Families upstairs wake up with no way down.
 3. Smoke alarm on every floor. Main switch where you can reach it. A second way out. Does your building have one?
 
@@ -398,7 +398,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never sleep above a shop without a smoke alarm. Seventeen killed in Hyderabad. Delhi, June: three. Seoni, November: six."
+"Can a shop kill you upstairs? Seventeen killed in Hyderabad. Delhi, June: three. Seoni, November: six."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -457,12 +457,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 06. Restaurant Gas Cylinders
 
-**Hook:** "Never stack cylinders in your kitchen. Three exploded in one Delhi fire." (hook score 83 STRONG)  
+**Hook:** "Can 1 cylinder kill you? Never stack them. Delhi saw 3 explode." (hook score 94 STRONG)  
 **Spoken length:** 6.5s + 7.3s + 7.3s = 21.1s, plus a 2s end card
 
 **Full script**
 
-1. Never stack cylinders in your kitchen. Three exploded in one Delhi fire. Srinagar: nineteen found. Balasore: another blast.
+1. Can 1 cylinder kill you? Never stack them. Delhi saw 3 explode. Srinagar: nineteen found. Balasore: another blast.
 2. One cylinder is fuel. Nineteen in a kitchen is a bomb store. When one heats up, the next one follows.
 3. Cylinders outside, in a ventilated bank. Manifold and leak detector. Only what you need. How many are in your kitchen?
 
@@ -489,7 +489,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never stack cylinders in your kitchen. Three exploded in one Delhi fire. Srinagar: nineteen found. Balasore: another blast."
+"Can 1 cylinder kill you? Never stack them. Delhi saw 3 explode. Srinagar: nineteen found. Balasore: another blast."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -548,12 +548,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 07. Power Bank Fires
 
-**Hook:** "Never put your power bank in the overhead bin. One caught fire on IndiGo." (hook score 76 STRONG)  
-**Spoken length:** 8.7s + 8.0s + 7.3s = 24.0s, plus a 2s end card
+**Hook:** "Can 1 power bank kill you? Never stow it overhead." (hook score 100 STRONG)  
+**Spoken length:** 8.0s + 8.0s + 7.3s = 23.3s, plus a 2s end card
 
 **Full script**
 
-1. Never put your power bank in the overhead bin. One caught fire on IndiGo. The flight diverted to Hyderabad. It happened in 2025 too.
+1. Can 1 power bank kill you? Never stow it overhead. One burned on an IndiGo flight in October. It diverted to Hyderabad.
 2. A power bank is a box of lithium cells. Crushed, cheap or overheated, it can ignite with no warning, inside your bag.
 3. Keep it with you, never in the overhead bin. Never charge it on your bed overnight. Where's yours right now?
 
@@ -580,7 +580,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never put your power bank in the overhead bin. One caught fire on IndiGo. The flight diverted to Hyderabad. It happened in 2025 too."
+"Can 1 power bank kill you? Never stow it overhead. One burned on an IndiGo flight in October. It diverted to Hyderabad."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -639,12 +639,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 08. Pharma Reactor Explosions
 
-**Hook:** "Five workers killed when a reactor exploded. Your plant runs the same risk." (hook score 88 STRONG)  
-**Spoken length:** 6.9s + 8.0s + 6.5s = 21.5s, plus a 2s end card
+**Hook:** "Can one reactor kill you? Five workers killed in Bharuch." (hook score 100 STRONG)  
+**Spoken length:** 5.1s + 8.0s + 6.5s = 19.6s, plus a 2s end card
 
 **Full script**
 
-1. Five workers killed when a reactor exploded. Your plant runs the same risk. Bharuch, October. Telangana, August: two more.
+1. Can one reactor kill you? Five workers killed in Bharuch. Telangana, August: two more.
 2. A reaction that gets too hot speeds itself up. Pressure builds faster than the vent can release it. Then the vessel fails.
 3. Temperature alarms that cut the feed. Tested relief valves. No shortcuts on batch steps. Who checks your reactors?
 
@@ -671,7 +671,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Five workers killed when a reactor exploded. Your plant runs the same risk. Bharuch, October. Telangana, August: two more."
+"Can one reactor kill you? Five workers killed in Bharuch. Telangana, August: two more."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -730,12 +730,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 09. Boiler Explosions
 
-**Hook:** "Nine killed in one boiler blast. Is your boiler inspected?" (hook score 81 STRONG)  
-**Spoken length:** 6.5s + 8.7s + 6.2s = 21.5s, plus a 2s end card
+**Hook:** "Can your boiler kill you? Nine workers killed in April." (hook score 100 STRONG)  
+**Spoken length:** 5.8s + 8.7s + 6.2s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. Nine killed in one boiler blast. Is your boiler inspected? Chhattisgarh, April. Sri City, October: five. Chhatral: four.
+1. Can your boiler kill you? Nine workers killed in April. Sri City, October: five. Chhatral: four.
 2. A boiler stores energy as pressure. A weak pipe, a stuck valve, or work on a live line, and it releases all at once.
 3. Statutory inspections on time. Safety valves tested. No pipe work under pressure. When was yours last inspected?
 
@@ -762,7 +762,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Nine killed in one boiler blast. Is your boiler inspected? Chhattisgarh, April. Sri City, October: five. Chhatral: four."
+"Can your boiler kill you? Nine workers killed in April. Sri City, October: five. Chhatral: four."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -821,12 +821,12 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 10. Godown Fire Losses
 
-**Hook:** "You lost 4.81 crore in one night. Could you prove it to your insurer?" (hook score 69 OK)  
-**Spoken length:** 8.0s + 7.3s + 6.9s = 22.2s, plus a 2s end card
+**Hook:** "Can one fire cost you 4.81 crore? Nagpur lost it overnight." (hook score 100 STRONG)  
+**Spoken length:** 6.5s + 7.3s + 6.9s = 20.7s, plus a 2s end card
 
 **Full script**
 
-1. You lost 4.81 crore in one night. Could you prove it to your insurer? Nagpur's seven godowns. Shankarpally: 3.6 crore. Shillong: 2.
+1. Can one fire cost you 4.81 crore? Nagpur lost it overnight. Shankarpally: 3.6 crore. Shillong: up to 2.
 2. Those are owners' estimates. The insurer pays what you can prove, up to what you insured. Bills, stock registers, photos.
 3. Keep stock records in the cloud. Insure full value. Update it every year. Could you prove your stock tomorrow?
 
@@ -853,7 +853,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"You lost 4.81 crore in one night. Could you prove it to your insurer? Nagpur's seven godowns. Shankarpally: 3.6 crore. Shillong: 2."
+"Can one fire cost you 4.81 crore? Nagpur lost it overnight. Shankarpally: 3.6 crore. Shillong: up to 2."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
