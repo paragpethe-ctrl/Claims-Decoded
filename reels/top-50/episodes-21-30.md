@@ -3,13 +3,14 @@
 ## 21. Smoke Strikes First
 
 **Hook:** "Can 1 breath of smoke cost you everything? Mangolpuri lost workers." (hook score 94 STRONG)  
-**Spoken length:** 6.2s + 7.3s + 7.3s = 20.7s, plus a 2s end card
+**Spoken length:** 9.1s + 8.4s + 6.2s = 23.6s, plus a 2s end card  
+**Instagram skill checks:** hook 94 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 77 (/ig-human)
 
 **Full script**
 
-1. Can 1 breath of smoke cost you everything? Mangolpuri lost workers. Kolkata hotel: victims found in bathrooms.
-2. Smoke reaches you before fire does. A few breaths make you drowsy and confused. People hide instead of getting out.
-3. Stay low. Cover your mouth. Get out, don't hide. Close doors behind you. Would you know which way to crawl?
+1. Can 1 breath of smoke cost you everything? / Mangolpuri lost workers. / Then Kolkata, August. / Hotel victims there were found in bathrooms, away from the flames.
+2. Smoke reaches you long before the fire itself does. / 2 breaths in. / You're drowsy and confused, so you hide instead of getting out.
+3. Fix 1: stay down low. / Get out fast. / Would you crawl out after 1 breath of smoke?
 
 **Facts to check before posting:** Mangolpuri industrial area, Delhi, 31 Oct 2026: reports differ (4 dead of asphyxiation vs 6 found unconscious); basement fire. Shika Inn, Kolkata, 19 Aug 2026: some victims found in bathrooms.
 
@@ -34,7 +35,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 breath of smoke cost you everything? Mangolpuri lost workers. Kolkata hotel: victims found in bathrooms."
+"Can 1 breath of smoke cost you everything? Mangolpuri lost workers. Then Kolkata, August. Hotel victims there were found in bathrooms, away from the flames."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -58,7 +59,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Smoke reaches you before fire does. A few breaths make you drowsy and confused. People hide instead of getting out."
+"Smoke reaches you long before the fire itself does. 2 breaths in. You're drowsy and confused, so you hide instead of getting out."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -73,18 +74,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a person crawling low under the smoke toward a lit doorway.
-Shot 2 (2.5 to 5 seconds): a hand pulling a door shut behind them.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a person crawling low under the smoke toward a lit doorway.
+Shot 2 (2 to 4 seconds): a hand pulling a door shut behind them.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "STAY LOW" at 0 seconds, then "GET OUT" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "STAY LOW" at 0 seconds, then "GET OUT" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Stay low. Cover your mouth. Get out, don't hide. Close doors behind you. Would you know which way to crawl?"
+"Fix 1: stay down low. Get out fast. Would you crawl out after 1 breath of smoke?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -93,14 +94,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 22. Textile and Garment Units
 
-**Hook:** "Can 1 cylinder cost your factory everything? Surat lost two workers." (hook score 94 STRONG)  
-**Spoken length:** 8.0s + 7.3s + 7.3s = 22.5s, plus a 2s end card
+**Hook:** "Can 1 cylinder cost your factory everything? Surat lost 2." (hook score 100 STRONG)  
+**Spoken length:** 8.7s + 9.1s + 6.2s = 24.0s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 76 (/ig-human)
 
 **Full script**
 
-1. Can 1 cylinder cost your factory everything? Surat lost two workers. Short circuit, then cylinders. Najafgarh: fire jumped to the next unit.
-2. Fabric, thread and dust burn fast. Add cooking cylinders and old machine wiring, and one spark has everything it needs.
-3. No cylinders on the factory floor. Machines on separate circuits. Lint cleaned daily. What else is stored in your unit?
+1. Can 1 cylinder cost your factory everything? / Surat lost 2. / Then Najafgarh, November. / There, 1 garment factory fire jumped straight into the next unit.
+2. In Surat, a short circuit came first, then LPG cylinders exploded. / Then fabric's gone. / Thread, lint and cloth give your 1 spark everything it needs.
+3. Fix 1: no floor cylinders. / Don't let lint pile. / Is 1 cylinder sitting in your factory now?
 
 **Facts to check before posting:** Surat textile embroidery factory, 19 Mar 2026: 2 dead, 11 injured; short circuit, then LPG cylinder explosions. Najafgarh, Delhi, 8–9 Nov 2026: garment factory fire spread to an adjacent factory; no casualties.
 
@@ -125,7 +127,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 cylinder cost your factory everything? Surat lost two workers. Short circuit, then cylinders. Najafgarh: fire jumped to the next unit."
+"Can 1 cylinder cost your factory everything? Surat lost 2. Then Najafgarh, November. There, 1 garment factory fire jumped straight into the next unit."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -149,7 +151,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Fabric, thread and dust burn fast. Add cooking cylinders and old machine wiring, and one spark has everything it needs."
+"In Surat, a short circuit came first, then LPG cylinders exploded. Then fabric's gone. Thread, lint and cloth give your 1 spark everything it needs."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -164,18 +166,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a worker vacuuming lint off machines.
-Shot 2 (2.5 to 5 seconds): a clean factory floor with machines wired to separate boards.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a worker vacuuming lint off machines.
+Shot 2 (2 to 4 seconds): a clean factory floor with machines wired to separate boards.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NO CYLINDERS" at 0 seconds, then "CLEAN LINT" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "NO CYLINDERS" at 0 seconds, then "CLEAN LINT" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"No cylinders on the factory floor. Machines on separate circuits. Lint cleaned daily. What else is stored in your unit?"
+"Fix 1: no floor cylinders. Don't let lint pile. Is 1 cylinder sitting in your factory now?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -184,14 +186,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 23. Transformer Fires
 
-**Hook:** "Can 1 transformer cost you your car? Hafeezpet lost vehicles in March." (hook score 94 STRONG)  
-**Spoken length:** 7.6s + 6.5s + 6.9s = 21.1s, plus a 2s end card
+**Hook:** "Can 1 transformer cost you your car? Hafeezpet lost vehicles." (hook score 94 STRONG)  
+**Spoken length:** 8.7s + 8.7s + 5.8s = 23.3s, plus a 2s end card  
+**Instagram skill checks:** hook 94 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 76 (/ig-human)
 
 **Full script**
 
-1. Can 1 transformer cost you your car? Hafeezpet lost vehicles in March. Laxmi Nagar, April: a transformer fire climbed into flats.
-2. An overloaded transformer overheats its oil. The oil leaks, ignites, and anything parked or dumped underneath becomes fuel.
-3. Never park or dump garbage under a transformer. Report leaks and sparking. What's under the one on your street?
+1. Can 1 transformer cost you your car? / Hafeezpet lost vehicles. / Laxmi Nagar, April. / There, a transformer fire climbed into the flats right beside it.
+2. In Hafeezpet, investigators named overloading as a key preliminary factor. / Oil overheats, leaks. / Anything you park or dump below then becomes fuel for it.
+3. Fix 1: never park beneath. / Report any sparking. / What's parked under the transformer on your street?
 
 **Facts to check before posting:** Laxmi Nagar J Extension, Delhi, 25 Apr 2026: transformer fire spread to residential buildings; no casualties. Hafeezpet, Hyderabad, 30 Mar 2026: transformer explosion, fire destroyed two motorcycles and a mini truck; overloading a preliminary factor.
 
@@ -216,7 +219,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 transformer cost you your car? Hafeezpet lost vehicles in March. Laxmi Nagar, April: a transformer fire climbed into flats."
+"Can 1 transformer cost you your car? Hafeezpet lost vehicles. Laxmi Nagar, April. There, a transformer fire climbed into the flats right beside it."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -240,7 +243,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"An overloaded transformer overheats its oil. The oil leaks, ignites, and anything parked or dumped underneath becomes fuel."
+"In Hafeezpet, investigators named overloading as a key preliminary factor. Oil overheats, leaks. Anything you park or dump below then becomes fuel for it."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -255,18 +258,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a clear, fenced area under a transformer.
-Shot 2 (2.5 to 5 seconds): a resident photographing a sparking transformer to report it.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a clear, fenced area under a transformer.
+Shot 2 (2 to 4 seconds): a resident photographing a sparking transformer to report it.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DON'T PARK" at 0 seconds, then "REPORT IT" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DON'T PARK" at 0 seconds, then "REPORT IT" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Never park or dump garbage under a transformer. Report leaks and sparking. What's under the one on your street?"
+"Fix 1: never park beneath. Report any sparking. What's parked under the transformer on your street?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -275,14 +278,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 24. CNG Car Fires
 
-**Hook:** "Can 1 CNG car fire cost you everything? One driver lost." (hook score 100 STRONG)  
-**Spoken length:** 7.3s + 8.7s + 6.9s = 22.9s, plus a 2s end card
+**Hook:** "Can 1 CNG car fire cost you everything? Barabanki lost 1." (hook score 100 STRONG)  
+**Spoken length:** 9.1s + 8.7s + 5.5s = 23.3s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 76 (/ig-human)
 
 **Full script**
 
-1. Can 1 CNG car fire cost you everything? One driver lost. Barabanki, October. Indore: a family escaped just in time.
-2. A badly fitted kit, a loose fuel joint, or a short circuit behind the dashboard. In a car, flames reach the cabin in seconds.
-3. Authorised kit fitment only. Leak test every year. Smell gas? Stop, get out, step away. When was yours tested?
+1. Can 1 CNG car fire cost you everything? / Barabanki lost 1. / Indore's family escaped. / Both cars were moving when the fire started, with people inside.
+2. In Indore, police considered a short circuit the likely cause. / Barabanki's cause isn't known. / In a car, flames can reach your cabin in seconds.
+3. Fix 1: authorised kits. / Test it yearly. / Could 1 CNG car fire cost you everything?
 
 **Facts to check before posting:** Barabanki, UP, Oct 2026: driver died when his moving CNG car caught fire; cause not established. Indore, MP: family escaped a moving CNG car fire; short circuit considered likely.
 
@@ -307,7 +311,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 CNG car fire cost you everything? One driver lost. Barabanki, October. Indore: a family escaped just in time."
+"Can 1 CNG car fire cost you everything? Barabanki lost 1. Indore's family escaped. Both cars were moving when the fire started, with people inside."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -331,7 +335,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"A badly fitted kit, a loose fuel joint, or a short circuit behind the dashboard. In a car, flames reach the cabin in seconds."
+"In Indore, police considered a short circuit the likely cause. Barabanki's cause isn't known. In a car, flames can reach your cabin in seconds."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -346,18 +350,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a mechanic leak-testing a CNG kit with soap solution, bubbles forming.
-Shot 2 (2.5 to 5 seconds): a driver stopping, switching off and stepping well away from a car.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a mechanic leak-testing a CNG kit with soap solution, bubbles forming.
+Shot 2 (2 to 4 seconds): a driver stopping, switching off and stepping well away from a car.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "AUTHORISED KIT" at 0 seconds, then "LEAK TEST" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "AUTHORISED KIT" at 0 seconds, then "LEAK TEST" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Authorised kit fitment only. Leak test every year. Smell gas? Stop, get out, step away. When was yours tested?"
+"Fix 1: authorised kits. Test it yearly. Could 1 CNG car fire cost you everything?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -366,14 +370,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 25. Pandal Fires
 
-**Hook:** "Can 1 spark cost you everything? Twenty-five lives lost in Goa." (hook score 94 STRONG)  
-**Spoken length:** 8.0s + 8.0s + 7.6s = 23.6s, plus a 2s end card
+**Hook:** "Can 1 spark cost you everything? Goa lost 25." (hook score 100 STRONG)  
+**Spoken length:** 8.0s + 8.4s + 5.1s = 21.5s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 73 (/ig-human)
 
 **Full script**
 
-1. Can 1 spark cost you everything? Twenty-five lives lost in Goa. Goa, December. Raipur, October: a firework spark lit a Durga pandal.
-2. Thermocol, cloth and bamboo are fuel dressed up as decoration. Add sparks or fireworks nearby, and the whole structure goes up together.
-3. Fire-retardant fabric. No fireworks near pandals. Two clear exits. Patna now needs fire certificates for big pandals. Does yours have one?
+1. Can 1 spark cost you everything? / Goa lost 25. / Then Raipur, October. / There, a firework spark reportedly reached a Durga pandal's thermocol.
+2. Thermocol, cloth and bamboo are fuel, just dressed as decoration. / Sparks find them. / In Goa, investigators say indoor pyro hit a wooden ceiling.
+3. Fix 1: use retardant fabric. / No fireworks nearby. / Is your pandal 1 spark away?
 
 **Facts to check before posting:** Naveen Market, Raipur, 10 Oct 2026: Durga pandal fire; preliminary reports suggest a firework spark reached thermocol; ₹11 lakh structure. Birch nightclub, Goa, Dec 2025: 25 dead; investigations pointed to indoor cold pyro hitting a wooden ceiling. Patna 2026: pandals over 300 sq m need a fire safety certificate.
 
@@ -398,7 +403,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 spark cost you everything? Twenty-five lives lost in Goa. Goa, December. Raipur, October: a firework spark lit a Durga pandal."
+"Can 1 spark cost you everything? Goa lost 25. Then Raipur, October. There, a firework spark reportedly reached a Durga pandal's thermocol."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -422,7 +427,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Thermocol, cloth and bamboo are fuel dressed up as decoration. Add sparks or fireworks nearby, and the whole structure goes up together."
+"Thermocol, cloth and bamboo are fuel, just dressed as decoration. Sparks find them. In Goa, investigators say indoor pyro hit a wooden ceiling."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -437,18 +442,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a decorator spraying fire-retardant on fabric.
-Shot 2 (2.5 to 5 seconds): a pandal entrance and a separate wide exit, both clear.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a decorator spraying fire-retardant on fabric.
+Shot 2 (2 to 4 seconds): a pandal entrance and a separate wide exit, both clear.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "RETARDANT" at 0 seconds, then "2 EXITS" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "RETARDANT" at 0 seconds, then "2 EXITS" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Fire-retardant fabric. No fireworks near pandals. Two clear exits. Patna now needs fire certificates for big pandals. Does yours have one?"
+"Fix 1: use retardant fabric. No fireworks nearby. Is your pandal 1 spark away?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -458,13 +463,14 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 ## 26. Plastic Factory Fires
 
 **Hook:** "Can 1 plastic fire cost you your factory? Never stack high." (hook score 100 STRONG)  
-**Spoken length:** 8.0s + 7.6s + 5.1s = 20.7s, plus a 2s end card
+**Spoken length:** 9.1s + 9.1s + 5.8s = 24.0s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 79 (/ig-human)
 
 **Full script**
 
-1. Can 1 plastic fire cost you your factory? Never stack high. Ghaziabad lost a factory this month. Gurugram: fire jumped to warehouses.
-2. Plastic burns hotter than wood, melts, drips fire, and makes black smoke you can't see through. Ordinary sprinklers can't keep up.
-3. Limit stack height. Separate storage. Sprinklers designed for plastics. Would your sprinklers handle plastic?
+1. Can 1 plastic fire cost you your factory? / Never stack high. / Ghaziabad, this month. / Earlier, a Gurugram plastic fire jumped into the warehouses next door.
+2. In Indore, a plastic plant's losses ran into crores in May. / Plastic drips fire. / It burns hotter than wood, and ordinary sprinklers can't keep up.
+3. Fix 1: stack it low. / Use plastic-rated sprinklers. / Could 1 plastic fire cost you your factory?
 
 **Facts to check before posting:** Vijay Nagar, Ghaziabad, 8 Nov 2026: massive plastic factory fire (tender count reported differently); cause not yet known. Bajghera, Gurugram, 26 Apr 2026: plastic factory fire spread to nearby warehouses; short circuit or spark suspected. Indore, 16 May 2026: plastic plant fire; losses in crores estimated.
 
@@ -489,7 +495,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 plastic fire cost you your factory? Never stack high. Ghaziabad lost a factory this month. Gurugram: fire jumped to warehouses."
+"Can 1 plastic fire cost you your factory? Never stack high. Ghaziabad, this month. Earlier, a Gurugram plastic fire jumped into the warehouses next door."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -513,7 +519,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Plastic burns hotter than wood, melts, drips fire, and makes black smoke you can't see through. Ordinary sprinklers can't keep up."
+"In Indore, a plastic plant's losses ran into crores in May. Plastic drips fire. It burns hotter than wood, and ordinary sprinklers can't keep up."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -528,18 +534,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): plastic stock stacked low with wide aisles.
-Shot 2 (2.5 to 5 seconds): an engineer checking a large-drop sprinkler head on a warehouse ceiling.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): plastic stock stacked low with wide aisles.
+Shot 2 (2 to 4 seconds): an engineer checking a large-drop sprinkler head on a warehouse ceiling.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "STACK LOW" at 0 seconds, then "RIGHT SPRINKLERS" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "STACK LOW" at 0 seconds, then "RIGHT SPRINKLERS" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Limit stack height. Separate storage. Sprinklers designed for plastics. Would your sprinklers handle plastic?"
+"Fix 1: stack it low. Use plastic-rated sprinklers. Could 1 plastic fire cost you your factory?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -548,14 +554,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 27. Cold Storage Ammonia
 
-**Hook:** "Can 1 cold room cost you everything? Four workers lost in Prayagraj." (hook score 94 STRONG)  
-**Spoken length:** 7.6s + 6.9s + 5.5s = 20.0s, plus a 2s end card
+**Hook:** "Can 1 cold room cost you everything? Prayagraj lost 4." (hook score 100 STRONG)  
+**Spoken length:** 8.4s + 8.7s + 6.9s = 24.0s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 77 (/ig-human)
 
 **Full script**
 
-1. Can 1 cold room cost you everything? Four workers lost in Prayagraj. Prayagraj, March: four lost, ammonia suspected. Chhapra: another leak.
-2. Ammonia keeps cold rooms cold. Leaked into a closed space, it can ignite, and it's toxic long before that.
-3. Leak detectors. Maintained pipelines. Emergency ventilation. Trained staff. Would your staff know what to do?
+1. Can 1 cold room cost you everything? / Prayagraj lost 4. / Then Chhapra, June. / Ammonia was suspected in Prayagraj, and it leaked in Chhapra.
+2. In Chhapra, officials found the plant's safety measures were inadequate. / Ammonia's highly toxic. / In a closed room, it's toxic first, and can even ignite.
+3. Fix 1: fit leak detectors. / Train your staff. / Would they know what to do if 1 cold room leaked?
 
 **Facts to check before posting:** Prayagraj, UP, 23 Mar 2026: cold storage collapse, at least 4 labourers dead, 12 injured; ammonia leak suspected of causing an explosion; probe ongoing. Chhapra, Bihar, 5 Jun 2026: ammonia leak contained; safety found inadequate; licence probe ordered.
 
@@ -580,7 +587,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 cold room cost you everything? Four workers lost in Prayagraj. Prayagraj, March: four lost, ammonia suspected. Chhapra: another leak."
+"Can 1 cold room cost you everything? Prayagraj lost 4. Then Chhapra, June. Ammonia was suspected in Prayagraj, and it leaked in Chhapra."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -604,7 +611,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Ammonia keeps cold rooms cold. Leaked into a closed space, it can ignite, and it's toxic long before that."
+"In Chhapra, officials found the plant's safety measures were inadequate. Ammonia's highly toxic. In a closed room, it's toxic first, and can even ignite."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -619,18 +626,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a gas detector on a cold room wall flashing.
-Shot 2 (2.5 to 5 seconds): staff in breathing sets practising a leak drill.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a gas detector on a cold room wall flashing.
+Shot 2 (2 to 4 seconds): staff in breathing sets practising a leak drill.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DETECTORS" at 0 seconds, then "TRAINED STAFF" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "DETECTORS" at 0 seconds, then "TRAINED STAFF" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Leak detectors. Maintained pipelines. Emergency ventilation. Trained staff. Would your staff know what to do?"
+"Fix 1: fit leak detectors. Train your staff. Would they know what to do if 1 cold room leaked?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -639,14 +646,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 28. LPG Tanker Fires
 
-**Hook:** "Can 1 tanker cost you everything? Never film it. Kaushambi lost four." (hook score 94 STRONG)  
-**Spoken length:** 8.4s + 8.0s + 7.3s = 23.6s, plus a 2s end card
+**Hook:** "Can 1 tanker cost you everything? Never film it." (hook score 100 STRONG)  
+**Spoken length:** 8.4s + 9.1s + 6.2s = 23.6s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 77 (/ig-human)
 
 **Full script**
 
-1. Can 1 tanker cost you everything? Never film it. Kaushambi lost four. A toll plaza fireball in June. Ramban, August: a tyre fire.
-2. One was stopped in time. One wasn't. A tyre fire is minutes from the tank. A leak is seconds from a spark.
-3. Drivers: stop, cut the engine, get everyone away. Everyone else: never stop to watch or film. Would you walk away?
+1. Can 1 tanker cost you everything? / Never film it. / Kaushambi lost 4. / An LPG tanker hit a divider at a toll plaza there.
+2. In Ramban, a tanker tyre fire was stopped before the tank. / Every minute matters. / A leak's seconds from a spark, so don't stop to film.
+3. Fix 1: drivers: stop, switch off. / Everyone: walk away. / Would you film 1 tanker, or walk away?
 
 **Facts to check before posting:** Sihori toll plaza, Kaushambi, UP, 26 Jun 2026: LPG tanker hit a divider and caught fire; 4 to 5 dead reported. Jammu–Srinagar highway near Chanderkote, Ramban, 4 Aug 2026: LPG tanker tyre fire controlled before it reached the tank; no casualties.
 
@@ -671,7 +679,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 tanker cost you everything? Never film it. Kaushambi lost four. A toll plaza fireball in June. Ramban, August: a tyre fire."
+"Can 1 tanker cost you everything? Never film it. Kaushambi lost 4. An LPG tanker hit a divider at a toll plaza there."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -695,7 +703,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"One was stopped in time. One wasn't. A tyre fire is minutes from the tank. A leak is seconds from a spark."
+"In Ramban, a tanker tyre fire was stopped before the tank. Every minute matters. A leak's seconds from a spark, so don't stop to film."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -710,18 +718,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a driver waving people away from a stopped tanker.
-Shot 2 (2.5 to 5 seconds): people walking quickly away along a highway shoulder.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a driver waving people away from a stopped tanker.
+Shot 2 (2 to 4 seconds): people walking quickly away along a highway shoulder.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "GET AWAY" at 0 seconds, then "DON'T FILM" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "GET AWAY" at 0 seconds, then "DON'T FILM" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Drivers: stop, cut the engine, get everyone away. Everyone else: never stop to watch or film. Would you walk away?"
+"Fix 1: drivers: stop, switch off. Everyone: walk away. Would you film 1 tanker, or walk away?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -730,14 +738,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 29. Cotton Ginning Fires
 
-**Hook:** "Can 1 hot silencer cost you? 2,000 quintals lost in Washim." (hook score 100 STRONG)  
-**Spoken length:** 5.8s + 7.3s + 7.3s = 20.4s, plus a 2s end card
+**Hook:** "Can 1 hot silencer cost you? Washim lost 2,000 quintals." (hook score 100 STRONG)  
+**Spoken length:** 9.1s + 8.7s + 4.7s = 22.5s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 78 (/ig-human)
 
 **Full script**
 
-1. Can 1 hot silencer cost you? 2,000 quintals lost in Washim. Adoni: ten crore of cotton.
-2. Cotton catches in a second and smoulders deep inside heaps. In Washim, the fire engine couldn't even reach the yard.
-3. Spark arrestors on every vehicle. Space between heaps. A clear road for the fire tender. Can one reach your yard?
+1. Can 1 hot silencer cost you? / Washim lost 2,000 quintals. / Then Adoni's 10 crore. / In Washim, a truck's hot silencer reportedly touched a cotton heap.
+2. Cotton catches in a second and smoulders deep inside the heap. / Then everything goes. / In Washim, the fire engine couldn't even reach the yard.
+3. Fix 1: arrestors. / Space your heaps. / Could 1 hot silencer reach your cotton?
 
 **Facts to check before posting:** Bothra Ginning, Dhanaj, Washim, Maharashtra, Nov 2026: about 2,000 quintals of cotton burned; truck's hot silencer reportedly touched cotton; fire engine could not reach the premises. NDBL ginning unit, Adoni, AP (likely Dec 2025): about ₹10 crore of cotton; short circuit preliminarily blamed.
 
@@ -762,7 +771,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 hot silencer cost you? 2,000 quintals lost in Washim. Adoni: ten crore of cotton."
+"Can 1 hot silencer cost you? Washim lost 2,000 quintals. Then Adoni's 10 crore. In Washim, a truck's hot silencer reportedly touched a cotton heap."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -786,7 +795,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Cotton catches in a second and smoulders deep inside heaps. In Washim, the fire engine couldn't even reach the yard."
+"Cotton catches in a second and smoulders deep inside the heap. Then everything goes. In Washim, the fire engine couldn't even reach the yard."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -801,18 +810,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a mechanic fitting a spark arrestor to a truck exhaust.
-Shot 2 (2.5 to 5 seconds): neat cotton heaps with wide lanes between them.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a mechanic fitting a spark arrestor to a truck exhaust.
+Shot 2 (2 to 4 seconds): neat cotton heaps with wide lanes between them.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "SPARK ARRESTOR" at 0 seconds, then "SPACE HEAPS" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "SPARK ARRESTOR" at 0 seconds, then "SPACE HEAPS" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Spark arrestors on every vehicle. Space between heaps. A clear road for the fire tender. Can one reach your yard?"
+"Fix 1: arrestors. Space your heaps. Could 1 hot silencer reach your cotton?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
@@ -821,14 +830,15 @@ AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep ba
 
 ## 30. Diwali Night Fires
 
-**Hook:** "Can 1 rocket cost you your home? Never store junk on balconies." (hook score 94 STRONG)  
-**Spoken length:** 8.4s + 7.6s + 6.2s = 22.2s, plus a 2s end card
+**Hook:** "Can 1 rocket cost you your home? Never store junk." (hook score 100 STRONG)  
+**Spoken length:** 8.4s + 9.1s + 6.2s = 23.6s, plus a 2s end card  
+**Instagram skill checks:** hook 100 (/ig-reel hookscore), beat sheet clean with a loop (/ig-reel beats), humanizer PASS 78 (/ig-human)
 
 **Full script**
 
-1. Can 1 rocket cost you your home? Never store junk on balconies. Delhi: 257 fire calls on Diwali night. 85 in two hours.
-2. Diyas near curtains, lights left on, rockets landing on rooftops and balconies full of junk. All in the same two hours.
-3. Clear your balcony and roof. Diyas on metal. Water bucket ready. What's on your roof right now?
+1. Can 1 rocket cost you your home? / Never store junk. / Delhi, Diwali night. / Fire services logged 257 calls, 85 in just 2 hours.
+2. On Diwali, rockets land on balconies piled with cartons and newspapers. / Diyas touch curtains. / And your lights stay on all night while you're out celebrating.
+3. Fix 1: diyas on metal. / Water bucket ready. / Could 1 rocket land on your balcony this season?
 
 **Facts to check before posting:** Delhi Fire Services, Diwali 2026 (reported 9 Nov): 257 calls, 214 fire-related, busiest 8–10 pm with 85 calls. Warehouse Nehru Market, Jammu, Diwali night 2026: losses in crores.
 
@@ -853,7 +863,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 rocket cost you your home? Never store junk on balconies. Delhi: 257 fire calls on Diwali night. 85 in two hours."
+"Can 1 rocket cost you your home? Never store junk. Delhi, Diwali night. Fire services logged 257 calls, 85 in just 2 hours."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -877,7 +887,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Diyas near curtains, lights left on, rockets landing on rooftops and balconies full of junk. All in the same two hours."
+"On Diwali, rockets land on balconies piled with cartons and newspapers. Diyas touch curtains. And your lights stay on all night while you're out celebrating."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -892,18 +902,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a clean, empty balcony at night.
-Shot 2 (2.5 to 5 seconds): a diya on a metal plate with a bucket of water nearby.
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a clean, empty balcony at night.
+Shot 2 (2 to 4 seconds): a diya on a metal plate with a bucket of water nearby.
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CLEAR IT" at 0 seconds, then "WATER READY" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "CLEAR IT" at 0 seconds, then "WATER READY" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Clear your balcony and roof. Diyas on metal. Water bucket ready. What's on your roof right now?"
+"Fix 1: diyas on metal. Water bucket ready. Could 1 rocket land on your balcony this season?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```

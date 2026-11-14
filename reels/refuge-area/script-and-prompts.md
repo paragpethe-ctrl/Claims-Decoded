@@ -1,13 +1,14 @@
 # The Refuge Area That Became a Store Room
 
-**Hook:** "Can 1 refuge area save you? Never block it. Nalasopara lost two." Hook score 94. It is followed straight away by what was reported (the fire reached the refuge-floor door); no report says a blocked refuge caused the deaths.
-**Timing:** 9.1s + 8.7s + 6.5s spoken, plus a 2s end card.
+**Hook:** "Can 1 refuge area save you? Never block it, not once." Hook score 100.
+**Instagram skill checks:** /ig-reel hook 100, /ig-reel beat sheet clean with a loop, /ig-human PASS 76.
+**Timing:** 9.1s + 9.1s + 4.4s spoken, plus a 2s end card.
 
 ## Script
 
-1. Can 1 refuge area save you? Never block it. Nalasopara lost two. The fire reached its refuge floor door. Mumbai, November: a refuge area burned.
-2. Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on the 15th-floor refuge. Fill yours with junk, and it becomes fuel.
-3. Check 3 things every month: empty, unlocked, signposted. Do you know which floor your refuge area is on?
+1. Can 1 refuge area save you? / Never block it, not once. / Nalasopara lost 2. / In Mumbai, a refuge area burned beside an old scrap generator.
+2. Above 24 metres, fire ladders can't reach everyone in your tower. / Nalasopara's refuge door burned. / In Goregaon, residents waited safely on their 15th-floor refuge area.
+3. Fix 1: empty it. / Keep it unlocked. / Which floor's your refuge area?
 
 ## Facts to check before posting
 
@@ -37,7 +38,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Can 1 refuge area save you? Never block it. Nalasopara lost two. The fire reached its refuge floor door. Mumbai, November: a refuge area burned."
+"Can 1 refuge area save you? Never block it, not once. Nalasopara lost 2. In Mumbai, a refuge area burned beside an old scrap generator."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
 ```
@@ -61,7 +62,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Above 24 metres, ladders can't reach everyone. In Goregaon, residents waited safely on the 15th-floor refuge. Fill yours with junk, and it becomes fuel."
+"Above 24 metres, fire ladders can't reach everyone in your tower. Nalasopara's refuge door burned. In Goregaon, residents waited safely on their 15th-floor refuge area."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
 ```
@@ -76,18 +77,18 @@ TITLES (on screen for the full clip, no border or frame around the video): the f
 STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
 No presenter and no person speaking to camera: b-roll only, with voiceover narration.
 
-Shot 1 (0 to 2.5 seconds): a resident carrying boxes out of a refuge floor, leaving it bare and open.
-Shot 2 (2.5 to 5 seconds): an unlocked refuge floor door with a green running-man sign above it (no readable text).
-Shot 3 (5 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
+Shot 1 (0 to 2 seconds): a resident carrying boxes out of a refuge floor, leaving it bare and open.
+Shot 2 (2 to 4 seconds): an unlocked refuge floor door with a green running-man sign above it (no readable text).
+Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
 END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
-IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 CHECKS" at 0 seconds, then "EMPTY · UNLOCKED" at 2.5 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
+IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "3 CHECKS" at 0 seconds, then "EMPTY · UNLOCKED" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
 NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
-"Check 3 things every month: empty, unlocked, signposted. Do you know which floor your refuge area is on?"
+"Fix 1: empty it. Keep it unlocked. Which floor's your refuge area?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.
 ```
