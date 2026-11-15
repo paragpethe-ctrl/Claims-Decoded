@@ -14,7 +14,7 @@ same as none, and the end card already asks for the follow.
 ```
 Tell me in the comments: has your hospital's ICU had a thermal scan? Cuttack lost 10 patients.
 
-Cuttack lost 10. Then Thiruvananthapuram, Muzaffarpur. In all 3, a short circuit was blamed or suspected.
+Then Thiruvananthapuram, Muzaffarpur. In all 3, a short circuit was blamed or suspected.
 
 Your ICU runs machines 24 hours a day, in oxygen-rich air. On old wiring. 1 fault, and fire moves faster than you can wheel beds.
 
@@ -35,7 +35,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #hospitalsafety #ICU #electricalsafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 86
+humanizer:  PASS 84
 ```
 
 ## 02. Hotel Fires
@@ -43,7 +43,7 @@ humanizer:  PASS 86
 ```
 Tell me: would you find 2 exits in your next hotel? Delhi lost 21 lives in 1 guest house.
 
-Delhi lost 21. Kolkata, then Tarapith. In August, those 2 hotel fires took 17 more lives.
+Kolkata, then Tarapith. In August, those 2 hotel fires took 17 more lives.
 
 Reports say the Delhi guest house had just 1 door. Just 1 door. In Kolkata, a guest said there wasn't any fire safety system.
 
@@ -64,7 +64,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #hotelsafety #travelsafety #fireexit
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 84
+humanizer:  PASS 82
 ```
 
 ## 03. AC Blast Fires
@@ -72,7 +72,7 @@ humanizer:  PASS 84
 ```
 Tell me: when was your AC last serviced? Delhi lost 9 lives after 1 AC blast.
 
-Delhi lost 9. Then Indirapuram, Noida. Both were high-rise flats, on the 15th and 21st floors.
+Then Indirapuram, Noida. Both were high-rise flats, on the 15th and 21st floors.
 
 Your AC runs for months nonstop through an Indian summer. A capacitor weakens. Add 1 loose wire, and it's no longer cooling, it's burning.
 
@@ -93,7 +93,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #acsafety #homesafety #electricalsafety
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 80
+humanizer:  PASS 78
 ```
 
 ## 04. E-Scooter Charging Fires
@@ -101,11 +101,11 @@ humanizer:  PASS 80
 ```
 Tell me: where does your building charge its e-scooters? Noida lost 2 lives.
 
-Noida lost 2. Then Pune, same month. In Noida and Pune, scooters were charging in the parking.
+Then Pune, same month. In Noida and Pune, scooters were charging in the parking.
 
 Lithium cells overheat, then set off the cell next to them. It's a chain. And the smoke climbs the 1 staircase you'd use to escape.
 
-Every e-scooter fire here began with charging. EV charging safety starts with where you plug in.
+Every e-scooter fire here began with charging, so EV charging safety really starts with where, and how long, you plug in.
 
 ⚠️ Here's what works. Fix 1: charge it outdoors. Original charger only.
 
@@ -122,7 +122,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #evsafety #escooter #lithiumbattery
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 76
+humanizer:  PASS 91
 ```
 
 ## 05. Ground-Floor Short Circuits
@@ -130,7 +130,7 @@ humanizer:  PASS 76
 ```
 Tell me: what's in the shop below your home? Hyderabad lost 17 of 1 family.
 
-Hyderabad lost 17. Delhi, then Seoni. In 2, it started below them, in a shop or parking.
+Delhi, then Seoni. In 2, it started below them, in a shop or parking.
 
 In Delhi, a witness said it was in parked bikes. Smoke climbs fast. Your family upstairs wakes up with the only staircase already gone.
 
@@ -151,7 +151,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #shortcircuit #homesafety #smokealarm
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 80
 ```
 
 ## 06. Restaurant Gas Cylinders
@@ -159,7 +159,7 @@ humanizer:  PASS 82
 ```
 Tell me: how many cylinders sit in your restaurant kitchen? Srinagar had 19.
 
-Srinagar's restaurant did. In Delhi, 3 cylinders exploded in 1 fire; Balasore had another.
+Never stack 19. Srinagar's restaurant did. In Delhi, 3 cylinders exploded in 1 fire; Balasore had another.
 
 1 cylinder's fuel; 19 in a kitchen is a bomb store. It's a chain. When 1 heats up, the next follows; you can't stop it.
 
@@ -180,7 +180,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #lpgsafety #restaurantsafety #kitchensafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 83
 ```
 
 ## 07. Power Bank Fires
@@ -217,7 +217,7 @@ humanizer:  PASS 77
 ```
 Tell me: who checks the reactors at your plant? Bharuch lost 5 workers.
 
-Bharuch lost 5. Telangana lost 2. Telangana's managers suspected overheating; Bharuch's cause is still under investigation.
+Telangana lost 2. Telangana's managers suspected overheating; Bharuch's cause is still under investigation.
 
 Above its limit, 1 reaction speeds itself up as pressure builds. Vents can't keep up. Then the vessel fails, with your workers standing right beside it.
 
@@ -238,7 +238,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #processsafety #industrialsafety #pharma #firesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 80
 ```
 
 ## 09. Boiler Explosions
@@ -246,11 +246,11 @@ humanizer:  PASS 82
 ```
 Tell me: when was your boiler last inspected? Chhattisgarh lost 9 workers.
 
-Chhattisgarh lost 9. Then Sri City, Chhatral. In October alone, those 2 boiler blasts took 9 more workers.
+Then Sri City, Chhatral. In October alone, those 2 boiler blasts took 9 more workers.
 
 A boiler's storing energy as pressure, waiting for 1 weak point. Say, a pipe. In Chhatral, police suspect a pipe burst during fitting work nearby.
 
-A boiler explosion is stored pressure let go at once. Boiler inspection on schedule is what stops it.
+A boiler explosion is stored pressure let go all at once, and boiler inspection on schedule, with tested valves, is what stops it.
 
 ⚠️ Here's what works. Fix 1: inspect on schedule. Don't skip valve tests.
 
@@ -267,7 +267,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #boilersafety #industrialsafety #firesafety #factorysafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 74
+humanizer:  PASS 85
 ```
 
 ## 10. Godown Fire Losses
@@ -275,7 +275,7 @@ humanizer:  PASS 74
 ```
 Tell me: could you prove your stock after a fire? Nagpur's godowns lost 4.81 crore.
 
-Nagpur lost it. Shankarpally: 3.6 crore. Shillong's decorators lost up to 2 crore, all in 2026.
+Shankarpally: 3.6 crore. Shillong's decorators lost up to 2 crore, all in 2026.
 
 Those Nagpur figures are owners' estimates, not insurer payouts. Proof decides that. Your bills, stock registers and photos decide what you're paid.
 
@@ -296,7 +296,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #fireinsurance #insuranceclaim #godown #firesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 89
+humanizer:  PASS 87
 ```
 
 ## 11. Fireworks Factory Blasts
@@ -362,7 +362,7 @@ humanizer:  PASS 82
 ```
 Tell me: would you find the emergency hammer on your bus? Jaisalmer lost 20 lives.
 
-Jaisalmer lost 20. Then Yamuna Expressway. In 2026, an AC sleeper bus fire there took 9 more.
+Then Yamuna Expressway. In 2026, an AC sleeper bus fire there took 9 more.
 
 There's 1 narrow aisle, just 1 door, and curtains everywhere. Smoke's always quicker. Reports say passengers on the Yamuna Expressway jumped from the windows.
 
@@ -383,7 +383,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #bussafety #travelsafety #roadsafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 79
+humanizer:  PASS 77
 ```
 
 ## 14. One Exit, No Way Out
@@ -391,7 +391,7 @@ humanizer:  PASS 79
 ```
 Tell me: does your building have more than 1 door out? Delhi lost 21 behind 1.
 
-Delhi lost 21. Then 2 more. In Lucknow, students jumped; in Goa, a club had narrow exits.
+Then 2 more. In Lucknow, students jumped; in Goa, a club had narrow exits.
 
 Fire doesn't need to reach you; smoke just blocks your exit. Then it's luck. In Goa, the narrow entry kept tankers 400 metres away.
 
@@ -412,7 +412,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #fireexit #buildingsafety #lifesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 87
+humanizer:  PASS 84
 ```
 
 ## 15. Decorative Light Fires
@@ -478,7 +478,7 @@ humanizer:  PASS 91
 ```
 Tell me: can a fire tender reach your shop? Jammu lost 40 shops in 1 market fire.
 
-Jammu lost 40. Then Hyderabad's Patel Market. Then another Jammu market on Diwali night, with losses in crores.
+Then Hyderabad's Patel Market. Then another Jammu market on Diwali night, with losses in crores.
 
 In Jammu, 1 shop's short circuit spread with the wind. Tenders couldn't enter. Your lane decides if a fire truck reaches your shop.
 
@@ -499,7 +499,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #marketfire #shopsafety #jammu
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 80
+humanizer:  PASS 78
 ```
 
 ## 18. Chemical Drum Fires
@@ -507,7 +507,7 @@ humanizer:  PASS 80
 ```
 Tell me: how are chemical drums stored at your site? 1 fire took 4 Navi Mumbai factories.
 
-Navi Mumbai lost them. Then Kolkata, September. A closed factory burned there, still full of stored chemicals.
+Then Kolkata, September. A closed factory burned there, still full of stored chemicals.
 
 In Navi Mumbai, drums burst in the heat, 1 after another. Each feeds fire. Your idle unit still holds fuel, even when nobody's working there.
 
@@ -528,7 +528,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #chemicalsafety #industrialsafety #firesafety #warehousesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 83
 ```
 
 ## 19. Fires During Repair Work
@@ -536,7 +536,7 @@ humanizer:  PASS 82
 ```
 Tell me: does your plant use hot work permits? Chhatral lost 4 during repairs.
 
-Chhatral lost 4. Then Rewari, May. Blasts hit a chemical plant there during ongoing repair work.
+Then Rewari, May. Blasts hit a chemical plant there during ongoing repair work.
 
 In Chhatral, police suspect pressure burst a pipe during fitting work. Sparks meet fuel. Your plant's often at its riskiest while it's being fixed.
 
@@ -557,7 +557,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #industrialsafety #hotwork #firesafety #maintenance
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 80
+humanizer:  PASS 78
 ```
 
 ## 20. High-Rise Fires
@@ -565,7 +565,7 @@ humanizer:  PASS 80
 ```
 Tell me: have you walked your building's fire escape? Nalasopara lost 2 lives.
 
-Nalasopara lost 2. Then Goregaon, Ghansoli. In Ghansoli, the fire was on the 7th floor.
+Then Goregaon, Ghansoli. In Ghansoli, the fire was on the 7th floor.
 
 Ladders only reach so high; above that, it's your staircase. Keep it clear. In Nalasopara, heat filled the stairwell and slowed the whole rescue.
 
@@ -586,7 +586,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #highrise #mumbai #fireescape
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 81
+humanizer:  PASS 80
 ```
 
 ## 21. Smoke Strikes First
@@ -594,7 +594,7 @@ humanizer:  PASS 81
 ```
 Tell me: would you crawl out or hide? Mangolpuri lost workers to smoke.
 
-Mangolpuri lost workers. Then Kolkata, August. Hotel victims there were found in bathrooms, away from the flames.
+Then Kolkata, August. Hotel victims there were found in bathrooms, away from the flames.
 
 Smoke reaches you long before the fire itself does. 2 breaths in. You're drowsy and confused, so you hide instead of getting out.
 
@@ -615,7 +615,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #smoke #lifesafety #workplacesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 92
+humanizer:  PASS 93
 ```
 
 ## 22. Textile and Garment Units
@@ -623,7 +623,7 @@ humanizer:  PASS 92
 ```
 Tell me: are LPG cylinders on your factory floor? Surat lost 2 workers.
 
-Surat lost 2. Then Najafgarh, November. There, 1 garment factory fire jumped straight into the next unit.
+Then Najafgarh, November. There, 1 garment factory fire jumped straight into the next unit.
 
 In Surat, a short circuit came first, then LPG cylinders exploded. Then fabric's gone. Thread, lint and cloth give your 1 spark everything it needs.
 
@@ -644,7 +644,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #factorysafety #textileindustry #firesafety #surat
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 84
+humanizer:  PASS 82
 ```
 
 ## 23. Transformer Fires
@@ -652,7 +652,7 @@ humanizer:  PASS 84
 ```
 Tell me: what's parked under the transformer on your street? Hafeezpet lost vehicles.
 
-Hafeezpet lost vehicles. Laxmi Nagar, April. There, a transformer fire climbed into the flats right beside it.
+Laxmi Nagar, April. There, a transformer fire climbed into the flats right beside it.
 
 In Hafeezpet, investigators named overloading as a key preliminary factor. Oil overheats, leaks. Anything you park or dump below then becomes fuel for it.
 
@@ -673,7 +673,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #transformer #electricalsafety #hyderabad
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 79
+humanizer:  PASS 77
 ```
 
 ## 24. CNG Car Fires
@@ -710,7 +710,7 @@ humanizer:  PASS 88
 ```
 Tell me: is your pandal 1 spark away from a fire? Goa lost 25 lives.
 
-Goa lost 25. Then Raipur, October. There, a firework spark reportedly reached a Durga pandal's thermocol.
+Then Raipur, October. There, a firework spark reportedly reached a Durga pandal's thermocol.
 
 Thermocol, cloth and bamboo are fuel, just dressed as decoration. Sparks find them. In Goa, investigators say indoor pyro hit a wooden ceiling.
 
@@ -731,7 +731,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #durgapuja #festivalsafety #pandal
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 75
+humanizer:  PASS 73
 ```
 
 ## 26. Plastic Factory Fires
@@ -942,7 +942,7 @@ humanizer:  PASS 91
 ```
 Tell me: has any switch in your home felt warm? Seoni lost 6 lives.
 
-Seoni lost 6. Then Jammu, Shankarpally. 40 shops in 1 market, 3.6 crore in 1 godown.
+Then Jammu, Shankarpally. 40 shops in 1 market, 3.6 crore in 1 godown.
 
 In Seoni, a forensic team is now examining the burnt house. MCBs miss this. A loose joint doesn't overload; it just heats, quietly, for weeks.
 
@@ -963,7 +963,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #shortcircuit #electricalsafety #firesafety #homesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 76
+humanizer:  PASS 75
 ```
 
 ## 34. Fire Tender Access
@@ -1058,7 +1058,7 @@ humanizer:  PASS 79
 ```
 Tell me: do you know what runs in your lane? Ahmedabad lost 8 to an illegal unit.
 
-Ahmedabad lost 8. Then Siwan, October. Reports linked a house blast there to illegal cracker manufacturing.
+Then Siwan, October. Reports linked a house blast there to illegal cracker manufacturing.
 
 In Ahmedabad, investigators are probing an illegal pyrotechnics factory. No licence, limits. Their fire doesn't stay inside their walls; it reaches your home.
 
@@ -1079,7 +1079,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #illegalfactory #communitysafety #homesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 79
+humanizer:  PASS 77
 ```
 
 ## 38. Overloaded Wiring
@@ -1087,7 +1087,7 @@ humanizer:  PASS 79
 ```
 Tell me: how many ACs share your home's wiring? Hyderabad lost 17 lives.
 
-Hyderabad lost 17. Then Hafeezpet, 2026. A transformer there exploded; overloading's suspected, and vehicles burned below it.
+Then Hafeezpet, 2026. A transformer there exploded; overloading's suspected, and vehicles burned below it.
 
 In Hyderabad, reports say 14 ACs ran on aged cables. Loads kept growing. Your wiring was sized for fans and bulbs, not today's appliances.
 
@@ -1108,7 +1108,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #electricalsafety #firesafety #homesafety #overload
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 80
+humanizer:  PASS 79
 ```
 
 ## 39. Business Interruption
@@ -1174,11 +1174,11 @@ humanizer:  PASS 93
 ```
 Tell me: where do you park every night? Balasore lost cars in 1 kitchen blast.
 
-Balasore lost several. Then Hafeezpet, Delhi. Bikes, a truck and parked 2-wheelers, all burned where they stood.
+Then Hafeezpet, Delhi. Bikes, a truck and parked 2-wheelers, all burned where they stood.
 
 In Balasore, the vehicles were simply parked outside a restaurant. Then the blast. Fuel tanks and batteries make your parking spot a fuel store.
 
-A vehicle fire can start in someone else's kitchen. Check what your car insurance covers.
+A vehicle fire can start in someone else's kitchen, so check what your car insurance actually covers before you need it.
 
 ⚠️ Here's what works. Fix 1: avoid kitchen walls. Avoid any transformer.
 
@@ -1195,7 +1195,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #carsafety #firesafety #carinsurance #parking
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 74
+humanizer:  PASS 88
 ```
 
 ## 42. Why Fire Cause Matters
@@ -1261,7 +1261,7 @@ humanizer:  PASS 82
 ```
 Tell me: would you report a burning smell in your hotel room? Kolkata lost 9 lives.
 
-Kolkata lost 9. Then the Yamuna Expressway. A bus AC blast there, then engine oil caught fire.
+Then the Yamuna Expressway. A bus AC blast there, then engine oil caught fire.
 
 In Kolkata, investigators suspected a faulty AC in the budget hotel. They don't rest. Cheap servicing and stretched wiring build faults till something gives.
 
@@ -1282,7 +1282,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #hotelsafety #firesafety #travelsafety #acsafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 80
 ```
 
 ## 45. Lithium Battery Fires
@@ -1319,11 +1319,11 @@ humanizer:  PASS 73
 ```
 Tell me: what's parked under your flat tonight? Noida lost 2 lives.
 
-Noida lost 2. Then Delhi, Pune. Parked 2-wheelers in Delhi, 3 charging scooters at once in Pune.
+Then Delhi, Pune. Parked 2-wheelers in Delhi, 3 charging scooters at once in Pune.
 
 In Noida, smoke from the parking spread through the building fast. It's right below. Fuel and batteries burn right under where your family sleeps.
 
-A stilt parking fire goes straight up. EV charging safety means not charging there.
+A stilt parking fire goes straight up into the homes above, so EV charging safety means never charging there, not even overnight.
 
 ⚠️ Here's what works. Fix 1: no charging there. Don't skip fire doors.
 
@@ -1340,7 +1340,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #stiltparking #evsafety #apartmentliving
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 74
+humanizer:  PASS 88
 ```
 
 ## 47. Restaurant Fires Spread Up
@@ -1435,7 +1435,7 @@ humanizer:  PASS 85
 ```
 Tell me: does your plant warn neighbours about gas leaks? Bharuch lost 5 workers.
 
-Bharuch lost 5. Then gas leaked. After the reactor blast, a solvent leak added to the damage.
+Then gas leaked. After the reactor blast, a solvent leak added to the damage.
 
 In Prayagraj, ammonia's suspected in a cold storage collapse. Flames aren't everything. Leaked gas can poison rescuers and neighbours who never saw fire.
 
@@ -1456,7 +1456,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #industrialsafety #gasleak #processsafety #firesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 87
+humanizer:  PASS 86
 ```
 
 ## 51. The Refuge Area That Became a Store Room

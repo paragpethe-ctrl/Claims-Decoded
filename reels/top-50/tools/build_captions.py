@@ -10,8 +10,9 @@ def build(i):
     ask, kws, kwline, tags = C[i]
     p1, p2, p3 = X[i]
     import re
-    nums = set(re.findall(r'\d[\d,.]*', p1[1]))
-    lead = p1[2:] if nums and nums <= set(re.findall(r'\d[\d,.]*', ask)) else p1[1:]
+    key = lambda t: set(re.findall(r"\d+(?:[.,]\d+)*|[A-Z][a-z]{2,}", t))
+    k1 = key(p1[1])
+    lead = p1[2:] if k1 and k1 <= key(ask) else p1[1:]
     paras = [ask, ' '.join(lead), ' '.join(p2), kwline, '⚠️ Here\'s what works. ' + ' '.join(p3[:-1]),
              'Fire Claims Decoded. 1 fire cause, every reel.', ' '.join(tags)]
     return '\n\n'.join(paras), kws
