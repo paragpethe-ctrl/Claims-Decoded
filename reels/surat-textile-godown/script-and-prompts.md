@@ -95,7 +95,7 @@ AUDIO: quiet warehouse room tone, music lifting gently under the checklist, a de
 | 1 | 0:00 | Can 1 spark cost your godown everything? Surat lost lakhs. |
 | 1 | 0:03.6 | On 14 November, a textile waste warehouse there went up fast. Over 10 tenders. |
 | 2 | 0:10 | In Surat, fabric stacked tight burned faster than crews could reach. |
-| 2 | 0:22.7 | Cause still unknown. Wiring and sparks near your stock are always the classic risk. |
+| 2 | 0:14 | Cause still unknown. Wiring and sparks near your stock are always the classic risk. |
 
 (Clip 3's voiceover is spoken by you in the Gemini clip.)
 
