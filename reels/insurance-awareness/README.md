@@ -54,5 +54,6 @@ prompts are the animated, no-speech format Gemini accepted; add the voiceover in
 the table in each reel.
 
 Files:
+- `pillar-1-more-25.md` (reels 17 to 41) and `pillar-2-more-25.md` (reels 42 to 66): 50 more reels, cinematic prompts, facts and sources.
 - `pillar-1-cinematic-prompts.md`, `pillar-2-cinematic-prompts.md`: cinematic prompts (narration, impact text, titles inside each prompt), same format as the refuge area reel. Use these first.
 - `pillar-1-why-buy-fire-insurance.md`, `pillar-2-lessons-from-rejected-claims.md`: scripts, facts, sources, captions, plus animated no-speech prompts as a fallback if Gemini refuses a cinematic one.
