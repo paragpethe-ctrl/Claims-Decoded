@@ -37,7 +37,7 @@ ON-SCREEN TEXT: bold red-and-yellow typography, centred below the header, punchi
 
 CAPTIONS: burned-in captions of the voiceover, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words, with the pauses shown:
+VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words:
 "Can 1 spark cost your godown everything? Surat lost lakhs. On 14 November, a textile waste warehouse there went up fast. Over 10 tenders."
 
 AUDIO: real fire ambience and distant sirens, a low cinematic bass hit on the first word, a soft whoosh on the cut at 5 seconds.
@@ -60,7 +60,7 @@ ON-SCREEN TEXT: bold red-and-yellow typography, centred below the header, punchi
 
 CAPTIONS: burned-in captions of the voiceover, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words, with the pauses shown:
+VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words:
 "Can 1 spark cost your godown everything? Surat lost lakhs. On 14 November, a textile waste warehouse there went up fast. Over 10 tenders."
 
 AUDIO: real fire ambience and distant sirens, a low cinematic bass hit on the first word, a soft whoosh on the cut at 5 seconds.
@@ -84,7 +84,7 @@ ON-SCREEN TEXT: bold red-and-yellow typography, centred below the header, punchi
 
 CAPTIONS: burned-in captions of the voiceover, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words, with the pauses shown:
+VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words:
 "In Surat, fabric stacked tight burned faster than crews could reach. Cause still unknown. Wiring and sparks near your stock are always the classic risk."
 
 AUDIO: crackling fire ambience under the voice, a soft whoosh into the animation at 4 seconds.
@@ -108,7 +108,7 @@ ON-SCREEN TEXT: bold red-and-yellow typography, centred below the header, punchi
 
 CAPTIONS: burned-in captions of the voiceover, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words, with the pauses shown:
+VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words:
 "In Surat, fabric stacked tight burned faster than crews could reach. Cause still unknown. Wiring and sparks near your stock are always the classic risk."
 
 AUDIO: crackling fire ambience under the voice, a soft whoosh into the animation at 4 seconds.
@@ -128,11 +128,11 @@ Shot 2 (2.5 to 7.3 seconds): the presenter on camera. Use my uploaded photograph
 Shot 3 (7.3 to 8.5 seconds): gold checklist over the tidy warehouse (see ON-SCREEN TEXT).
 Shot 4 (8.5 to 10 seconds): END CARD: cut to black. Centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "PREVENT THE FIRE. PROTECT THE PROPERTY. PREVENT THE LOSS." in white, "@parag_pethe1 · FOLLOW" with a bold red FOLLOW button. Hold.
 
-ON-SCREEN TEXT: bold red-and-yellow typography, centred below the header, punching in with a soft whoosh: "SPACE FROM WIRING | BREAK UP STACKS | DECLARE STORAGE" as a gold checklist, each item ticking in from 7 seconds. Spell it exactly as written.
+ON-SCREEN TEXT: a gold checklist, centred below the header, each item ticking in with a soft whoosh from 7 seconds: "SPACE FROM WIRING", "BREAK UP STACKS", "DECLARE STORAGE". Spell it exactly as written.
 
 CAPTIONS: burned-in captions of the voiceover, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words, with the pauses shown:
+VOICEOVER: confident, clear Indian English male presenter, conversational. It starts on the very first frame with no silence or lead-in. Exact words:
 "Fix 1: rewire. Declare your storage honestly, or your claim becomes a dispute. Could 1 spark cost your godown everything?"
 
 AUDIO: quiet warehouse room tone, music lifting gently under the checklist, a deep bass hit on the end card.
