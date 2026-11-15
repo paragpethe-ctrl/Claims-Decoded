@@ -40,6 +40,11 @@ Each Part 3 opens with "Fix 1:", the series' signature line. Numbers are
 written as digits ("Can 1 cylinder"); the narrator says them as words.
 Each episode file shows its own scores.
 
+## Captions
+
+`captions.md` has the Instagram caption for every reel, written with /ig-caption and
+checked by its linter and /ig-human. Paste it as it is when you post.
+
 ## Before you generate
 
 1. **No photo upload needed.** Every clip is b-roll with voiceover.

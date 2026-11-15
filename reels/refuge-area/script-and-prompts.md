@@ -10,6 +10,35 @@
 2. Above 24 metres, fire ladders can't reach everyone in your tower. / Nalasopara's refuge door burned. / In Goregaon, residents waited safely on their 15th-floor refuge area.
 3. Fix 1: empty it. / Keep it unlocked. / Which floor's your refuge area?
 
+## Instagram caption
+
+```
+Tell me: which floor is your refuge area on? Nalasopara lost 2 lives.
+
+Never block it, not once. Nalasopara lost 2. In Mumbai, a refuge area burned beside an old scrap generator.
+
+Above 24 metres, fire ladders can't reach everyone in your tower. Nalasopara's refuge door burned. In Goregaon, residents waited safely on their 15th-floor refuge area.
+
+Your refuge area is high-rise fire safety you already own. Keep it clear.
+
+⚠️ Here's what works. Fix 1: empty it. Keep it unlocked.
+
+Fire Claims Decoded. 1 fire cause, every reel.
+
+#firesafety #refugearea #highrise #mumbai
+```
+
+```
+CAPTION READY
+job:        A - the reel carries the hook; the caption carries the ask
+first line: 69 characters, lands whole
+ask:        one call to action: answer a question
+hashtags:   4 tag(s): #firesafety #refugearea #highrise #mumbai
+search:     2/2 present, 1 in the visible window
+linter:     all checks PASS
+humanizer:  PASS 80
+```
+
 ## Facts to check before posting
 
 - Mumbai, 8 Nov 2026 (PTI, via Siasat): in one of three high-rise fires, the fire was confined to a dry refuge area and an old scrap DG set on the ground floor of a 22-storey building. The report doesn't make clear which building. [Siasat](https://www.siasat.com/three-mumbai-high-rises-hit-by-fires-no-injuries-reported-3571459/)
