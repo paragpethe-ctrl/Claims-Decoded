@@ -53,4 +53,6 @@ pass on the script (73 to 82), caption linted with /ig-caption and passed by /ig
 prompts are the animated, no-speech format Gemini accepted; add the voiceover in your editor from
 the table in each reel.
 
-Files: `pillar-1-why-buy-fire-insurance.md`, `pillar-2-lessons-from-rejected-claims.md`.
+Files:
+- `pillar-1-cinematic-prompts.md`, `pillar-2-cinematic-prompts.md`: cinematic prompts (narration, impact text, titles inside each prompt), same format as the refuge area reel. Use these first.
+- `pillar-1-why-buy-fire-insurance.md`, `pillar-2-lessons-from-rejected-claims.md`: scripts, facts, sources, captions, plus animated no-speech prompts as a fallback if Gemini refuses a cinematic one.
