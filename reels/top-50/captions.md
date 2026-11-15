@@ -159,7 +159,7 @@ humanizer:  PASS 80
 ```
 Tell me: how many cylinders sit in your restaurant kitchen? Srinagar had 19.
 
-Never stack 19. Srinagar's restaurant did. In Delhi, 3 cylinders exploded in 1 fire; Balasore had another.
+Never stack 19. In Delhi, 3 cylinders exploded in 1 fire; Balasore had another.
 
 1 cylinder's fuel; 19 in a kitchen is a bomb store. It's a chain. When 1 heats up, the next follows; you can't stop it.
 
@@ -180,7 +180,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #lpgsafety #restaurantsafety #kitchensafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 83
+humanizer:  PASS 82
 ```
 
 ## 07. Power Bank Fires
@@ -739,7 +739,7 @@ humanizer:  PASS 73
 ```
 Tell me: are your sprinklers rated for plastic? Ghaziabad lost a plastic factory.
 
-Never stack high. Ghaziabad, this month. Earlier, a Gurugram plastic fire jumped into the warehouses next door.
+Never stack high. Earlier, a Gurugram plastic fire jumped into the warehouses next door.
 
 In Indore, a plastic plant's losses ran into crores in May. Plastic drips fire. It burns hotter than wood, and ordinary sprinklers can't keep up.
 
@@ -760,7 +760,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #factorysafety #sprinklers #warehousesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 78
+humanizer:  PASS 76
 ```
 
 ## 27. Cold Storage Ammonia
@@ -797,7 +797,7 @@ humanizer:  PASS 83
 ```
 Tell me: would you film a burning tanker or walk away? Kaushambi lost 4.
 
-Never film it. Kaushambi lost 4. An LPG tanker hit a divider at a toll plaza there.
+Never film it. An LPG tanker hit a divider at a toll plaza there.
 
 In Ramban, a tanker tyre fire was stopped before the tank. Every minute matters. A leak's seconds from a spark, so don't stop to film.
 
@@ -826,7 +826,7 @@ humanizer:  PASS 83
 ```
 Tell me: do trucks in your yard have spark arrestors? Washim lost 2,000 quintals of cotton.
 
-Then Adoni's 10 crore. In Washim, a truck's hot silencer reportedly touched a cotton heap.
+Then Adoni's 10 crore.
 
 Cotton catches in a second and smoulders deep inside the heap. Then everything goes. In Washim, the fire engine couldn't even reach the yard.
 
@@ -847,7 +847,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #cotton #firesafety #ginning #agrisafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 74
+humanizer:  PASS 75
 ```
 
 ## 30. Diwali Night Fires
@@ -855,7 +855,7 @@ humanizer:  PASS 74
 ```
 Tell me: what's on your balcony right now? Delhi had 257 fire calls on Diwali night.
 
-Never store junk. Delhi, Diwali night. Fire services logged 257 calls, 85 in just 2 hours.
+Never store junk. Fire services logged 257 calls, 85 in just 2 hours.
 
 On Diwali, rockets land on balconies piled with cartons and newspapers. Diyas touch curtains. And your lights stay on all night while you're out celebrating.
 
@@ -876,7 +876,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #diwalisafety #firesafety #homesafety #delhi
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 90
+humanizer:  PASS 91
 ```
 
 ## 31. Rooftop Solar Fires
@@ -884,11 +884,11 @@ humanizer:  PASS 90
 ```
 Tell me: who installed your rooftop solar? An Etawah house fire is suspected from 2-month-old wiring.
 
-Never skip checks. Etawah, October 2026. A house fire, suspected from solar wiring just 2 months old.
+Never skip checks. Etawah, October 2026.
 
 In Fatehabad, a solar plant at a battery factory burned too. Panels don't switch off. Even with your mains switched off, cheap connectors can still arc.
 
-A rooftop solar fire usually starts at a connector. Solar safety means a certified installer.
+A rooftop solar fire usually starts at a connector or a cable, so solar safety means a certified installer and a yearly check.
 
 ⚠️ Here's what works. Fix 1: certified installer only. Don't skip inspections.
 
@@ -905,7 +905,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #solar #rooftopsolar #firesafety #electricalsafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 74
+humanizer:  PASS 88
 ```
 
 ## 32. LPG Leaks at Night
@@ -913,7 +913,7 @@ humanizer:  PASS 74
 ```
 Tell me: is your gas regulator off tonight? Miryalguda lost 3 in a night blast.
 
-Never near gas. Miryalguda lost 3. In June, a night blast while they slept; police are probing.
+Never near gas. In June, a night blast while they slept; police are probing.
 
 Here's how many leaks end: gas fills a closed room overnight. Then morning comes. You touch 1 switch, and that tiny spark's enough.
 
@@ -1000,7 +1000,7 @@ humanizer:  PASS 82
 ```
 Tell me: has your hospital run a fire drill this year? Thiruvananthapuram got every ICU patient out.
 
-Never skip it, not once. Cuttack lost 10. A day later, every ICU patient in Thiruvananthapuram got out alive.
+Never skip it, not once. Cuttack lost 10.
 
 In Cuttack, 11 staff were burned while rescuing their own patients. It's all minutes. Who moves which patient, and where, can't be decided during it.
 
@@ -1021,7 +1021,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #hospitalsafety #firedrill #firesafety #healthcare
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 76
+humanizer:  PASS 77
 ```
 
 ## 36. Fire NOC and Licences
@@ -1116,7 +1116,7 @@ humanizer:  PASS 79
 ```
 Tell me: could your shop survive 3 months shut after a fire? Jammu lost 40 shops.
 
-Not basic policies. 40 Jammu shops. And a Nagpur transport firm lost 2 crore of goods overnight.
+Not basic policies. And a Nagpur transport firm lost 2 crore of goods overnight.
 
 A basic fire policy pays for your stock and your building. It won't cover salaries. For 3 months, your rent and your staff's wages don't stop.
 
@@ -1137,7 +1137,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #fireinsurance #businessinsurance #msme #insuranceclaim
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 85
+humanizer:  PASS 83
 ```
 
 ## 40. Fire Spreads to Neighbours
@@ -1145,7 +1145,7 @@ humanizer:  PASS 85
 ```
 Tell me: does your policy cover a neighbour's fire? 1 fire took 4 Navi Mumbai factories.
 
-Navi Mumbai, Najafgarh, Gurugram. In each, 1 unit's fire spread to the units next door.
+Navi Mumbai, Najafgarh, Gurugram.
 
 In Najafgarh, a garment fire jumped into the next factory. Walls were shared. Your stock against the boundary wall is the bridge it needs.
 
@@ -1166,7 +1166,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #fireinsurance #industrialsafety #firesafety #msme
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 93
+humanizer:  PASS 95
 ```
 
 ## 41. Vehicles Burned in Fires
@@ -1203,7 +1203,7 @@ humanizer:  PASS 88
 ```
 Tell me: did you know a clean-up can cost your claim? Seoni called in forensics.
 
-Never clean first. Seoni called forensics. In Delhi and Lucknow, causes weren't immediately clear either.
+Never clean first. In Delhi and Lucknow, causes weren't immediately clear either.
 
 In Seoni, a forensic team is examining the site right now. Insurers wait too. Your policy pays based on cause, so the evidence must stay.
 
@@ -1224,7 +1224,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #fireinsurance #insuranceclaim #fireinvestigation #firesafety
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 80
 ```
 
 ## 43. Escape Before You Need It
@@ -1232,7 +1232,7 @@ humanizer:  PASS 82
 ```
 Tell me: has your family practised a fire escape plan? Lucknow's students had to jump.
 
-Never wait, not once. Lucknow's students jumped. In Nalasopara, in October, residents were trapped on the upper floors.
+Never wait, not once. In Nalasopara, in October, residents were trapped on the upper floors.
 
 When your 1 staircase fills with smoke, you've got seconds. Then it's panic. People choose the window, because it's the only exit left.
 
@@ -1253,7 +1253,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #escapeplan #familysafety #homesafety
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 82
+humanizer:  PASS 80
 ```
 
 ## 44. AC Fires in Hotels and Buses
@@ -1348,7 +1348,7 @@ humanizer:  PASS 88
 ```
 Tell me: what's 1 floor below you? A Kalkaji restaurant fire climbed 4 storeys.
 
-Never ignore it. Kalkaji, June 2026. A restaurant fire there climbed through a 4-storey commercial building.
+Never ignore it. Kalkaji, June 2026.
 
 In Srinagar, a fire began in a restaurant's attic kitchen. Ducts carry it. Grease ducts take fire up to people who never smelled it.
 
@@ -1369,7 +1369,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #restaurantsafety #firesafety #kitchensafety #commercialkitchen
 search:     2/2 present, 0 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 85
+humanizer:  PASS 86
 ```
 
 ## 48. The Underinsurance Trap
@@ -1464,7 +1464,7 @@ humanizer:  PASS 86
 ```
 Tell me: which floor is your refuge area on? Nalasopara lost 2 lives.
 
-Never block it, not once. Nalasopara lost 2. In Mumbai, a refuge area burned beside an old scrap generator.
+Never block it, not once. In Mumbai, a refuge area burned beside an old scrap generator.
 
 Above 24 metres, fire ladders can't reach everyone in your tower. Nalasopara's refuge door burned. In Goregaon, residents waited safely on their 15th-floor refuge area.
 
@@ -1485,5 +1485,5 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #refugearea #highrise #mumbai
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 80
+humanizer:  PASS 78
 ```

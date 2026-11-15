@@ -15,7 +15,7 @@
 ```
 Tell me: which floor is your refuge area on? Nalasopara lost 2 lives.
 
-Never block it, not once. Nalasopara lost 2. In Mumbai, a refuge area burned beside an old scrap generator.
+Never block it, not once. In Mumbai, a refuge area burned beside an old scrap generator.
 
 Above 24 metres, fire ladders can't reach everyone in your tower. Nalasopara's refuge door burned. In Goregaon, residents waited safely on their 15th-floor refuge area.
 
@@ -36,7 +36,7 @@ ask:        one call to action: answer a question
 hashtags:   4 tag(s): #firesafety #refugearea #highrise #mumbai
 search:     2/2 present, 1 in the visible window
 linter:     all checks PASS
-humanizer:  PASS 80
+humanizer:  PASS 78
 ```
 
 ## Facts to check before posting

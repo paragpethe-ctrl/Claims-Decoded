@@ -11,8 +11,7 @@ def build(i):
     p1, p2, p3 = X[i]
     import re
     key = lambda t: set(re.findall(r"\d+(?:[.,]\d+)*|[A-Z][a-z]{2,}", t))
-    k1 = key(p1[1])
-    lead = p1[2:] if k1 and k1 <= key(ask) else p1[1:]
+    lead = [t for t in p1[1:] if not (key(t) and key(t) <= key(ask))]
     paras = [ask, ' '.join(lead), ' '.join(p2), kwline, '⚠️ Here\'s what works. ' + ' '.join(p3[:-1]),
              'Fire Claims Decoded. 1 fire cause, every reel.', ' '.join(tags)]
     return '\n\n'.join(paras), kws
