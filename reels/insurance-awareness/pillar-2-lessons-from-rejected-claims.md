@@ -55,7 +55,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a neat office with a stock register being updated.
 3 to 7 seconds: a gold checklist appears one line at a time: "REGISTERS", "MATCH EVERY BILL".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -148,7 +148,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a person updating a register daily, dates changing on a calendar.
 3 to 7 seconds: a gold checklist appears one line at a time: "REAL RECORDS", "UPDATE THEM DAILY".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -241,7 +241,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a person photographing every corner of a godown with a phone.
 3 to 7 seconds: a gold checklist appears one line at a time: "KEEP EVIDENCE", "PHOTOGRAPH EVERY ROOM".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -333,7 +333,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: an envelope with a gold tick returning.
 3 to 7 seconds: a gold checklist appears one line at a time: "NOTIFY", "KEEP THE REPLY".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -426,7 +426,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a worker checking a heap with a temperature probe.
 3 to 7 seconds: a gold checklist appears one line at a time: "ENDORSE IT", "CHECK HEAP TEMPERATURES".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -519,7 +519,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a business owner reviewing a policy at year end.
 3 to 7 seconds: a gold checklist appears one line at a time: "REVIEW YEARLY", "REPORT EVERY CHANGE".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -610,7 +610,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a phone screen showing an auto-renew toggle switching on (no readable text).
 3 to 7 seconds: a gold checklist appears one line at a time: "AUTO-RENEW", "CHECK THE DATES".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```
@@ -702,7 +702,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: a tidy claim file on a desk.
 3 to 7 seconds: a gold checklist appears one line at a time: "1 FILE", "ANSWER EVERYTHING HONESTLY".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```

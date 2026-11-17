@@ -1,5 +1,5 @@
 {
-  "handle": "@parag_pethe1",
+  "handle": "@fireclaimsdecoded",
   "slides": [
     { "kind": "hook", "tag": "ON AUTOPILOT", "headline": "Claude gets me Instagram leads while I sleep" },
     { "kind": "tool", "n": 1, "headline": "Connect Instagram", "emphasis": "via Composio", "body": "composio.dev → add the Instagram MCP" },

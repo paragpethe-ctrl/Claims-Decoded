@@ -84,7 +84,7 @@ const CtaScene: React.FC<{ s: Slide; handle: string }> = ({ s, handle }) => {
   </Chrome>);
 };
 
-export const Reel: React.FC<ReelProps> = ({ slides = [], handle = "@parag_pethe1" }) => {
+export const Reel: React.FC<ReelProps> = ({ slides = [], handle = "@fireclaimsdecoded" }) => {
   const { fps } = useVideoConfig();
   const per = Math.round(3.4 * fps);
   return (

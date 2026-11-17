@@ -13,7 +13,7 @@ Every line and number on screen comes from those. Nothing is invented.
 
 Assumptions for all three: vertical 1080x1920, 25 to 35 s, motion graphics only
 (no presenter footage), "Fire Claims Decoded" as a header, every label short and
-spelled correctly, ends on Like / Follow / Comment with @parag_pethe1.
+spelled correctly, ends on Like / Follow / Comment with @fireclaimsdecoded.
 
 ---
 

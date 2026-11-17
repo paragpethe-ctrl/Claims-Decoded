@@ -70,7 +70,7 @@ def episode(i):
     fix = [re.sub(r'^Fix 1:\s*', '', parts[2][0]).rstrip('.').upper(), parts[2][1].rstrip('.').upper()] if len(parts[2]) > 2 else [re.sub(r'^Fix 1:\s*', '', parts[2][0]).rstrip('.').upper()]
     p1 = '\n\n'.join([BASE, title(t), f'0 to 5 seconds: {c1[0]}. Slow camera push-in.\n5 to 10 seconds: {c1[1]}.', 'Sound: soft ambient music, a low bass hit at the very first frame, a gentle whoosh at 5 seconds. No speech.'])
     p2 = '\n\n'.join([BASE, title(t), f'0 to 4 seconds: {c2[0]}.\n4 to 7 seconds: {c2[1]}.\n7 to 10 seconds: {c2[2]}.', 'Sound: soft ambient music, gentle whooshes on each change. No speech.'])
-    p3 = '\n\n'.join([BASE, title(t), f'0 to 3 seconds: {c3scene}.\n3 to 7 seconds: a gold checklist appears one line at a time: ' + ', '.join(f'"{x}"' for x in fix) + '.\n7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@parag_pethe1" in white.', 'Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.'])
+    p3 = '\n\n'.join([BASE, title(t), f'0 to 3 seconds: {c3scene}.\n3 to 7 seconds: a gold checklist appears one line at a time: ' + ', '.join(f'"{x}"' for x in fix) + '.\n7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "1 FIRE CAUSE EVERY REEL" in yellow, "@fireclaimsdecoded" in white.', 'Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.'])
     facts, src = F[i]
     out = [f'## {i+1:02d}. {t}', '',
            f'**Hook:** "{" ".join(parts[0][:2])}" (score {au["hook_score"]})  ',
