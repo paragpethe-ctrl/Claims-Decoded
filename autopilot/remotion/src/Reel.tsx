@@ -16,9 +16,10 @@ const SANS = "Roboto, Arial, sans-serif";
 
 type Slide = {
   kind: "hook" | "tool" | "cta";
-  n?: number; tag?: string; headline?: string; emphasis?: string; body?: string; important?: boolean;
+  n?: number; tag?: string; // n omitted on a "tool" slide = a cause card (⚠ instead of a number)
+  headline?: string; emphasis?: string; body?: string; important?: boolean;
 };
-export type ReelProps = { slides: Slide[]; handle?: string };
+export type ReelProps = { slides: Slide[]; handle?: string; topic?: string };
 
 const Word: React.FC<{ delay: number; children: React.ReactNode }> = ({ delay, children }) => {
   const frame = useCurrentFrame(); const { fps } = useVideoConfig();
@@ -26,7 +27,9 @@ const Word: React.FC<{ delay: number; children: React.ReactNode }> = ({ delay, c
   return <span style={{ display: "inline-block", opacity: s, transform: `translateY(${interpolate(s, [0, 1], [26, 0])}px)` }}>{children}</span>;
 };
 
-const Chrome: React.FC<{ handle: string; children: React.ReactNode }> = ({ handle, children }) => (
+const TopicCtx = React.createContext<string | undefined>(undefined);
+
+const Chrome: React.FC<{ handle: string; children: React.ReactNode }> = ({ handle, children }) => { const topic = React.useContext(TopicCtx); return (
   <AbsoluteFill style={{ background: `radial-gradient(120% 100% at 50% 35%, ${BG} 55%, ${BG_DEEP} 100%)`, fontFamily: SANS, overflow: "hidden" }}>
     {/* blueprint grid: fine 40px lines, heavier every 200px */}
     <AbsoluteFill style={{
@@ -37,10 +40,11 @@ const Chrome: React.FC<{ handle: string; children: React.ReactNode }> = ({ handl
     {/* drawing border */}
     <div style={{ position: "absolute", inset: 40, border: `2px dashed ${INK}66` }} />
     <div style={{ position: "absolute", top: 120, left: 0, right: 0, textAlign: "center", color: INK, fontFamily: HEAD, fontWeight: 700, fontSize: 40, letterSpacing: 6 }}>{SERIES}</div>
+    {topic ? <div style={{ position: "absolute", top: 178, left: 0, right: 0, textAlign: "center", color: ORANGE, fontFamily: HEAD, fontWeight: 600, fontSize: 36, letterSpacing: 2 }}>{topic} &gt;&gt;&gt;</div> : null}
     {children}
     <div style={{ position: "absolute", bottom: 90, left: 96, color: INK2, fontFamily: HEAD, fontWeight: 500, fontSize: 32, letterSpacing: 3, textTransform: "uppercase" }}>{handle}</div>
   </AbsoluteFill>
-);
+); };
 
 const HookScene: React.FC<{ s: Slide; handle: string }> = ({ s, handle }) => {
   const words = (s.headline || s.emphasis || "Your hook here").split(" ");
@@ -61,7 +65,7 @@ const ToolScene: React.FC<{ s: Slide; handle: string }> = ({ s, handle }) => {
       {s.important ? <div style={{ textAlign: "center", marginBottom: 24 }}><span style={{ background: ORANGE, color: CARD, fontFamily: HEAD, fontWeight: 700, fontSize: 32, letterSpacing: 2, padding: "10px 26px", borderRadius: 6 }}>⚠ MOST IMPORTANT</span></div> : null}
       <div style={{ background: CARD, border: s.important ? `3px solid ${A}` : `2px dashed ${INK}99`, borderRadius: 8, padding: "40px 44px" }}>
         <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
-          <div style={{ width: 84, height: 84, borderRadius: 6, background: "transparent", border: `3px solid ${A}`, color: A, fontFamily: HEAD, fontWeight: 700, fontSize: 50, display: "flex", alignItems: "center", justifyContent: "center", flex: "0 0 auto" }}>{s.n ?? 1}</div>
+          <div style={{ width: 84, height: 84, borderRadius: 6, background: "transparent", border: `3px solid ${A}`, color: A, fontFamily: HEAD, fontWeight: 700, fontSize: 50, display: "flex", alignItems: "center", justifyContent: "center", flex: "0 0 auto" }}>{s.n ?? "⚠"}</div>
           <div style={{ color: INK, fontFamily: HEAD, fontWeight: 600, fontSize: 52, lineHeight: 1.15 }}>{s.headline}{s.emphasis ? <span style={{ color: A }}> {s.emphasis}</span> : null}</div>
         </div>
         {s.body ? <div style={{ color: INK2, fontSize: 32, marginTop: 24, lineHeight: 1.3 }}>{s.body}</div> : null}
@@ -74,20 +78,25 @@ const CtaScene: React.FC<{ s: Slide; handle: string }> = ({ s, handle }) => {
   const kw = (s.emphasis || "FOLLOW").toUpperCase();
   return (<Chrome handle={handle}>
     <div style={{ position: "absolute", top: 760, left: 60, right: 60, textAlign: "center" }}>
-      <div style={{ fontFamily: HEAD, fontWeight: 700, fontSize: 84, color: INK, textTransform: "uppercase" }}>Comment <span style={{ color: ORANGE }}>"{kw}"</span></div>
+      {s.headline
+        ? <div style={{ fontFamily: HEAD, fontWeight: 700, fontSize: 84, color: INK, textTransform: "uppercase", lineHeight: 1.1 }}>{s.headline}</div>
+        : <div style={{ fontFamily: HEAD, fontWeight: 700, fontSize: 84, color: INK, textTransform: "uppercase" }}>Comment <span style={{ color: ORANGE }}>"{kw}"</span></div>}
       <div style={{ color: INK, fontSize: 38, marginTop: 16 }}>{s.body || "and I'll DM you the setup"}</div>
-      <div style={{ marginTop: 50, display: "inline-flex", alignItems: "center", gap: 16, background: CARD, border: `3px solid ${ORANGE}`, borderRadius: 8, padding: "20px 30px" }}>
-        <span style={{ color: INK, fontWeight: 700, fontSize: 38 }}>{kw}</span>
-        <span style={{ background: ORANGE, color: CARD, fontFamily: HEAD, fontWeight: 700, fontSize: 32, padding: "12px 28px", borderRadius: 6 }}>Post</span>
-      </div>
+      {s.headline
+        ? <div style={{ marginTop: 50, display: "inline-block", background: ORANGE, color: CARD, fontFamily: HEAD, fontWeight: 700, fontSize: 44, letterSpacing: 2, padding: "16px 48px", borderRadius: 8 }}>{kw}</div>
+        : <div style={{ marginTop: 50, display: "inline-flex", alignItems: "center", gap: 16, background: CARD, border: `3px solid ${ORANGE}`, borderRadius: 8, padding: "20px 30px" }}>
+          <span style={{ color: INK, fontWeight: 700, fontSize: 38 }}>{kw}</span>
+          <span style={{ background: ORANGE, color: CARD, fontFamily: HEAD, fontWeight: 700, fontSize: 32, padding: "12px 28px", borderRadius: 6 }}>Post</span>
+        </div>}
     </div>
   </Chrome>);
 };
 
-export const Reel: React.FC<ReelProps> = ({ slides = [], handle = "@fireclaimsdecoded" }) => {
+export const Reel: React.FC<ReelProps> = ({ slides = [], handle = "@fireclaimsdecoded", topic }) => {
   const { fps } = useVideoConfig();
   const per = Math.round(3.4 * fps);
   return (
+    <TopicCtx.Provider value={topic}>
     <AbsoluteFill style={{ background: BG }}>
       <Series>
         {slides.map((s, i) => (
@@ -99,5 +108,6 @@ export const Reel: React.FC<ReelProps> = ({ slides = [], handle = "@fireclaimsde
         ))}
       </Series>
     </AbsoluteFill>
+    </TopicCtx.Provider>
   );
 };
