@@ -1,0 +1,23 @@
+# Fire Claims Decoded: brand settings the autopilot job reads.
+# Full voice rules live in .claude/instagram/voice.md; that file wins on any conflict.
+niche: "Fire causes and prevention by occupancy (fire insurance awareness, India)"
+
+brand:
+  handle: "@parag_pethe1"
+  series: "Fire Claims Decoded"
+  voice: "Engineer explaining something that matters: loud and calm, firm, no hype. Indian English (lakh, crore, ₹)."
+  language: "English or Hindi, one per reel, never mixed"
+  pillars:
+    - "How fires start in a specific occupancy (homes, shops, restaurants, factories, warehouses)"
+    - "How to prevent it"
+    - "Lessons from rejected fire claims"
+
+cta:
+  keyword: ""        # TODO: the comment word that triggers the DM, e.g. CHECKLIST
+  deliverable: ""    # TODO: the real thing the DM sends. Leave empty until it exists.
+
+cadence:
+  timezone: "Asia/Kolkata"
+  slots_per_day: 1
+
+# Honesty rule: every stat on screen must be real and sourced. Never fabricate numbers or claims.

@@ -1,0 +1,56 @@
+name: autopilot
+
+# Drafts the next reel. SWITCHED OFF: there is no schedule, so it never runs on its own.
+# It can only be started by hand from the Actions tab, and it needs these repo Secrets first:
+#   ANTHROPIC_API_KEY (paid, per use), COMPOSIO_API_KEY, IG_BUSINESS_ACCOUNT_ID
+# To switch it on, uncomment the schedule below. Nothing is ever posted to Instagram:
+# the posting step is commented out too.
+
+on:
+  # schedule:
+  #   - cron: "30 7 * * *"   # daily 13:00 IST (07:30 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write             # so the run can commit the generated draft
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      COMPOSIO_API_KEY:  ${{ secrets.COMPOSIO_API_KEY }}
+      IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+    steps:
+      - name: Stop if the API key is missing
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "ANTHROPIC_API_KEY secret is not set"; exit 1; fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+
+      - name: Install Claude Code
+        run: npm i -g @anthropic-ai/claude-code
+
+      - name: Draft the next reel (research, script, build)
+        run: |
+          claude -p "You are the Fire Claims Decoded content factory. Read .claude/instagram/voice.md \
+            and autopilot/config.yml first, and use the skills in .claude/skills. \
+            (1) find what people in this niche are asking about, \
+            (2) pick a proven reel FORMAT to model, \
+            (3) write an ORIGINAL autopilot/drafts/carousel.json in the brand voice, \
+            (4) render it with autopilot/remotion to autopilot/drafts/reel.mp4. \
+            Every on-screen number must be REAL and sourced. Do NOT post anything." \
+            --dangerously-skip-permissions
+
+      - name: Commit the draft for review
+        run: |
+          git config user.name  "autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          git add autopilot/drafts && git commit -m "autopilot: new reel draft [skip ci]" || echo "nothing to commit"
+          git push
+
+      # - name: Post it (only after you trust the drafts)
+      #   run: claude -p "Publish autopilot/drafts/reel.mp4 to Instagram via the Composio MCP."
