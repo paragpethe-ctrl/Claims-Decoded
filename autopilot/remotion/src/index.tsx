@@ -1,6 +1,11 @@
 import { registerRoot, Composition } from "remotion";
 import React from "react";
 import { Reel } from "./Reel";
+// brand fonts, bundled locally so renders work offline
+import "@fontsource/oswald/500.css";
+import "@fontsource/oswald/600.css";
+import "@fontsource/oswald/700.css";
+import "@fontsource/roboto/400.css";
 import sample from "../sample-carousel.json";
 
 const FPS = 30;

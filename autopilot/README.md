@@ -15,7 +15,7 @@ npm install
 npm run studio     # preview in the browser
 npm run render     # -> out/reel.mp4 from sample-carousel.json
 ```
-Colours are the tokens at the top of `remotion/src/Reel.tsx`.
+Styled in the Fire Claims Decoded blueprint theme (blue #1F5F99, orange #FF9A3C, Oswald + Roboto). Colours are the tokens at the top of `remotion/src/Reel.tsx`.
 
 ## Switch the job on later
 1. Add repo Secrets: `ANTHROPIC_API_KEY` (paid per use), `COMPOSIO_API_KEY`, `IG_BUSINESS_ACCOUNT_ID`.
