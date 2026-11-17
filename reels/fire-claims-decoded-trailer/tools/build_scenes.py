@@ -207,7 +207,7 @@ s7 = f'''      <div id="s7-mark" class="t" style="top: 420px;">
         <span class="ln hot" style="font-size: 240px; line-height: 0.9;">DECODED</span>
         <span id="s7-rule" class="ln" style="width: 520px; height: 12px; background: #ff8a24; margin-top: 20px;"></span>
       </div>
-{t("s7-handle", 960, 96, ["@parag_pethe1"], style="text-transform: none;")}
+{t("s7-handle", 960, 96, ["@fireclaimsdecoded"], style="text-transform: none;")}
 {t("s7-cta", 1090, 64, ["FOLLOW &middot; 1 FIRE CAUSE EVERY REEL"])}'''
 s7_js = """      gsap.set(["#s7-handle", "#s7-cta"], { opacity: 0 });
       flash("#s7-flash", 0, 0.85);

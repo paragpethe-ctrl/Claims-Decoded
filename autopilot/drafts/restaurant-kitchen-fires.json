@@ -1,0 +1,14 @@
+{
+  "handle": "@fireclaimsdecoded",
+  "topic": "Restaurant Kitchen Fires",
+  "slides": [
+    { "kind": "hook", "tag": "LOOK UP FROM THE STOVE", "headline": "Stop ignoring your kitchen chimney" },
+    { "kind": "tool", "headline": "Daily tadka, daily oil:", "emphasis": "it all sticks in the duct", "body": "Grease coats the hood filters and the exhaust duct above every burner." },
+    { "kind": "tool", "headline": "One spark + greasy duct", "emphasis": "= fire to the roof", "body": "The duct acts like a chimney. Flames race up it, out of reach." },
+    { "kind": "tool", "n": 1, "headline": "Clean hood filters", "emphasis": "every 7 days", "body": "Soak and scrub until the metal shines." },
+    { "kind": "tool", "n": 2, "important": true, "headline": "Clean the exhaust duct", "emphasis": "every 3 months", "body": "The grease you can't see is the grease that burns." },
+    { "kind": "tool", "n": 3, "headline": "Check LPG hoses", "emphasis": "every month", "body": "Cracked or loose at the regulator? Replace it." },
+    { "kind": "tool", "n": 4, "headline": "Oil fire in the kadhai?", "emphasis": "Lid, never water", "body": "Keep a K-type extinguisher next to the stove." },
+    { "kind": "cta", "headline": "Save this for your kitchen", "emphasis": "FOLLOW", "body": "1 fire cause every reel" }
+  ]
+}

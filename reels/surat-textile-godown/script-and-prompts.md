@@ -67,7 +67,7 @@ TITLE at the top, on screen the whole time: "FIRE CLAIMS DECODED" in bold amber-
 
 0 to 3 seconds: the same stylised warehouse, now tidy: stock in small, well-spaced stacks with wide aisles, electrical cables in neat conduit far from the stock, a red extinguisher on a pillar.
 3 to 7 seconds: a gold checklist appears one line at a time: "SPACE FROM WIRING", "BREAK UP STACKS", "DECLARE STORAGE".
-7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "PREVENT THE FIRE. PROTECT THE PROPERTY. PREVENT THE LOSS." in white, "@parag_pethe1" in white.
+7 to 10 seconds: fade to black; centred, one line at a time: "FIRE CLAIMS DECODED" in gold, "PREVENT THE FIRE. PROTECT THE PROPERTY. PREVENT THE LOSS." in white, "@fireclaimsdecoded" in white.
 
 Sound: calm, positive music building gently, a soft chime as each checklist item appears. No speech.
 ```

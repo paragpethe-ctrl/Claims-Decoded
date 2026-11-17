@@ -8,7 +8,7 @@ not a draft, it is a retake.
 ## Who I am
 
 - **Name:** Parag Pethe
-- **Handle:** @parag_pethe1
+- **Handle:** @fireclaimsdecoded
 - **What I do, in one sentence:** I am an engineer working as an insurance
   specialist in property insurance.
 - **Who I am talking to:** The general public. People who live, work or run a

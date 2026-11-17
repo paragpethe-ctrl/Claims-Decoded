@@ -20,7 +20,7 @@ fire footage; red is kept for impact words so it never fights the title.
 | 2 | 10 to 20 | The engineer's "why it happens" | no |
 | 3 | 20 to 30 | Fixes, then the closing question over a single flame in darkness (the series' signature shot), then the end card | no |
 
-End card on every reel: FIRE CLAIMS DECODED · @parag_pethe1 · FOLLOW · 1 FIRE CAUSE EVERY REEL
+End card on every reel: FIRE CLAIMS DECODED · @fireclaimsdecoded · FOLLOW · 1 FIRE CAUSE EVERY REEL
 
 ## How every script was checked
 
