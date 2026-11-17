@@ -1,0 +1,14 @@
+{
+  "handle": "@fireclaimsdecoded",
+  "topic": "Textile Godown Fires",
+  "slides": [
+    { "kind": "hook", "tag": "SURAT · 14 NOV 2026", "headline": "A Surat textile godown caught fire. Lakhs in stock, damaged." },
+    { "kind": "tool", "headline": "10 to 12 fire tenders,", "emphasis": "50 to 60 firefighters", "body": "Kharwasa Canal Road, Surat. The cause is still under investigation." },
+    { "kind": "tool", "headline": "Loose fibre + tight stacks", "emphasis": "= fast fire", "body": "Big stacks of textile let the flames spread quickly. Blocked aisles stop crews reaching the seat of the fire." },
+    { "kind": "tool", "n": 1, "headline": "Keep wiring away", "emphasis": "from stock", "body": "Cables in conduit. No loose sockets near fabric." },
+    { "kind": "tool", "n": 2, "headline": "Break up the stacks,", "emphasis": "keep aisles clear", "body": "Smaller stacks with gaps slow the spread and let crews in." },
+    { "kind": "tool", "n": 3, "important": true, "headline": "Declare your storage", "emphasis": "honestly", "body": "Undeclared stock can turn your fire claim into a dispute." },
+    { "kind": "tool", "n": 4, "headline": "Electrical audit", "emphasis": "every year", "body": "Thermal-scan the panels. Fix loose connections." },
+    { "kind": "cta", "headline": "Send this to a godown owner", "emphasis": "FOLLOW", "body": "1 fire cause every reel" }
+  ]
+}
