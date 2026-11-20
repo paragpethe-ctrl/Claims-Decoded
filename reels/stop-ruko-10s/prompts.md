@@ -16,7 +16,7 @@ Each prompt below is complete and can be pasted straight into Gemini. Narration 
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Safai Baad Mein" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Safai Baad Mein" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -39,7 +39,7 @@ AUDIO: a sharp whistle hit on "Ruko", light factory ambience, a whoosh on each c
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Stop: Heater on Extension Board" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Stop: Heater on Extension Board" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -62,7 +62,7 @@ AUDIO: an electric crackle under shot 1, a sharp hit on "Stop", a whoosh on each
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Avoid: The 1-Day Lapse" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Avoid: The 1-Day Lapse" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -85,7 +85,7 @@ AUDIO: a clock tick under shot 1, a sharp hit on "Avoid", a whoosh on each cut, 
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Factory Band Hai?" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Factory Band Hai?" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -108,7 +108,7 @@ AUDIO: a shutter clang under shot 1, a sharp hit on "Ruko", a whoosh on each cut
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Stop: No Stock Register" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Stop: No Stock Register" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -131,7 +131,7 @@ AUDIO: a page-flip sound under shot 1, a sharp hit on "Stop", a whoosh on each c
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Avoid: The Wrong Sum Insured" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Avoid: The Wrong Sum Insured" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -154,7 +154,7 @@ AUDIO: a coin-drop sound under shot 1, a sharp hit on "Avoid", a whoosh on each 
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Fire Exit Is Not Storage" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Fire Exit Is Not Storage" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -177,7 +177,7 @@ AUDIO: cardboard thuds under shot 1, a sharp hit on "Ruko", a whoosh on each cut
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Stop: Self-Heating Stock" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Stop: Self-Heating Stock" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -200,7 +200,7 @@ AUDIO: a low hiss under shot 1, a sharp hit on "Stop", a whoosh on each cut, a s
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Avoid: Shop on Paper, Godown in Reality" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Avoid: Shop on Paper, Godown in Reality" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 
@@ -223,7 +223,7 @@ AUDIO: a pen scratch under shot 1, a sharp hit on "Avoid", a whoosh on each cut,
 ```
 Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
 
-TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Gas Leak? No Switch" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@parag_pethe1" in white at the bottom-right corner. Spell all text exactly as written.
+TITLES (whole clip): near the top, below the top 12 percent of the frame: "FIRE CLAIMS DECODED" in bold amber-gold (#FFB300) capitals; under it "Ruko: Gas Leak? No Switch" in white on a slim 60 percent black strip with a thin red-orange (#FF4D00) line. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
 
 CHARACTER: an Indian safety officer in his 40s, beard, green helmet, lime hi-vis vest, blue shirt. Same look in every shot.
 

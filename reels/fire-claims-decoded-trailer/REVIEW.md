@@ -16,7 +16,7 @@ trailer score. Cut v2 (2026-10-29) follows Parag's re-edit brief.
 | 10-16 | reveal | FIRE CLAIMS DECODED / I WILL SHOW YOU HOW FIRES REALLY START IN VARIOUS OCCUPANCIES. |
 | 16-20.6 | the promise | HOMES. SHOPS. RESTAURANTS. INDUSTRIES. ONE OCCUPANCY AT A TIME. / HOW IT STARTS. / HOW TO PREVENT IT. (the fire dies) |
 | 20.6-23.5 | the point | SO YOU NEVER HAVE TO MAKE THE CLAIM. |
-| 23.5-27.5 | end card | FIRE CLAIMS DECODED · @parag_pethe1 · FOLLOW · 1 FIRE CAUSE EVERY REEL |
+| 23.5-27.5 | end card | FIRE CLAIMS DECODED · @fireclaimsdecoded · FOLLOW · 1 FIRE CAUSE EVERY REEL |
 
 Copy is Parag's, verbatim, except "THERE VARIOUS" corrected to "THERE ARE VARIOUS".
 Cut v1 (31.5 s, with the three numbered causes) is in git history at b215bd8.

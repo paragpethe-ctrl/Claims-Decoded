@@ -142,7 +142,7 @@ Shot 1 (0 to 2 seconds): an engineer on a phone in a control room, face not visi
 Shot 2 (2 to 4 seconds): a batch record binder and a temperature log printout on a desk (no readable text).
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "FIX 1" at 0 seconds, then "SEND TO YOUR PLANT HEAD" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 

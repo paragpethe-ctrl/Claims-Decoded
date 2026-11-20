@@ -77,7 +77,7 @@ Shot 1 (0 to 2 seconds): a homeowner reading an insurance document at a dining t
 Shot 2 (2 to 4 seconds): a builder's tape measure stretched across a brick wall.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "GET QUOTES" at 0 seconds, then "REBUILD COST" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -164,7 +164,7 @@ Shot 1 (0 to 2 seconds): a tenant photographing valuables with a phone.
 Shot 2 (2 to 4 seconds): a folder of bills being placed in a drawer.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "LIST VALUABLES" at 0 seconds, then "KEEP BILLS" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -251,7 +251,7 @@ Shot 1 (0 to 2 seconds): a homeowner on a phone call at a desk.
 Shot 2 (2 to 4 seconds): a signed policy document being filed.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "ASK BY NAME" at 0 seconds, then "BHARAT GRIHA RAKSHA" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -338,7 +338,7 @@ Shot 1 (0 to 2 seconds): a shop owner walking the shelves with a clipboard.
 Shot 2 (2 to 4 seconds): the shop lit warmly and fully stocked.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "VALUE ASSETS" at 0 seconds, then "FULL VALUE" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -425,7 +425,7 @@ Shot 1 (0 to 2 seconds): two policy documents laid side by side on a desk.
 Shot 2 (2 to 4 seconds): a homeowner signing a top-up form.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "COMPARE" at 0 seconds, then "TOP UP CONTENTS" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -512,7 +512,7 @@ Shot 1 (0 to 2 seconds): a policy document with a highlighter moving down a list
 Shot 2 (2 to 4 seconds): the same living room, dry and restored.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "LIST PERILS" at 0 seconds, then "ADD WHAT'S MISSING" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -599,7 +599,7 @@ Shot 1 (0 to 2 seconds): a valuer and a homeowner shaking hands in front of the 
 Shot 2 (2 to 4 seconds): a calendar flipping one year forward.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "GET VALUED" at 0 seconds, then "EVERY YEAR" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 
@@ -686,7 +686,7 @@ Shot 1 (0 to 2 seconds): a business owner reading a form carefully, glasses on.
 Shot 2 (2 to 4 seconds): a copy of the form being filed in a cabinet.
 Shot 3 (4 to 8 seconds): a single small flame flickering in total darkness, slow push-in, embers drifting upward, while the narrator asks the closing question.
 
-END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@parag_pethe1" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
+END CARD (last 2 seconds, from 8 to 10 seconds): the footage cuts to black. Centred, appearing one line at a time: "FIRE CLAIMS DECODED" in gold, "@fireclaimsdecoded" in white, a bold red "FOLLOW" button, and "1 FIRE CAUSE EVERY REEL" in yellow. A final deep bass hit. Hold.
 
 IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching in with a whoosh: "REREAD" at 0 seconds, then "KEEP A COPY" at 2 seconds. Each word holds for about 2 seconds. Spell it exactly as written.
 

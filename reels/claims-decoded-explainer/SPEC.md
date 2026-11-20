@@ -53,7 +53,7 @@ SHOTS:
               1.5 "We are surrounded by fire causes every day." 2.5 "Most people never
               notice them." Riser under the back half.
   S6 27.8-31.8 end card on the same ground: "FIRE CLAIMS" / "DECODED" wiped in, impact.
-              "How fires start. How to prevent them." "@parag_pethe1"
+              "How fires start. How to prevent them." "@fireclaimsdecoded"
               "Like · Follow · Comment". Holds 2.3 s.
 BANNED:  dark navy void; glow, particles, flares; blue or purple gradients, glass cards;
          cream paper with serif and mono caps labels; pill chips and buttons; everything
