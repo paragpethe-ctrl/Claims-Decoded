@@ -46,17 +46,19 @@ humanizer:  PASS 78
 - Goregaon, 2026: residents moved to a 15th-floor refuge area as a precaution. [ThePrint](https://theprint.in/india/fire-breaks-out-in-mumbai-high-rise-no-injuries-five-rescued/2900151/)
 - Refuge areas start at the 24 m mark in Indian rules; the spacing above that differs by code and city (every 7th floor vs every 15 m), so the script uses only "above 24 metres". The Mumbai Fire Brigade document says a refuge area shall not be used for any other purpose. [Infralens: NBC 2016 Part 4](https://infralens.in/knowledge/nbc-2016-part-4-fire-safety), [Mumbai Fire Brigade (PDF)](https://environmentclearance.nic.in/DownloadPfdFile.aspx?FileName=GGJqliViVE6VcYAsGWsGuSrrSZbEKM00rE8Z9nk3wiFY+gQJIR6lJ6ZZelE9N7UiHmdeXYLsNdlV0mMTsjLh0A%3D%3D&FilePath=93ZZBm8LWEXfg+HAlQix2fE2t8z%2FpgnoBhDlYdZCxzWYSktLmWVaXKfetCrs6kw3DoGTia+2sdXMwhPpplwBWg9RbosgeqKp3InPnjsjC8Q%3D)
 
-## Gemini prompts (titles only, no frame, no presenter)
+## Gemini prompts (2D animated explainer with THE EXPERT; attach your reference photo with every prompt)
 
 ### Part 1
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 1 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "The Refuge Area That Became a Store Room" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 3 seconds): a refuge floor door in a residential tower stairwell already engulfed in flames, fast push-in.
 Shot 2 (3 to 6 seconds): flames racing through old furniture, mattresses and cartons stored on an open refuge floor, smoke pouring out of its open sides.
@@ -66,7 +68,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Can 1 refuge area save you? Never block it, not once. Nalasopara lost 2. In Mumbai, a refuge area burned beside an old scrap generator."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -75,12 +77,14 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ### Part 2
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 2 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "The Refuge Area That Became a Store Room" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 3 seconds): a fire ladder at full stretch, falling short of the upper floors of a residential tower.
 Shot 2 (3 to 6 seconds): calm residents waiting on a clean, open, ventilated refuge floor while smoke rises past outside, faces not visible.
@@ -90,7 +94,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Above 24 metres, fire ladders can't reach everyone in your tower. Nalasopara's refuge door burned. In Goregaon, residents waited safely on their 15th-floor refuge area."
 
 AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit on the last line.
@@ -99,12 +103,14 @@ AUDIO: fire ambience and a low rising drone; a whoosh on every cut; a bass hit o
 ### Part 3
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 3 of 3 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "The Refuge Area That Became a Store Room" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 2 seconds): a resident carrying boxes out of a refuge floor, leaving it bare and open.
 Shot 2 (2 to 4 seconds): an unlocked refuge floor door with a green running-man sign above it (no readable text).
@@ -116,7 +122,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Fix 1: empty it. Keep it unlocked. Which floor's your refuge area?"
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.

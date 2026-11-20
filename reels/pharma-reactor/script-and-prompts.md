@@ -52,19 +52,21 @@ General information, not financial or legal advice. Check your own policy. Sourc
 #fireinsurance #processsafety #pharma #industrialsafety #businessinsurance
 ```
 
-## Gemini prompts (titles only, no frame, no presenter)
+## Gemini prompts (2D animated explainer with THE EXPERT; attach your reference photo with every prompt)
 
 If Gemini refuses a part, paste it again without the NARRATION block and add the voiceover in your editor.
 
 ### Part 1 (0 to 10s)
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 1 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 1 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Pharma Reactor Explosions" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 3 seconds): a pharma plant at night, a red warning light flashing over a stainless steel reactor hall, fast push-in.
 Shot 2 (3 to 6 seconds): a control-room gauge needle climbing steadily into the red zone.
@@ -74,7 +76,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Can 1 reactor cost you everything? Bharuch lost 5 workers. In October 2026, a 15-kilolitre reactor failed there during hydrogenation. Telangana lost 2."
 
 AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh on every cut.
@@ -83,12 +85,14 @@ AUDIO: fire ambience; a deep cinematic bass hit on the very first word; a whoosh
 ### Part 2 (10 to 20s)
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 2 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 2 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Pharma Reactor Explosions" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 3 seconds): a clean 3D cutaway animation of a reactor vessel, the liquid inside glowing hotter.
 Shot 2 (3 to 6 seconds): animated pressure arrows building faster than a small vent can release them.
@@ -98,7 +102,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "In Bharuch and Telangana, officials haven't confirmed the causes yet. Here's the risk. Overheat a reaction, and pressure can build faster than vents release."
 
 AUDIO: fire ambience; a low rising drone under the voice; a whoosh on every cut.
@@ -107,12 +111,14 @@ AUDIO: fire ambience; a low rising drone under the voice; a whoosh on every cut.
 ### Part 3 (20 to 30s)
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 3 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 3 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Pharma Reactor Explosions" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 3 seconds): a policy document with one line of a peril list highlighted (no readable text).
 Shot 2 (3 to 6 seconds): a silent production line, machines stopped, lights dimmed.
@@ -122,7 +128,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "In India, fire policies usually name explosion as a covered peril. Lost production isn't. That needs separate business interruption cover, so check your schedule."
 
 AUDIO: fire ambience; a low rising drone under the voice; a whoosh on every cut.
@@ -131,12 +137,14 @@ AUDIO: fire ambience; a low rising drone under the voice; a whoosh on every cut.
 ### Part 4 (30 to 40s)
 
 ```
-Create a premium, cinematic, photorealistic vertical video clip, part 4 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
+Create a polished 2D animated explainer vertical video clip, part 4 of 4 of an Instagram Reel. 9:16, 1080 x 1920, 10 seconds.
 
 TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "Pharma Reactor Explosions" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Spell all text exactly as written.
 
-STYLE: cinematic, photorealistic fire footage; deep black backgrounds; high contrast with red, orange and yellow light; a fast cut or camera move every 2 to 3 seconds; no static shots.
-No presenter and no person speaking to camera: b-roll only, with voiceover narration.
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+In this clip THE EXPERT appears in at least one shot, standing in the scene, speaking to the viewer and pointing at what the narration describes; in the other shots his lip-synced voice continues over the scene.
 
 Shot 1 (0 to 2 seconds): an engineer on a phone in a control room, face not visible.
 Shot 2 (2 to 4 seconds): a batch record binder and a temperature log printout on a desk (no readable text).
@@ -148,7 +156,7 @@ IMPACT TEXT: bold red-and-yellow impact typography, centred on screen, punching 
 
 CAPTIONS: burned-in captions of the narration, synchronised word by word, bold white sans-serif with the word being spoken highlighted in yellow, in the lower middle of the screen, above the bottom 25 percent where the Instagram caption sits.
 
-NARRATION (voiceover only): a confident, energetic male narrator with a clear Indian English accent. The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
+NARRATION (spoken by THE EXPERT, lip-synced whenever he is on screen, speaking to the viewer; a confident, energetic male voice with a clear Indian English accent). The narration starts on the very first frame with no silence or lead-in, and runs to the end of the clip. Exact words:
 "Fix 1: call insurers. Keep batch records. Send this to your plant head before 1 reactor costs everything."
 
 AUDIO: fire ambience fading under the question; a whoosh on every cut; a deep bass hit on the end card.

@@ -2,8 +2,9 @@
 
 Each reel is about 30 seconds: three clips of 10 seconds, one Gemini prompt
 per clip. Every prompt carries the same on-screen titles, style, captions, Indian
-English voiceover and (in part 3) the end card, word for word. No frame and
-no presenter: full-screen b-roll throughout. Only the subtitle changes: it
+English voiceover and (in part 3) the end card, word for word. No frame. Every clip is a
+polished 2D animated explainer with THE EXPERT (you), lip-synced and pointing
+at the hazard. Only the subtitle changes: it
 is the topic of that episode.
 
 Title colours: "FIRE CLAIMS DECODED" in amber-gold (#FFB300) with a soft
@@ -14,11 +15,11 @@ fire footage; red is kept for impact words so it never fights the title.
 
 ## How each reel is built
 
-| part | seconds | what happens | presenter |
+| part | seconds | what happens | expert on screen |
 |---|---|---|---|
-| 1 | 0 to 10 | Hook spoken on the first frame with a bass hit, then 2 or 3 real incidents | no |
-| 2 | 10 to 20 | The engineer's "why it happens" | no |
-| 3 | 20 to 30 | Fixes, then the closing question over a single flame in darkness (the series' signature shot), then the end card | no |
+| 1 | 0 to 10 | Hook spoken on the first frame with a bass hit, then 2 or 3 real incidents | yes, at least 1 shot |
+| 2 | 10 to 20 | The engineer's "why it happens" | yes, at least 1 shot |
+| 3 | 20 to 30 | Fixes, then the closing question over a single flame in darkness (the series' signature shot), then the end card | yes, at least 1 shot |
 
 End card on every reel: FIRE CLAIMS DECODED · @fireclaimsdecoded · FOLLOW · 1 FIRE CAUSE EVERY REEL
 
@@ -47,7 +48,9 @@ checked by its linter and /ig-human. Paste it as it is when you post.
 
 ## Before you generate
 
-1. **No photo upload needed.** Every clip is b-roll with voiceover.
+1. **Attach your reference photo with every prompt.** THE EXPERT is drawn
+   from it: clean-shaven, white hard hat, maroon safety jacket, white striped
+   mandarin-collar shirt. Keep the same photo for every clip.
 2. **Check every word Gemini draws.** The prompts ask for the titles,
    impact words, captions and end card. AI video often misspells text. If it
    does, generate without those lines and add the titles, captions (CapCut
@@ -56,7 +59,7 @@ checked by its linter and /ig-human. Paste it as it is when you post.
    what was reported and the sources. Death tolls and causes are often
    revised. Where reports conflict, the script avoids the number.
 4. **No victims' names, no real footage you don't have rights to.** All
-   visuals are generated b-roll.
+   visuals are generated 2D animation.
 5. **Episodes 10, 36, 39, 42 and 48 make insurance points.** They say "can"
    and "check your policy wording" on purpose. Adjust them to the policy
    wordings you know.

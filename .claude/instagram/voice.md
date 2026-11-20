@@ -94,6 +94,18 @@ from ever needing to make a fire insurance claim.
   Describe losses by occupancy type and cause only, not by who or where.
 - **Claims I am not allowed to make:** (not specified; check employer policy)
 
+## Video prompts: default look (use in every Gemini prompt)
+
+Paste both blocks word for word into every video prompt, and tell the user to attach
+the reference photo. The expert is always clean-shaven; never add facial hair.
+
+```
+VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
+
+RECURRING CHARACTER (keep identical in every clip):
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+```
+
 ## Proof I can use
 
 Real numbers, outcomes and stories I am happy to put my name on. The skills will
