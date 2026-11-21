@@ -1,0 +1,60 @@
+/* Fire Claims Decoded: carousel brand system. 1080 x 1350 (4:5). */
+:root{--ink:#0D0D0F;--panel:#17171B;--gold:#FFB300;--fire:#FF4D00;--white:#FFFFFF;--soft:#D6D6DA;--mute:#8E8E96;
+  --disp:'Anton','Noto Sans Devanagari',Impact,sans-serif;--text:'Inter','Noto Sans Devanagari',system-ui,sans-serif;}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#000}
+.slide{position:relative;width:1080px;height:1350px;overflow:hidden;background:var(--ink);color:var(--white);font-family:var(--text);
+  display:flex;flex-direction:column;padding:72px 96px 64px}
+.glow{position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(120% 60% at 50% 118%,rgba(255,77,0,.42),rgba(255,77,0,.10) 45%,transparent 70%),
+             radial-gradient(60% 30% at 100% 0%,rgba(255,179,0,.08),transparent 70%)}
+header,footer,main{position:relative;z-index:1}
+header{display:flex;justify-content:space-between;align-items:center;padding-bottom:28px;border-bottom:2px solid rgba(255,255,255,.12)}
+.mark{display:flex;align-items:center;gap:14px;font-family:var(--disp);font-size:36px;letter-spacing:2px;color:var(--gold)}
+.flame{width:30px;height:40px}
+.count{font-weight:700;font-size:32px;color:var(--mute);letter-spacing:1px}
+main{flex:1;display:flex;flex-direction:column;justify-content:center}
+footer{display:flex;justify-content:space-between;align-items:center;padding-top:26px;border-top:4px solid var(--fire);font-size:32px;font-weight:700}
+.handle{color:var(--soft)}
+.swipe{color:var(--gold);letter-spacing:1px;text-transform:uppercase}
+.gold{color:var(--gold)}
+h1,h2{font-family:var(--disp);font-weight:400;text-transform:uppercase;line-height:1.02;letter-spacing:.5px}
+h2{font-size:100px;margin-bottom:34px}
+.body{font-size:46px;line-height:1.38;color:var(--soft);max-width:860px}
+/* cover */
+.t-cover{padding:0 24px;position:relative}
+.chip{display:inline-block;border:3px solid var(--accent);color:var(--accent);font-weight:900;font-size:32px;text-transform:uppercase;letter-spacing:2px;
+  padding:12px 26px;border-radius:999px;margin-bottom:44px}
+.cover-h{font-size:150px}
+.bar{width:220px;height:14px;background:var(--fire);margin:44px 0 38px}
+.promise{font-size:46px;line-height:1.35;color:var(--soft);max-width:800px;font-weight:500}
+.stamp{position:absolute;right:20px;top:-6px;transform:rotate(8deg);font-family:var(--disp);font-size:44px;letter-spacing:6px;
+  color:var(--fire);border:5px solid var(--fire);padding:6px 22px;opacity:.9}
+/* stat */
+.big{font-family:var(--disp);font-size:300px;line-height:.95;color:var(--gold)}
+.label{font-size:84px;margin:18px 0 34px}
+/* numbered point */
+.num{font-family:var(--disp);font-size:230px;line-height:.9;color:transparent;-webkit-text-stroke:5px var(--gold);margin-bottom:22px}
+.num.sm{font-size:150px}
+/* split, myth */
+.panel{border-radius:22px;padding:30px 36px;margin-top:22px;background:var(--panel);border-left:12px solid var(--gold)}
+.panel p{font-size:42px;line-height:1.35;color:var(--white);font-weight:500}
+.panel.no,.panel.myth{border-left-color:var(--fire)}
+.panel.myth p{color:var(--mute)}
+.ptag{font-weight:900;font-size:34px;letter-spacing:2px;text-transform:uppercase;margin-bottom:10px;color:var(--gold)}
+.panel.no .ptag,.panel.myth .ptag{color:var(--fire)}
+/* recap */
+.recap-h{font-size:120px;color:var(--gold);margin-bottom:30px}
+.check{list-style:none}
+.check li{display:flex;align-items:center;gap:26px;font-size:46px;font-weight:700;padding:20px 0;border-bottom:2px solid rgba(255,255,255,.10)}
+.box{flex:none;width:58px;height:58px;border-radius:12px;background:var(--gold);color:var(--ink);display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:900}
+.disc{font-size:32px;color:var(--mute);margin-top:34px;line-height:1.35}
+/* cta */
+.cta-h{font-size:112px;margin-bottom:40px}
+.acts>div{display:flex;align-items:baseline;gap:24px;padding:18px 0;border-bottom:2px solid rgba(255,255,255,.10)}
+.acts b{font-family:var(--disp);font-weight:400;font-size:64px;color:var(--gold);min-width:250px;letter-spacing:1px}
+.acts span{font-size:38px;color:var(--soft)}
+.lockup{display:flex;align-items:center;gap:22px;margin-top:48px}
+.lockup .flame{width:60px;height:80px}
+.lw{font-family:var(--disp);font-size:66px;color:var(--white);letter-spacing:2px}
+.tag{font-size:34px;color:var(--gold);font-weight:700}

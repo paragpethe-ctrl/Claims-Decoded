@@ -1,0 +1,15 @@
+{
+  "file_no": "01",
+  "category": "rejection",
+  "slides": [
+    {"type": "cover", "chip": "Claim rejection", "title": "5 mistakes that [cut] your claim", "promise": "Most owners find out after the fire. Swipe before yours."},
+    {"type": "stat", "big": "1 DAY", "label": "Late renewal = no cover", "body": "A fire 1 day after expiry isn't covered by that policy. Most claim cuts start with a small, boring mistake."},
+    {"type": "point", "n": "01", "title": "Insuring market price", "body": "Your sum insured should follow rebuild cost, not what you paid. Get it wrong and the claim can be cut."},
+    {"type": "point", "n": "02", "title": "No stock register", "body": "In 2026, India's Supreme Court upheld a full claim rejection where the stock didn't match the books."},
+    {"type": "split", "n": "03", "title": "Self-heating stock", "yes": "Fire from an outside cause, like a short circuit", "no": "Your own cotton, coal or oil cake heating up and burning, unless you add the endorsement"},
+    {"type": "myth", "n": "04", "title": "The empty factory", "myth": "Shut for 2 months? Still covered.", "fact": "Many policies exclude buildings empty for over 30 days. Tell your insurer in writing."},
+    {"type": "point", "n": "05", "title": "Wrong declaration", "body": "Shop on the form, godown in reality? A false declaration can sink the claim. Report every change."},
+    {"type": "recap", "title": "Save this", "items": ["Renew before expiry", "Insure rebuild cost", "Keep a daily stock register", "Endorse self-heating stock", "Report closures over 30 days", "Declare the real use"]},
+    {"type": "cta", "title": "Send this to 1 business owner", "sub": "1 fire cause, 1 claim lesson, every post."}
+  ]
+}
