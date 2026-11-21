@@ -101,8 +101,42 @@ never invent one.
 
 - I am an engineer working in property insurance. My knowledge of fire causes
   comes from that work.
-- (add real, anonymised loss stories here: occupancy, cause, what would have
-  prevented it)
+
+### Claim stories
+
+Real losses from my work, anonymised. This is the content nobody else can copy.
+Skills may only use stories marked **ready**, word for word on the facts, and
+must never add details, numbers or outcomes that are not written here.
+
+**Before a story goes in, it must pass all of these:**
+
+- [ ] No customer, company, brand or person named
+- [ ] No exact address, street, industrial estate or date; city or region only
+      if it cannot identify the customer (otherwise "a town in Gujarat", "2024")
+- [ ] Amounts rounded to a range ("₹20 to 30 lakh"), or left out
+- [ ] Nothing from a claim that is still open or disputed
+- [ ] Allowed under my employer's policy on sharing case knowledge
+- [ ] I would be comfortable if the customer saw the reel
+
+**Copy this card for each story:**
+
+```
+#### Story N: <occupancy> - <cause in 3 to 5 words>
+- Status: draft | ready | used
+- Occupancy: (home, shop, restaurant, godown, factory, office, ...)
+- Where / when: (region and year only, or "not shared")
+- What happened: (2 or 3 plain sentences: how the fire started and spread)
+- Loss: (rounded range, or "not shared")
+- Claim outcome: (paid in full | reduced | rejected | delayed) and the one-line reason
+- Root cause: (the engineer's view: why it started, why it spread)
+- What would have prevented it: (2 to 4 concrete fixes)
+- The claim lesson: (one line the viewer can act on before a loss)
+- Used in: (reel name and date, once posted)
+```
+
+<!-- Add stories below this line. Newest at the top. -->
+
+(none yet)
 
 ## The ask
 
