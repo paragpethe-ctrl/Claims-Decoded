@@ -96,14 +96,17 @@ from ever needing to make a fire insurance claim.
 
 ## Video prompts: default look (use in every Gemini prompt)
 
-Paste both blocks word for word into every video prompt, and tell the user to attach
-the reference photo. The expert is always clean-shaven; never add facial hair.
+Use this exact opening, VISUAL STYLE, TITLES and RECURRING CHARACTER text in every video prompt (set by the user on 22 Nov 2026); only the subtitle changes. Tell the user to attach the reference photo. The expert is always clean-shaven; never add facial hair.
 
 ```
+Create a 10-second vertical video, 9:16, 1080 x 1920, in a clean, colourful Indian illustrated cartoon style (semi-3D, bold outlines, soft shading), like a modern safety-training animation.
+
 VISUAL STYLE: polished 2D animated explainer with thick clean outlines, cel shading, rich saturated colour, bold flat infographic overlays and expressive faces. Warm daylight at first, turning to a dark orange-lit night in the hazard demonstration. The expert is lip-synced, speaks to the viewer, and points at things in the scene. A cut or camera move every 2 to 3 seconds; no static shots.
 
+TITLES (on screen for the full clip, no border or frame around the video): the footage fills the whole 9:16 screen. Near the top, below the top 12 percent of the frame so the Instagram interface never covers it: the title "FIRE CLAIMS DECODED" in bold, condensed sans-serif capitals, warm amber-gold (#FFB300) with a soft dark drop shadow. Directly below it, the subtitle "<subtitle for this clip>" in clean white (#FFFFFF) sentence case, on a slim semi-transparent black strip (60 percent opacity), with a thin red-orange (#FF4D00) accent line under the strip. Both stay perfectly still and identical for the whole clip. Small "@fireclaimsdecoded" in white at the bottom-right corner. Spell all text exactly as written.
+
 RECURRING CHARACTER (keep identical in every clip):
-THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard hat and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
+THE EXPERT (the creator himself): use the attached reference photo as the identity reference. Indian man in his 40s, warm light-brown skin, thick black hair swept back and to the side, broad friendly smile, CLEAN-SHAVEN (no beard, no moustache, no stubble; never add facial hair). Rendered in the illustrated style but clearly recognisable as the man in the photo, with the same face shape, hairline and smile. Wears a white hard helmet and a maroon safety jacket with a small shield badge over his own white vertical-striped mandarin-collar shirt (collar visible), a brown leather wristwatch and a thin gold bracelet on the left wrist; slim clipboard. Face and outfit identical in every shot and in every clip.
 ```
 
 ## Proof I can use
