@@ -1,9 +1,9 @@
 # Fire Claims Decoded: 25 fire-insurance awareness clips (10 seconds each)
 
 Every clip is about fire insurance itself: what to check before you buy a fire policy, which fire causes are covered or excluded, and what to do after a fire so the claim isn't cut or rejected.
+
 - All 25 hooks name the **fire policy, fire claim or insurer**, and every one scores **93.8 to 100** on `/ig-reel` hookscore.
-- All 25 hooks name the **fire policy, fire claim or insurer**, and score **88+ → all 93.8 to 100** on `/ig-reel` hookscore.
-- Narration: Hinglish, 22 to 27 words, fits 10 seconds.
+- Narration: Hinglish, 23 to 27 words, fits 10 seconds.
 - Clip flow: 0–3 s THE EXPERT stops the mistake · 3–6 s the policy rule as an infographic · 6–8 s the fire at night · 8–10 s the right way.
 - Your saved template, word for word; only the subtitle changes. **Attach your reference photo with every prompt.**
 
